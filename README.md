@@ -3,7 +3,9 @@
 
 - 各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用
 - 答案为收集整理，不一定完全正确，欢迎提交你的答案
-- 题目和选项以 ID 从小到大排序，实际答题时顺序可能会随机变动
+- 选项以 ID 从小到大排序，实际答题时顺序可能会随机变动
+- 文字游戏较多，注意题目和选项的细节
+- 祝你们每个人都能天天签到 12 分，早日通过申请审批，解锁 BootLoader
 
 ## 2023.12.01
 
@@ -34,20 +36,292 @@
 		<th>内容</td>
 	</tr>
 	<tr>
+		<td>1482217</td>
+		<td>FASTBOOT模式下如何输出防回滚机制（ANTI）版本号</td>
+		<td>单选题</td>
+		<td>4862237</td>
+		<td>fastboot -w ANTI</td>
+		<td>4862238</td>
+		<td>fastboot -r ANTI</td>
+		<td>4862239</td>
+		<td>fastboot getvar anti</td>
+		<td>4862240</td>
+		<td>fastboot devices</td>
 		<td></td>
 		<td></td>
-		<td>选题</td>
+		<td>4862239</td>
+	</tr>
+	<tr>
+		<td>1481264</td>
+		<td>以下Bootloader锁表述错误的是？</td>
+		<td>单选题</td>
+		<td>4859673</td>
+		<td>正式版切换到开发版必须解锁</td>
+		<td>4859674</td>
+		<td>解锁时需要登录小米账号</td>
+		<td>4859675</td>
+		<td>小米账号需要与手机绑定</td>
+		<td>4859676</td>
+		<td>解锁后系统安全系数会降低</td>
+		<td></td>
+		<td></td>
+		<td>4859673</td>
+	</tr>
+	<tr>
+		<td>1481265</td>
+		<td>下列刷机工具中，属于官方提供给用户的工具是？</td>
+		<td>单选题</td>
+		<td>4859946</td>
+		<td>91助手</td>
+		<td>4859677</td>
+		<td>MiFlash</td>
+		<td>4859678</td>
+		<td>刷机大师</td>
+		<td>4859679</td>
+		<td>线刷宝</td>
+		<td></td>
+		<td></td>
+		<td>4859677</td>
+	</tr>
+	<tr>
+		<td>1481266</td>
+		<td>如何在FASTBOOT命令行内，刷入twrp到boot分区？</td>
+		<td>单选题</td>
+		<td>4859680</td>
+		<td>fastboot flash boot boot.img</td>
+		<td>4859681</td>
+		<td>fastboot flash recovery boot.img</td>
+		<td>4859682</td>
+		<td>fastboot flash update boot.img</td>
+		<td>4859683</td>
+		<td>fastboot flash update recovery boot.img</td>
+		<td></td>
+		<td></td>
+		<td>4859680</td>
+	</tr>
+	<tr>
+		<td>1481268</td>
+		<td>如何烧录img、bin、mbn、elf等镜像文件内容到指定分区？</td>
+		<td>单选题</td>
+		<td>4859688</td>
+		<td>fastboot getvar all &lt;分区名&gt;</td>
+		<td>4859689</td>
+		<td>fastboot boot &lt;内核镜像文件名或路径&gt; &lt;分区名&gt;</td>
+		<td>4859690</td>
+		<td>fastboot flash &lt;镜像路径&gt; &lt;分区名&gt;</td>
+		<td>4859691</td>
+		<td>fastboot flash &lt;分区名&gt; &lt;镜像文件名或路径&gt;</td>
+		<td></td>
+		<td></td>
+		<td>4859691</td>
+	</tr>
+	<tr>
+		<td>1481260</td>
+		<td>以下关于BL解锁刷机的说法中，正确的有</td>
+		<td>多选题</td>
+		<td>4859659</td>
+		<td>刷入第三方TWRP，通常选择刷入到system分区</td>
+		<td>4859660</td>
+		<td>刷入第三方Recovery，数据通常不会丢失</td>
+		<td>4859661</td>
+		<td>擦除cache分区数据，个人数据通常不会丢失</td>
+		<td>4859662</td>
+		<td>Xiaomi/Redmi手机一般长按电源键和音量加键即可进入Recovery</td>
+		<td>4859752</td>
+		<td>线刷刷机前应当备份重要数据</td>
+		<td>4859660,4859661,4859662,4859752</td>
+	</tr>
+	<tr>
+		<td>1481276</td>
+		<td>MTK刷机时，报错4004的意思是</td>
+		<td>单选题</td>
+		<td>4859723</td>
+		<td>ROM文件和手机系统差距太大</td>
+		<td>4859722</td>
+		<td>刷机软件版本不匹配</td>
+		<td>4859721</td>
+		<td>内存损坏</td>
+		<td>4859720</td>
+		<td>驱动问题</td>
+		<td></td>
+		<td></td>
+		<td>4859720</td>
+	</tr>
+	<tr>
+		<td>1481272</td>
+		<td>关于FASTBOOT devices的作用，错误的说法有</td>
+		<td>多选题</td>
+		<td>4859704</td>
+		<td>列出当前已进入FASTBOOT模式，且与PC连接正常的所有设备</td>
+		<td>4859705</td>
+		<td>列出当前已进入Recovery模式，且与PC连接正常的所有设备</td>
+		<td>4859706</td>
+		<td>无响应命令检测</td>
+		<td>4859707</td>
+		<td>检查手机是否已经更新</td>
+		<td></td>
+		<td></td>
+		<td>4859705,4859706,4859707</td>
+	</tr>
+	<tr>
+		<td>1481274</td>
+		<td>以下FASTBOOT基本命令的说法，正确的有</td>
+		<td>多选题</td>
+		<td>4859712</td>
+		<td>fastboot getvar product：输出该机型内部代号名称</td>
+		<td>4859713</td>
+		<td>fastboot oem device-info：输出该设备的所有信息</td>
+		<td>4859714</td>
+		<td>fastboot erase <分区名>：清除手机中所有数据</td>
+		<td>4859715</td>
+		<td>fastboot oem lock：开启BL锁保护</td>
+		<td>4859985</td>
+		<td>fastboot -w：列出当前已进入FASTBOOT模式，且与PC连接正常的所有设备</td>
+		<td>4859712,4859715</td>
+	</tr>
+	<tr>
+		<td>1481275</td>
+		<td>线刷可以用来解决哪些场景问题？</td>
+		<td>多选题</td>
+		<td>4859716</td>
+		<td>希望降级回到之前的系统版本</td>
+		<td>4859717</td>
+		<td>希望彻底删除数据，保护隐私</td>
+		<td>4859718</td>
+		<td>手机无法开机但已解锁</td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
+		<td>4859716,4859717,4859718</td>
+	</tr>
+	<tr>
+		<td>1481277</td>
+		<td>关于JVM的垃圾回收机制说法正确的是</td>
+		<td>多选题</td>
+		<td>4859724</td>
+		<td>Serial Collector适合内存有限的情况</td>
+		<td>4859725</td>
+		<td>CMS Collctor在Old区回收暂停时间长</td>
+		<td>4859726</td>
+		<td>Parallel Collector效率低</td>
+		<td>4859727</td>
+		<td>Serial Collector回收速度慢</td>
 		<td></td>
 		<td></td>
+		<td>4859724,4859727</td>
+	</tr>
+	<tr>
+		<td>1481270</td>
+		<td>如何退出FASTBOOT模式？</td>
+		<td>多选题</td>
+		<td>4859696</td>
+		<td>在FASTBOOT模式下长按电源键约7-15秒重启进入系统</td>
+		<td>4859697</td>
+		<td>通过“fastboot reboot”及“fastboot oem poweroff”命令重启进入系统或拔线关机</td>
+		<td>4859698</td>
+		<td>部分机型在FASTBOOT模式下不插入数据线，5分钟到半小时内会自动重启或关机</td>
+		<td>4859947</td>
+		<td>反复插拔数据线5次</td>
 		<td></td>
 		<td></td>
+		<td>4859696,4859697,4859698</td>
+	</tr>
+	<tr>
+		<td>1481278</td>
+		<td>FASTBOOT模式通常用于哪些操作？</td>
+		<td>多选题</td>
+		<td>4859728</td>
+		<td>解锁引导加载程序</td>
+		<td>4859729</td>
+		<td>更新设备驱动程序</td>
+		<td>4859730</td>
+		<td>启用设备无线功能</td>
+		<td>4859731</td>
+		<td>刷写设备固件</td>
+		<td>4859984</td>
+		<td>大量文件数据传输</td>
+		<td>4859728,4859731</td>
+	</tr>
+	<tr>
+		<td>1481279</td>
+		<td>安卓系统中负责启动应用，管理应用生命周期的系统服务是</td>
+		<td>单选题</td>
+		<td>4859732</td>
+		<td>SystemManager</td>
+		<td>4859733</td>
+		<td>ApplicationManagerService</td>
+		<td>4859734</td>
+		<td>SystemServer</td>
+		<td>4859735</td>
+		<td>ActivityManagerService</td>
 		<td></td>
 		<td></td>
+		<td>4859735</td>
+	</tr>
+	<tr>
+		<td>1481367</td>
+		<td>以下哪条命令可间接直观检查出设备是否正常连接？</td>
+		<td>单选题</td>
+		<td>4859980</td>
+		<td>fastboot getvar all</td>
+		<td>4859981</td>
+		<td>fastboot getvar product</td>
+		<td>4859982</td>
+		<td>fastboot devices</td>
+		<td>4859983</td>
+		<td>fastboot getvar anti</td>
 		<td></td>
+		<td></td>
+		<td>4859982</td>
+	</tr>
+	<tr>
+		<td>1482215</td>
+		<td>FastBoot命令有哪些类型</td>
+		<td>多选题</td>
+		<td>4862229</td>
+		<td>执行动作类</td>
+		<td>4862230</td>
+		<td>数据备份类</td>
+		<td>4862231</td>
+		<td>输出信息类</td>
+		<td>4862232</td>
+		<td>擦写数据类</td>
+		<td></td>
+		<td></td>
+		<td>4862229,4862231,4862232</td>
+	</tr>
+	<tr>
+		<td>1482216</td>
+		<td>执行以下哪些操作需要解Bootloader锁？</td>
+		<td>多选题</td>
+		<td>4862233</td>
+		<td>卡刷方法刷机</td>
+		<td>4862234</td>
+		<td>FASTBOOT模式下线刷</td>
+		<td>4862235</td>
+		<td>ROOT权限</td>
+		<td>4862236</td>
+		<td>线刷开发版ROM</td>
+		<td></td>
+		<td></td>
+		<td>4862234,4862235,4862236</td>
+	</tr>
+	<tr>
+		<td>1481262</td>
+		<td>关于9008模式刷机说法不正确的有？</td>
+		<td>多选题</td>
+		<td>4859667</td>
+		<td>手机必须搭载高通或联发科处理器才能使用9008模式刷机</td>
+		<td>4859668</td>
+		<td>9008模式下的刷机会比fastboot模式下的刷机更加彻底</td>
+		<td>4859669</td>
+		<td>小米仅部分手机可使用9008模式</td>
+		<td>4859941</td>
+		<td>9008模式仅限手机可正常进入系统时才可使用</td>
+		<td></td>
+		<td></td>
+		<td>4859941,4859667</td>
 	</tr>
 </table>
 
@@ -350,22 +624,6 @@
 		<td></td>
 		<td></td>
 		<td>4862234,4862235,4862236</td>
-	</tr>
-	<tr>
-		<td>1482217</td>
-		<td>FASTBOOT模式下如何输出防回滚机制（ANTI）版本号</td>
-		<td>单选题</td>
-		<td>4862237</td>
-		<td>fastboot -w ANTI</td>
-		<td>4862238</td>
-		<td>fastboot -r ANTI</td>
-		<td>4862239</td>
-		<td>fastboot getvar anti</td>
-		<td>4862240</td>
-		<td>fastboot devices</td>
-		<td></td>
-		<td></td>
-		<td>4862239</td>
 	</tr>
 </table>
 
