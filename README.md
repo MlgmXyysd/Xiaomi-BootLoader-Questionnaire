@@ -126,10 +126,10 @@
 		<td>4859661</td>
 		<td>擦除cache分区数据，个人数据通常不会丢失</td>
 		<td>4859662</td>
-		<td>Xiaomi/Redmi手机一般长按电源键和音量加键即可进入Recovery</td>
+		<td>Xiaomi/Redmi手机一般长按音量减键和音量加键即可进入Recovery</td>
 		<td>4859752</td>
 		<td>线刷刷机前应当备份重要数据</td>
-		<td>4859660,4859661,4859662,4859752</td>
+		<td>4859660,4859661,4859752</td>
 	</tr>
 	<tr>
 		<td>1481276</td>
@@ -165,7 +165,7 @@
 	</tr>
 	<tr>
 		<td>1481274</td>
-		<td>以下FASTBOOT基本命令的说法，正确的有</td>
+		<td>以下FASTBOOT基本命令的说法，不正确的有</td>
 		<td>多选题</td>
 		<td>4859712</td>
 		<td>fastboot getvar product：输出该机型内部代号名称</td>
@@ -177,7 +177,7 @@
 		<td>fastboot oem lock：开启BL锁保护</td>
 		<td>4859985</td>
 		<td>fastboot -w：列出当前已进入FASTBOOT模式，且与PC连接正常的所有设备</td>
-		<td>4859712,4859715</td>
+		<td>4859713,4859714,4859985</td>
 	</tr>
 	<tr>
 		<td>1481275</td>
