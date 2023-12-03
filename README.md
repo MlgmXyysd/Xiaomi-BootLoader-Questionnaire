@@ -6,6 +6,7 @@
 - 选项以 ID 从小到大排序，实际答题时顺序可能会随机变动
 - 文字游戏较多，注意题目和选项的细节
 - 祝你们每个人都能天天签到 12 分，早日通过申请审批，解锁 BootLoader
+- 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)
 
 ## 2023.12.01
 
