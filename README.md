@@ -8,6 +8,15 @@
 - 祝你们每个人都能天天签到 12 分，早日通过申请审批，解锁 BootLoader
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)
 
+## 2023.12.06
+- 答题链接(更新): https://m.beehive.miui.com/NhTPAE5m-ZurhVKqMhvHCQ/
+- 题目数量: 18
+- 合格分数: 93
+- 时间限制: 6 分钟，超时结算已回答题目的分数
+- 注(更新): 已答题账号在 7 天内无法重新答题；请务必通过“小米社区 App-内测中心-BL 解锁申请-去答题”进入答题界面并完成答题，未使用小米社区 App 进行答题将视为无效答题，无法展示成绩，影响后续申请。
+
+- 整理中
+
 ## 2023.12.01
 
 - 答题链接: https://m.beehive.miui.com/Wc2BAFI5U3xqe_bYlNMT2g/
