@@ -10,6 +10,7 @@
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
 
 ## 2023.12.06
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-7784763)
 - 答题链接(更新): https://m.beehive.miui.com/NhTPAE5m-ZurhVKqMhvHCQ/
 - 题目数量: 18
 - 合格分数: 93
