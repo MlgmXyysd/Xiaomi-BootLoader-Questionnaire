@@ -9,6 +9,324 @@
 - 祝你们每个人都能天天签到 12 分，早日通过申请审批，解锁 BootLoader。
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
 
+## 2023.12.07
+- 暂无答案和题目解析
+- 答题链接: https://m.beehive.miui.com/NhTPAE5m-ZurhVKqMhvHCQ/
+- 题目数量: 18
+- 合格分数: 93
+- 时间限制: 6 分钟，超时结算已回答题目的分数
+- 注: 部分题目和选项的顺序和细节描述可能会随机变动，请仔细检查后选择；已答题账号在 7 天内无法重新答题；请务必通过“小米社区 App-内测中心-BL 解锁申请-去答题”进入答题界面并完成答题，未使用小米社区 App 进行答题将视为无效答题，无法展示成绩，影响后续申请。
+
+<table>
+	<tr align="center">
+		<th rowspan="2">题目 ID</td>
+		<th rowspan="2">题目内容</td>
+		<th rowspan="2">类型</td>
+		<th colspan="10">选项</td>
+		<th rowspan="2">答案</td>
+	</tr>
+	<tr align="center">
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+	</tr>
+	<tr>
+		<td>1489752</td>
+		<td>关于BL解锁说法正确的是</td>
+		<td>多选题</td>
+		<td>4883294</td>
+		<td>未答题或未达到答题分数线时，每7天可重新参与一次答题</td>
+		<td>4883295</td>
+		<td>参与答题必须从“小米社区App-内测中心-BL解锁申请-去答题”进入，其他方式进入答题将无法展示分数，影响后续申请</td>
+		<td>4883296</td>
+		<td>本周答题的通过分数线为92分以上（不含92分）</td>
+		<td>4883297</td>
+		<td>租借/转让/借用BL解锁资格，属于违规行为，将被永久封号</td>
+		<td>4883298</td>
+		<td>如果本次BL解锁申请通过，所获得的3次解锁资格，有效期至2024年12月31日</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1483298</td>
+		<td>下列说法正确的有</td>
+		<td>多选题</td>
+		<td>4864363</td>
+		<td>刷入系统版本与原系统差异较大时，通常建议执行三清</td>
+		<td>4864364</td>
+		<td>对于刷入系统包的操作，通常建议执行三清</td>
+		<td>4864365</td>
+		<td>三清后不刷入系统，通常无法开机进系统</td>
+		<td>4864366</td>
+		<td>﻿双清通常是指清除Data、Cache</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482825</td>
+		<td>fastboot oem reboot-recovery的作用是</td>
+		<td>单选题</td>
+		<td>4863709</td>
+		<td>退出FASTBOOT模式并重启进入Recovery模式</td>
+		<td>4863710</td>
+		<td>退出FASTBOOT模式并重启进入系统</td>
+		<td>4863711</td>
+		<td>退出FASTBOOT模式并重启进入EDL模式</td>
+		<td>4863712</td>
+		<td>退出FASTBOOT模式并关机</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482818</td>
+		<td>以下关于安卓系统的说法不正确的是</td>
+		<td>多选题</td>
+		<td>4863680</td>
+		<td>刷机过程中出现Flash antirbpass error报错，不可以直接修改脚本强刷</td>
+		<td>4863681</td>
+		<td>刷机过程中如果变砖，可以通过9008模式刷机救回MTK平台的机器 </td>
+		<td>4863682</td>
+		<td>刷机过程中出现Missmatching image and device报错，可以直接修改脚本强刷，不会变砖</td>
+		<td>4863683</td>
+		<td>刷机过程中碰到数据线可能导致报错，重新刷机即可</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482890</td>
+		<td>关于MTK刷机常见报错的原因不匹配的有</td>
+		<td>多选题</td>
+		<td>4863814</td>
+		<td>S_DA_EMMC_FLASH_NOT_FOUND：手机内存己经损坏</td>
+		<td>4863815</td>
+		<td>S_FT_NEED_DOWNLOAD_ALL_FAIL：目标ROM文件和手机的系统差距过大</td>
+		<td>4863816</td>
+		<td>S_BROM_CMD_STARTCMD_FAIL：没有加载好刷机包的文件</td>
+		<td>4863817</td>
+		<td>S_UNSUPPORTED_OPERATION：已存在同名程序</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482824</td>
+		<td>输入“adb logcat”后，出现“waiting for device”信息，可能的原因是</td>
+		<td>多选题</td>
+		<td>4863705</td>
+		<td>﻿ADB驱动程序没有正确安装</td>
+		<td>4863706</td>
+		<td>设备没有连接到计算机</td>
+		<td>4863707</td>
+		<td>﻿在线ota升级后没有自动双清</td>
+		<td>4863708</td>
+		<td>安装包的签名不一致</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482819</td>
+		<td>下列关于JVM垃圾回收机制的说法不正确的有</td>
+		<td>多选题</td>
+		<td>4863684</td>
+		<td>Parallel Collector适合内存有限的情况</td>
+		<td>4863685</td>
+		<td>G1垃圾回收器作为分代收集器，区分年轻代和老年代</td>
+		<td>4863686</td>
+		<td>G1垃圾回收器的设计原则是收集尽可能多的垃圾</td>
+		<td>4863736</td>
+		<td>G1垃圾回收器将堆内存划分为多个大小不等的Region</td>
+		<td>4878322</td>
+		<td>G1垃圾回收器采用的是分布式的垃圾收集器</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482820</td>
+		<td>下列说法正确的有</td>
+		<td>多选题</td>
+		<td>4863688</td>
+		<td>Android 8或更高版本的设备中，APK文件中包含运行所需全部资源，运行应用实际上是在运行APK</td>
+		<td>4863689</td>
+		<td>Android 7及更低版本的设备中，同一APK文件不可以安装到所有Android系统的设备上</td>
+		<td>4863690</td>
+		<td>Android 8或更高版本的设备中，用户必须授予权限，系统才能从应用商店以外的来源安装应用</td>
+		<td>4863692</td>
+		<td>Android 7及更低版本的设备中，不使用JIT/AOT混合编译模式</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482811</td>
+		<td>下列刷机工具中，不属于官方提供给用户的工具是？</td>
+		<td>多选题</td>
+		<td>4863652</td>
+		<td>MIUI一键刷机</td>
+		<td>4863653</td>
+		<td>刷机大师</td>
+		<td>4863654</td>
+		<td>线刷宝</td>
+		<td>4863655</td>
+		<td>91助手</td>
+		<td>4883288</td>
+		<td>MiFlash</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482809</td>
+		<td>下列说法错误的有？</td>
+		<td>多选题</td>
+		<td>4863644</td>
+		<td>搭载Qualcomm的手机可以使用EDL刷机</td>
+		<td>4863645</td>
+		<td>EDL刷机仅适用于小米14系列和Redmi K70系列之前发布的手机</td>
+		<td>4863646</td>
+		<td>EDL刷机不需要进入Fastboot模式后使用</td>
+		<td>4863647</td>
+		<td>在没有root的情况下可以安装Magisk</td>
+		<td>4884823</td>
+		<td>FASTBOOT模式下，通过fastboot -r ANTI可以输出防回滚机制（ANTI）版本号</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482821</td>
+		<td>安卓系统中负责启动应用，管理应用生命周期的系统服务是</td>
+		<td>单选题</td>
+		<td>4863693</td>
+		<td>ActivityManagerSystem</td>
+		<td>4863694</td>
+		<td>ActivitySystemManager</td>
+		<td>4863695</td>
+		<td>ActivityManagerService</td>
+		<td>4863696</td>
+		<td>ApplicationManagerService</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482808</td>
+		<td>以下关于BL解锁刷机的说法中，正确的有</td>
+		<td>多选题</td>
+		<td>4863640</td>
+		<td>刷入第三方Recovery，个人数据通常会丢失</td>
+		<td>4863641</td>
+		<td>擦除cache分区数据，个人数据通常不会丢失</td>
+		<td>4863642</td>
+		<td>Xiaomi/Redmi手机，一般同时按住音量上键和下键可以进入Recovery</td>
+		<td>4863643</td>
+		<td>线刷刷机前，无需备份重要数据</td>
+		<td>4884841</td>
+		<td>手机如果只能进入FASTBOOT，可能是引导程序损毁</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482813</td>
+		<td>如何烧录img、bin、mbn、elf等镜像文件内容到指定分区？</td>
+		<td>单选题</td>
+		<td>4863660</td>
+		<td>fastboot boot&lt;镜像文件名或路径&gt; &lt;分区名&gt;</td>
+		<td>4863661</td>
+		<td>fastboot boot &lt;分区名&gt; &lt;镜像文件名或路径&gt;</td>
+		<td>4863662</td>
+		<td>fastboot flash &lt;镜像文件名或路径&gt; &lt;分区名&gt;</td>
+		<td>4863663</td>
+		<td>fastboot flash &lt;分区名&gt; &lt;镜像文件名或路径&gt;</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482817</td>
+		<td>线刷可以用来解决哪些场景问题？</td>
+		<td>多选题</td>
+		<td>4863677</td>
+		<td>降级回到之前的系统版本</td>
+		<td>4863678</td>
+		<td>彻底删除设备数据</td>
+		<td>4863679</td>
+		<td>解决已解锁手机无法开机的问题</td>
+		<td>4878307</td>
+		<td>恢复误删除的数据</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482822</td>
+		<td>关于Android安全策略相关内容，以下说法错误的是</td>
+		<td>多选题</td>
+		<td>4863697</td>
+		<td>Android的安全策略基于DAC+Sandbox，因此root用户不受任何限制，可以执行任意操作</td>
+		<td>4863698</td>
+		<td>在正常情况下，所有非system分区的APP运行时的UID不是完全一样的</td>
+		<td>4863699</td>
+		<td>Android系统通过加密保护用户数据，Android 10或更高版本的设备使用全盘加密</td>
+		<td>4863700</td>
+		<td>Android系统使用TEE来保护极度敏感的数据，解锁BootLoader后可能导致TEE熔断</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482814</td>
+		<td>关于AndroidManifest.xml中的manifest标签，以下说法不正确的是</td>
+		<td>多选题</td>
+		<td>4863664</td>
+		<td>它声明应用程序特定的属性</td>
+		<td>4863665</td>
+		<td>它可以被嵌套在application标签内</td>
+		<td>4863666</td>
+		<td>它声明组件特定的属性</td>
+		<td>4863667</td>
+		<td>这是AndroidManifest.xml中必须的标签</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482816</td>
+		<td>下列指令对应正确的有</td>
+		<td>多选题</td>
+		<td>4863672</td>
+		<td>fastboot getvar code：输出该机型内部代号名称</td>
+		<td>4863673</td>
+		<td>fastboot oem device-info：输出当前BL锁状态</td>
+		<td>4863674</td>
+		<td>fastboot erase &lt;分区名&gt;：擦除分区内数据</td>
+		<td>4863675</td>
+		<td>fastboot oem lock：解锁设备</td>
+		<td>4863676</td>
+		<td>fastboot -w：擦除设备上所有数据</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td>1482810</td>
+		<td>下列说法不正确的有</td>
+		<td>多选题</td>
+		<td>4863648</td>
+		<td>正式版切换到开发版通常不需要解锁</td>
+		<td>4863649</td>
+		<td>解锁时需要登录小米账号</td>
+		<td>4863650</td>
+		<td>解锁时小米账号不需要与手机绑定</td>
+		<td>4863651</td>
+		<td>解锁后系统安全系数不会降低</td>
+		<td></td>
+		<td></td>
+		<td>-</td>
+	</tr>
+</table>
+
 ## 2023.12.06
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-7784763)
 - 答题链接(更新): https://m.beehive.miui.com/NhTPAE5m-ZurhVKqMhvHCQ/
