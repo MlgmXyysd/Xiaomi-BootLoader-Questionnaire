@@ -10,13 +10,14 @@
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
 
 ## 2023.12.07
-- 暂无答案和题目解析
+-  [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-7790915)
 - 答题链接: https://m.beehive.miui.com/NhTPAE5m-ZurhVKqMhvHCQ/
 - 题目数量: 18
 - 合格分数: 93
 - 每题分数: 8
 - 时间限制: 6 分钟，超时结算已回答题目的分数
 - 注: 部分题目和选项的顺序和细节描述可能会随机变动，请仔细检查后选择；已答题账号在 7 天内无法重新答题；请务必通过“小米社区 App-内测中心-BL 解锁申请-去答题”进入答题界面并完成答题，未使用小米社区 App 进行答题将视为无效答题，无法展示成绩，影响后续申请。
+- 提示(更新): 题目 1483298 的正确答案之一 4864364 存在误导用户行为，请参见「题目解析」。
 
 <table>
 	<tr align="center">
@@ -52,7 +53,7 @@
 		<td>租借/转让/借用BL解锁资格，属于违规行为，将被永久封号</td>
 		<td>4883298</td>
 		<td>如果本次BL解锁申请通过，所获得的3次解锁资格，有效期至2024年12月31日</td>
-		<td>-</td>
+		<td>4883294,4883295,4883296,4883297,4883298</td>
 	</tr>
 	<tr>
 		<td>1483298</td>
@@ -68,7 +69,7 @@
 		<td>﻿双清通常是指清除Data、Cache</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4864364,4864366</td>
 	</tr>
 	<tr>
 		<td>1482825</td>
@@ -84,7 +85,7 @@
 		<td>退出FASTBOOT模式并关机</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863709</td>
 	</tr>
 	<tr>
 		<td>1482818</td>
@@ -100,7 +101,7 @@
 		<td>刷机过程中碰到数据线可能导致报错，重新刷机即可</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863681,4863682</td>
 	</tr>
 	<tr>
 		<td>1482890</td>
@@ -116,7 +117,7 @@
 		<td>S_UNSUPPORTED_OPERATION：已存在同名程序</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863814,4863817</td>
 	</tr>
 	<tr>
 		<td>1482824</td>
@@ -132,7 +133,7 @@
 		<td>安装包的签名不一致</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863705,4863706</td>
 	</tr>
 	<tr>
 		<td>1482819</td>
@@ -148,7 +149,7 @@
 		<td>G1垃圾回收器将堆内存划分为多个大小不等的Region</td>
 		<td>4878322</td>
 		<td>G1垃圾回收器采用的是分布式的垃圾收集器</td>
-		<td>-</td>
+		<td>4863684,4863685,4863736</td>
 	</tr>
 	<tr>
 		<td>1482820</td>
@@ -164,7 +165,7 @@
 		<td>Android 7及更低版本的设备中，不使用JIT/AOT混合编译模式</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863690,4863692</td>
 	</tr>
 	<tr>
 		<td>1482811</td>
@@ -180,7 +181,7 @@
 		<td>91助手</td>
 		<td>4883288</td>
 		<td>MiFlash</td>
-		<td>-</td>
+		<td>4863652,4863653,4863654,48636525</td>
 	</tr>
 	<tr>
 		<td>1482809</td>
@@ -196,7 +197,7 @@
 		<td>在没有root的情况下可以安装Magisk</td>
 		<td>4884823</td>
 		<td>FASTBOOT模式下，通过fastboot -r ANTI可以输出防回滚机制（ANTI）版本号</td>
-		<td>-</td>
+		<td>4863645,4884823</td>
 	</tr>
 	<tr>
 		<td>1482821</td>
@@ -212,7 +213,7 @@
 		<td>ApplicationManagerService</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863695</td>
 	</tr>
 	<tr>
 		<td>1482808</td>
@@ -228,7 +229,7 @@
 		<td>线刷刷机前，无需备份重要数据</td>
 		<td>4884841</td>
 		<td>手机如果只能进入FASTBOOT，可能是引导程序损毁</td>
-		<td>-</td>
+		<td>4863641,4884841</td>
 	</tr>
 	<tr>
 		<td>1482813</td>
@@ -244,7 +245,7 @@
 		<td>fastboot flash &lt;分区名&gt; &lt;镜像文件名或路径&gt;</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863663</td>
 	</tr>
 	<tr>
 		<td>1482817</td>
@@ -260,7 +261,7 @@
 		<td>恢复误删除的数据</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863677,4863678,4863679</td>
 	</tr>
 	<tr>
 		<td>1482822</td>
@@ -276,7 +277,7 @@
 		<td>Android系统使用TEE来保护极度敏感的数据，解锁BootLoader后可能导致TEE熔断</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863697,4863699</td>
 	</tr>
 	<tr>
 		<td>1482814</td>
@@ -292,7 +293,7 @@
 		<td>这是AndroidManifest.xml中必须的标签</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863665,4863666</td>
 	</tr>
 	<tr>
 		<td>1482816</td>
@@ -308,7 +309,7 @@
 		<td>fastboot oem lock：解锁设备</td>
 		<td>4863676</td>
 		<td>fastboot -w：擦除设备上所有数据</td>
-		<td>-</td>
+		<td>4863673,4863674,4863676</td>
 	</tr>
 	<tr>
 		<td>1482810</td>
@@ -324,7 +325,7 @@
 		<td>解锁后系统安全系数不会降低</td>
 		<td></td>
 		<td></td>
-		<td>-</td>
+		<td>4863650,4863651</td>
 	</tr>
 </table>
 
