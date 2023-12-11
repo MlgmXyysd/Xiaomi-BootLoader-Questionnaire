@@ -20,6 +20,27 @@
 - 提示(更新): 题目 1482820 的选项之一 4863692 存在误导用户行为，请参见「题目解析」。
 
 <table>
+	<tr align="center">
+		<th rowspan="2">题目 ID</td>
+		<th rowspan="2">题目内容</td>
+		<th rowspan="2">类型</td>
+		<th colspan="12">选项</td>
+		<th rowspan="2">答案</td>
+	</tr>
+	<tr align="center">
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+	</tr>
 	<tr>
 		<td>1489752</td>
 		<td>关于BL解锁说法正确的是</td>
