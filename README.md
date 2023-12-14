@@ -8,6 +8,7 @@
 - 文字游戏较多，注意题目和选项的细节。
 - 祝你们每个人都能天天签到 12 分，早日通过申请审批，解锁 BootLoader。
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
+- 新增答题开放时间限制：工作日上午 10 点 - 下午 18 点（法定节假日为答题系统维护时间），还请合理安排答题时间。答题成绩每周三上午 10:59 失效，如答题通过，请务必在周三中午 11 点前完成申请，避免成绩失效影响申请。
 
 ## 2023.12.13
 -  [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-7845331)
