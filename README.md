@@ -1,5 +1,5 @@
 # Xiaomi-BootLoader-Questionnaire
-小米 BootLoader《解锁资格答题测试》更新记录 $$2^r >= m + r + 1$$
+小米 BootLoader《解锁资格答题测试》更新记录
 
 - 本记录**不是**小米官方统计项目。应 [数据删除] 要求，为提高用户知识水平，添加 [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4)。
 - 各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。
