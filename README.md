@@ -157,7 +157,7 @@
 		<td>fastboot getvar all：输出当前BL锁状态（非MTK）</td>
 		<td>4926279</td>
 		<td>fastboot getvar product：输出该机型内部代号名称</td>
-		<td>4924892,4924894,4926279</td>
+		<td>4924894,4926279</td>
 	</tr>
 	<tr>
 		<td>1501806</td>
