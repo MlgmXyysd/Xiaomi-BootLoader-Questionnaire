@@ -13,6 +13,406 @@
 ## Notice for Global users
 - The repository is currently only available for Xiaomi HyperOS devices in the China (Mainland) region. When the international region unlocking rules are updated, we will synchronize the update as much as possible if the questionnaire requirement exists. Please be patient and wait for Xiaomi to announce it.
 
+## 2023.12.27
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-7954161)
+- 答题链接(更新): https://m.beehive.miui.com/NbeZO6WNvSEZFDDw2zuq-A/
+- 题目数量: 20
+- 合格分数: 86
+- 时间限制: 10 分钟，超时结算已回答题目的分数
+- 得分有效期(更新): 2023 年 12 月 27 日上午 11:00 - 2024 年 1 月 2 日下午 18:00
+- 注: 社区等级低于 5 级无法答题，且答题后不记录、不展示是否合格和得分；部分题目和选项的顺序和细节描述可能会随机变动，请仔细检查后选择；已答题账号在 7 天内无法重新答题；用户若出现下列情形，将无法通过解锁审核: 1) 在社交媒介恶意诋毁、谩骂、造谣等; 2) 出现被判定为作弊的行为; 3) 不填写申请理由、或使用AI生成申请理由、或申请理由出现过辱骂威胁等内容; 4) 其他违反小米账号使用协议的相关情形。
+- 提示: 题目 1508232 的选项之一 4948259 描述不清，答案存疑，请参见「题目解析」；因小米不再对 5 级以下的账号登记和展示得分，无法再确定题目**在小米那边**的正确答案是什么（小米的题目/选项中含有答案出错/不合理/与现有文档不符，误导用户的描述），不保证所给答案为满分答案。
+- 官方提示: 
+  1. 请务必通过“小米社区 App-内测中心-BL 解锁申请-去答题”进入本次答题界面并完成答题，未使用小米社区 App 进行答题将视为无效答题，无法展示成绩;
+  2. 等级未达 5 段，无法展示成绩;
+  3. 答题超时提交，无法展示成绩;
+  4. “代答”是违规行为，为避免您的经济损失，请勿购买相关“代答服务”;
+  5. 答题分数仅当期有效，超过当期再次申请时需要重新答题，敬请知悉。
+
+<table>
+	<tr align="center">
+		<th rowspan="2">题目 ID</td>
+		<th rowspan="2">题目内容</td>
+		<th rowspan="2">类型</td>
+		<th colspan="12">选项</td>
+		<th rowspan="2">答案</td>
+	</tr>
+	<tr align="center">
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+	</tr>
+	<tr>
+		<td>1508224</td>
+		<td>关于BL解锁说法正确的是</td>
+		<td>多选题</td>
+		<td>4948220</td>
+		<td>未答题或未达到答题分数线时，每7天可重新参与一次答题</td>
+		<td>4948221</td>
+		<td>参与答题必须从“小米社区App-内测中心-BL解锁申请-去答题”进入，其他方式进入答题将无法展示分数，影响后续申请</td>
+		<td>4948222</td>
+		<td>本期答题的通过分数线为85分以上（不含85分）</td>
+		<td>4948223</td>
+		<td>租借/转让/借用BL解锁资格、“代答”等行为均属违规</td>
+		<td>4948224</td>
+		<td>如果本次BL解锁申请通过，所获得的3次解锁资格，有效期至2024年12月31日</td>
+		<td>4948225</td>
+		<td>BL解锁名额充足，满足申请条件后即可申请</td>
+		<td>4948220,4948221,4948222,4948223,4948224,4948225</td>
+	</tr>
+	<tr>
+		<td>1508225</td>
+		<td>已满足BL解锁申请条件，但申请后被拒绝的原因，下列说法正确的有</td>
+		<td>多选题</td>
+		<td>4948226</td>
+		<td>在社交媒介恶意诋毁、谩骂、造谣等</td>
+		<td>4948227</td>
+		<td>出现被判定为作弊的行为</td>
+		<td>4948228</td>
+		<td>不填写申请理由、或使用AI生成申请理由、或申请理由出现过辱骂威胁等内容</td>
+		<td>4948229</td>
+		<td>其他违反小米账号使用协议的相关情形</td>
+		<td>4948230</td>
+		<td>确认无任何违规情形，被拒绝后可尝试再次申请</td>
+		<td></td>
+		<td></td>
+		<td>4948226,4948227,4948228,4948229,4948230</td>
+	</tr>
+	<tr>
+		<td>1508226</td>
+		<td>BL解锁面向发烧友和开发者开放，因此在资格筛选时，会考察是否符合发烧友的特质。下面关于发烧友的特质，说法正确的有</td>
+		<td>多选题</td>
+		<td>4948231</td>
+		<td>发烧友指的是对某一领域极度热爱，并对此领域的产品进行深入研究</td>
+		<td>4948232</td>
+		<td>发烧友具备探究精神，因此在遇到不了解的问题时，会在合理范围内主动探寻答案，但不会寻求不正当“捷径”或采用违规方式</td>
+		<td>4948233</td>
+		<td>发烧友具备坚韧不拔的品质，因此在遇到失败或挫折时，会不断尝试和努力，但不会去造谣、诋毁</td>
+		<td>4948234</td>
+		<td>发烧友具备学习精神，因此在遇到新鲜事物或新知识时，会乐于学习和钻研，但不会肆意谩骂</td>
+		<td>4948235</td>
+		<td>发烧友具备分享精神，因此在有一些好的知识或经验时，会积极分享和交流，但不会去利用“资源”去“谋利”，更不会将获得的“资源”去“转租/转售”</td>
+		<td></td>
+		<td></td>
+		<td>4948231,4948232,4948233,4948234,4948235</td>
+	</tr>
+	<tr>
+		<td>1508227</td>
+		<td>MTK刷机的报错，原因匹配的有</td>
+		<td>多选题</td>
+		<td>4948236</td>
+		<td>S_UNSUPPORTED_OPERATION：已存在同名的程序</td>
+		<td>4948237</td>
+		<td>S_DA_EMMC_FLASH_NOT_FOUND：手机的内存己经损坏</td>
+		<td>4948238</td>
+		<td>S_FT_NEED_DOWNLOAD_ALL_FAIL：目标ROM文件和手机系统差距过大</td>
+		<td>4948239</td>
+		<td>S_BROM_CMD_STARTCMD_FAIL：没有加载好刷机包文件</td>
+		<td>4948240</td>
+		<td>S_CHIP_TYPE_NOT_MATCH：文件类型不匹配</td>
+		<td></td>
+		<td></td>
+		<td>4948238,4948239</td>
+	</tr>
+	<tr>
+		<td>1508228</td>
+		<td>以下FASTBOOT基本命令，对应正确的有</td>
+		<td>多选题</td>
+		<td>4948241</td>
+		<td>fastboot flashing unlock：获取root权限</td>
+		<td>4948242</td>
+		<td>fastboot oem device-info：输出该设备的所有信息</td>
+		<td>4948243</td>
+		<td>fastboot oem poweroff：清除手机中所有数据后关机</td>
+		<td>4948244</td>
+		<td>fastboot reboot：重启手机</td>
+		<td>4948245</td>
+		<td>fastboot getvar all：输出当前BL锁状态（非MTK）</td>
+		<td>4948246</td>
+		<td>fastboot getvar product：输出该机型内部代号名称</td>
+		<td>4948244,4948246</td>
+	</tr>
+	<tr>
+		<td>1508229</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>4948247</td>
+		<td>小米所有手机均可使用9008模式</td>
+		<td>4948248</td>
+		<td>如果同一台手机已经安装一个高versionCode的客户端版本，则无法安装同包名的低versionCode客户端</td>
+		<td>4948249</td>
+		<td>BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行</td>
+		<td>4948250</td>
+		<td>RBAC模型同时具有强制访问控制和自主访问控制属性</td>
+		<td>4948251</td>
+		<td>网桥可以有选择地转发数据帧</td>
+		<td></td>
+		<td></td>
+		<td>4948247,4948249</td>
+	</tr>
+	<tr>
+		<td>1508230</td>
+		<td>BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行</td>
+		<td>单选题</td>
+		<td>4948252</td>
+		<td>错误</td>
+		<td>4948253</td>
+		<td>正确</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>4948252</td>
+	</tr>
+	<tr>
+		<td>1508231</td>
+		<td>输入fastboot devices命令后，可能输出的结果是</td>
+		<td>单选题</td>
+		<td>4948254</td>
+		<td>$ wget https://xxx.xxx/xxx/xxx/xxx.img</td>
+		<td>4948255</td>
+		<td>MBR: verify success!</td>
+		<td>4948256</td>
+		<td>remount failed</td>
+		<td>4948257</td>
+		<td>XMABC100-01 fastboot</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>4948257</td>
+	</tr>
+	<tr>
+		<td>1508232</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>4948258</td>
+		<td>HAL介于Android framework层和应用层之间，屏蔽了硬件底层的具体实现，防止AOSP受GPL污染</td>
+		<td>4948259</td>
+		<td>inet是UNIX系统最重要的网络服务进程</td>
+		<td>4948260</td>
+		<td>哈希函数是一种双向密码机制</td>
+		<td>4948261</td>
+		<td>RAM指的是手机的运行内存</td>
+		<td>4948262</td>
+		<td>刷机过程中如果变砖，不可以通过9008的模式刷机救回MTK平台的机器</td>
+		<td></td>
+		<td></td>
+		<td>4948258,4948259,4948260</td>
+	</tr>
+	<tr>
+		<td>1508233</td>
+		<td>输入“adb logcat”后，出现“waiting for device”信息，可能的原因是</td>
+		<td>多选题</td>
+		<td>4948263</td>
+		<td>在线ota升级后没自动双清</td>
+		<td>4948264</td>
+		<td>设备没有连接计算机</td>
+		<td>4948265</td>
+		<td>ADB驱动程序没正确安装</td>
+		<td>4948266</td>
+		<td>安装包签名不一致</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>4948264,4948265</td>
+	</tr>
+	<tr>
+		<td>1508234</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>4948267</td>
+		<td>刷机过程中，官方提供给用户的刷机工具是MiFlash</td>
+		<td>4948268</td>
+		<td>Android系统加密保护用户数据，Android 10或更高版本的设备使用全盘加密</td>
+		<td>4948269</td>
+		<td>9008模式下的刷机会比fastboot模式下的刷机更加彻底</td>
+		<td>4948270</td>
+		<td>BL锁可以防止用户在设备上安装非官方或未授权的操作系统</td>
+		<td>4948271</td>
+		<td>刷入第三方TWRP，通常选择刷入到system分区</td>
+		<td></td>
+		<td></td>
+		<td>4948268,4948271</td>
+	</tr>
+	<tr>
+		<td>1508235</td>
+		<td>刷机过程中，执行fastboot erase system可擦除全部数据</td>
+		<td>单选题</td>
+		<td>4948272</td>
+		<td>正确</td>
+		<td>4948273</td>
+		<td>错误</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>4948273</td>
+	</tr>
+	<tr>
+		<td>1508236</td>
+		<td>如何退出FASTBOOT模式？</td>
+		<td>多选题</td>
+		<td>4948274</td>
+		<td>在FASTBOOT模式下长按音量键约7-15秒重启进入系统</td>
+		<td>4948275</td>
+		<td>通过“fastboot reboot”及“fastboot oem poweroff”命令重启进入系统或拔线关机</td>
+		<td>4948276</td>
+		<td>部分机型在FASTBOOT模式下不插入数据线，5分钟到半小时内会自动重启或关机</td>
+		<td>4948277</td>
+		<td>反复插拔数据线5次</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>4948275,4948276</td>
+	</tr>
+	<tr>
+		<td>1508237</td>
+		<td>以下说法正确的有</td>
+		<td>多选题</td>
+		<td>4948278</td>
+		<td>ACK-Flood攻击属于利用TCP协议发起的攻击</td>
+		<td>4948279</td>
+		<td>刷机过程中，刷入的系统版本与原系统差异较大时，通常建议执行四清</td>
+		<td>4948280</td>
+		<td>对称加密最大的缺点在于其密钥管理困难</td>
+		<td>4948281</td>
+		<td>原始设备制造商简称OEM，是英文Original Environment Manufacturer的缩写</td>
+		<td>4948282</td>
+		<td>网络配置后不能进入Internet服务，ping 127.0.0.1是通的，ping 网关不通，原因可能是网关没有正确配置</td>
+		<td></td>
+		<td></td>
+		<td>4948278,4948279,4948280,4948282</td>
+	</tr>
+	<tr>
+		<td>1508238</td>
+		<td>刷机过程中，出现Flash antirbpass error的报错，不可以直接修改脚本强刷</td>
+		<td>单选题</td>
+		<td>4948283</td>
+		<td>正确</td>
+		<td>4948284</td>
+		<td>错误</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>4948283</td>
+	</tr>
+	<tr>
+		<td>1508239</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>4948285</td>
+		<td>Xiaomi/Redmi手机，一般长按音量加键和电源键即可进入Recovery</td>
+		<td>4948286</td>
+		<td>擦除cache分区数据，个人数据通常会丢失</td>
+		<td>4948287</td>
+		<td>重定向是指将网络请求从一个网址转移到其他网址</td>
+		<td>4948288</td>
+		<td>Android 7及更低版本的设备中，使用JIT/AOT混合编译模式</td>
+		<td>4948289</td>
+		<td>删除一个视图的SQL命令是DROP VIEW</td>
+		<td></td>
+		<td></td>
+		<td>4948286,4948288</td>
+	</tr>
+	<tr>
+		<td>1508240</td>
+		<td>以下说法正确的有</td>
+		<td>多选题</td>
+		<td>4948290</td>
+		<td>线刷可以用来降级回到之前的系统版本、彻底删除设备数据等</td>
+		<td>4948291</td>
+		<td>刷入第三方TWRP，通常选择刷入到system分区</td>
+		<td>4948292</td>
+		<td>RAM指的是手机的运行内存</td>
+		<td>4948293</td>
+		<td>在不做子网划分的情况下，154.27.0.0/16能支持65534台主机</td>
+		<td>4948294</td>
+		<td>DNS欺骗技术可分为基于DNS服务器的欺骗和基于用户计算机的欺骗</td>
+		<td></td>
+		<td></td>
+		<td>4948290,4948292,4948293,4948294</td>
+	</tr>
+	<tr>
+		<td>1508241</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>4948295</td>
+		<td>Redmi所有手机均可使用EDL模式</td>
+		<td>4948296</td>
+		<td>Android系统启动时，首先启动的是zygote进程</td>
+		<td>4948297</td>
+		<td>ROM指的是手机的运行内存</td>
+		<td>4948298</td>
+		<td>特征码查杀技术可以有效检测采用加壳技术的恶意程序</td>
+		<td>4948299</td>
+		<td>adb的全称是Android Debug Badge，起到调试桥的作用</td>
+		<td></td>
+		<td></td>
+		<td>4948295,4948297,4948298</td>
+	</tr>
+	<tr>
+		<td>1508242</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>4948300</td>
+		<td>在正常情况下，所有非system分区的APP运行时的UID都是一样的</td>
+		<td>4948301</td>
+		<td>MD5算法要比SHA算法更快</td>
+		<td>4948302</td>
+		<td>9008模式仅限手机可正常进入系统时才可使用</td>
+		<td>4948303</td>
+		<td>在FASTBOOT模式下，用flash命令刷写固件</td>
+		<td>4948304</td>
+		<td>DNS欺骗是攻击者冒充域名服务器的一种欺骗行为</td>
+		<td></td>
+		<td></td>
+		<td>4948300,4948302</td>
+	</tr>
+	<tr>
+		<td>1508243</td>
+		<td>FASTBOOT模式下如何输出防回滚机制（ANTI）版本号</td>
+		<td>单选题</td>
+		<td>4948305</td>
+		<td>fastboot -w ANTI</td>
+		<td>4948306</td>
+		<td>fastboot -r ANTI</td>
+		<td>4948307</td>
+		<td>fastboot getvar anti</td>
+		<td>4948308</td>
+		<td>fastboot devices</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>4948307</td>
+	</tr>
+</table>
+
 ## 2023.12.25
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-7943441)
 - 答题链接: https://m.beehive.miui.com/-lyJ-PH9v-I3yqXYQNNQCQ/
