@@ -13,7 +13,7 @@
 ## Notice for Global users
 - The repository is currently only available for Xiaomi HyperOS devices in the China (Mainland) region. When the international region unlocking rules are updated, we will synchronize the update as much as possible if the questionnaire requirement exists. Please be patient and wait for Xiaomi to announce it.
 
-## 2023.12.29
+## 2023.12.29、2023.12.30
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-7975037)
 - 答题链接: https://m.beehive.miui.com/NbeZO6WNvSEZFDDw2zuq-A/
 - 题目数量: 20
