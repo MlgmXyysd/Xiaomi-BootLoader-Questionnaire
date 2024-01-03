@@ -10,6 +10,10 @@
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
 - 新增答题开放时间限制：工作日上午 10 点 - 下午 18 点（法定节假日为答题系统维护时间），还请合理安排答题时间。答题成绩每周三上午 10:59 失效，如答题通过，请务必在周三中午 11 点前完成申请，避免成绩失效影响申请。
 
+## 声明 / Disclaimer
+- 该项目完全免费，如果你从他人手中购买了此项目的内容，请申请退款并向平台举报倒卖行为。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
+- This project is completely free. If you purchased the content of this project from others, please apply for a refund and report to the platform for reselling behavior. If you want to express your gratitude to authors, you can sponsor through the following channels: [爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
+
 ## Notice for Global users
 - The repository is currently only available for Xiaomi HyperOS devices in the China (Mainland) region. When the international region unlocking rules are updated, we will synchronize the update as much as possible if the questionnaire requirement exists. Please be patient and wait for Xiaomi to announce it.
 
