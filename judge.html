@@ -91,10 +91,13 @@
                 if (problem.type == "upload_file") {
                     options.push(new Option("1", "上传文件", true, "single", ""));
                 } else {
-                    for (let j = 0; j < problem.options.length; j++) {
-                        let option = problem.options[j];
-                        if (latestProblem.options.indexOf(option.id) != -1) {
-                            options.push(new Option(option.id, option.content, option.correct, problem.type, option.explanation));
+                    for (let j = 0; j < latestProblem.options.length; j++) {
+                        for (let k = 0; k < problem.options.length; k++) {
+                            if (problem.options[k].id == latestProblem.options[j]) {
+                                let option = problem.options[k];
+                                options.push(new Option(option.id, option.content, option.correct, problem.type, option.explanation));
+                                break;
+                            }
                         }
                     }
                     if (latestProblem.random_options != false) {
