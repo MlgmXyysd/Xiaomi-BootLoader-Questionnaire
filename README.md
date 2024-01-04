@@ -19,7 +19,7 @@
 
 ## 2024.01.04
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8014492)
-- 答题链接: https://m.beehive.miui.com/Ou_Y3tYMxr5Bs11kyQCOww/
+- 答题链接(更新): https://m.beehive.miui.com/Ou_Y3tYMxr5Bs11kyQCOww/
 - 题目数量: 21
 - 合格分数: 86
 - 时间限制(更新): 15 分钟，超时结算已回答题目的分数
