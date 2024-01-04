@@ -17,6 +17,11 @@
 ## Notice for Global users
 - The repository is currently only available for Xiaomi HyperOS devices in the China (Mainland) region. When the international region unlocking rules are updated, we will synchronize the update as much as possible if the questionnaire requirement exists. Please be patient and wait for Xiaomi to announce it.
 
+## 《五年解锁 三年模拟》
+为了辅助用户答题，我们为项目制作了[网站](https://xmbl.neko.ink/)，网站目前有「知识库」和「模拟答题」功能，内容跟随仓库更新。
+
+网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
+
 ## 2024.01.04
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8014492)
 - 答题链接(更新): https://m.beehive.miui.com/Ou_Y3tYMxr5Bs11kyQCOww/
