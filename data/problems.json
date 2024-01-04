@@ -1,0 +1,3463 @@
+{
+  "latest": {
+    "date": "2024-01-04",
+    "problems": [
+      {
+        "id": 1,
+        "index": 1,
+        "random_options": false,
+        "options": [
+          1,
+          2,
+          17,
+          16,
+          5,
+          18
+        ]
+      },
+      {
+        "id": 49,
+        "index": 2,
+        "random_options": false,
+        "options": [
+          6,
+          7,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "id": 52,
+        "index": 3,
+        "random_options": false,
+        "options": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "id": 43,
+        "index": 4,
+        "random_options": false,
+        "options": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "id": 42,
+        "index": 5,
+        "random_options": true,
+        "options": [
+          56,
+          55,
+          54,
+          16,
+          19
+        ]
+      },
+      {
+        "id": 63,
+        "index": 6,
+        "random_options": true,
+        "options": [
+          2,
+          1
+        ]
+      },
+      {
+        "id": 42,
+        "index": 7,
+        "random_options": true,
+        "options": [
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      },
+      {
+        "id": 61,
+        "index": 8,
+        "random_options": true,
+        "options": [
+          1,
+          2
+        ]
+      },
+      {
+        "id": 40,
+        "index": 9,
+        "random_options": true,
+        "options": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "id": 42,
+        "index": 10,
+        "random_options": true,
+        "options": [
+          62,
+          63,
+          64,
+          51,
+          65
+        ]
+      },
+      {
+        "id": 18,
+        "index": 11,
+        "random_options": true,
+        "options": [
+          5,
+          7,
+          8,
+          6
+        ]
+      },
+      {
+        "id": 42,
+        "index": 12,
+        "random_options": true,
+        "options": [
+          66,
+          28,
+          67,
+          2,
+          68
+        ]
+      },
+      {
+        "id": 51,
+        "index": 13,
+        "random_options": true,
+        "options": [
+          53,
+          36,
+          38,
+          35,
+          11
+        ]
+      },
+      {
+        "id": 62,
+        "index": 14,
+        "random_options": true,
+        "options": [
+          2,
+          1
+        ]
+      },
+      {
+        "id": 42,
+        "index": 15,
+        "random_options": true,
+        "options": [
+          69,
+          70,
+          71,
+          42,
+          72
+        ]
+      },
+      {
+        "id": 64,
+        "index": 16,
+        "random_options": false,
+        "options": []
+      },
+      {
+        "id": 42,
+        "index": 17,
+        "random_options": true,
+        "options": [
+          73,
+          14,
+          74,
+          48,
+          75
+        ]
+      },
+      {
+        "id": 38,
+        "index": 18,
+        "random_options": true,
+        "options": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "id": 47,
+        "index": 19,
+        "random_options": true,
+        "options": [
+          4,
+          3,
+          2,
+          5,
+          1
+        ]
+      },
+      {
+        "id": 42,
+        "index": 20,
+        "random_options": true,
+        "options": [
+          76,
+          77,
+          78,
+          41,
+          79
+        ]
+      },
+      {
+        "id": 45,
+        "index": 21,
+        "random_options": true,
+        "options": [
+          9,
+          10,
+          11,
+          2,
+          12
+        ]
+      }
+    ]
+  },
+  "problems": [
+    {
+      "id": 1,
+      "content": "关于BL解锁说法正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "未答题或未达到答题分数线时，每7天可重新参与一次答题",
+          "correct": true,
+          "explanation": "根据答题后的分数页面提示，每 7 天可以重复参与一次答题。"
+        },
+        {
+          "id": 2,
+          "content": "参与答题必须从“小米社区App-内测中心-BL解锁申请-去答题”进入，其他方式进入答题将无法展示分数，影响后续申请",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，参与答题必须从“小米社区 App-内测中心-BL 解锁申请-去答题”进入。"
+        },
+        {
+          "id": 3,
+          "content": "本周答题的通过分数线为96分以上（不含96分）",
+          "correct": false,
+          "explanation": "根据答题问卷页面提示，答题通过分数线为 92 分以上（不含 92 分）。"
+        },
+        {
+          "id": 4,
+          "content": "租借/转让/借用BL解锁资格，属于违规行为，将被永久封号",
+          "correct": true,
+          "explanation": "根据解锁申请详细说明，租借/转让/借用 BL 解锁资格等账号异常行为将被封禁。"
+        },
+        {
+          "id": 5,
+          "content": "如果本次BL解锁申请通过，所获得的3次解锁资格，有效期至2024年12月31日",
+          "correct": true,
+          "explanation": "根据解锁申请详细说明，2023 年 12 月 31 日 24:00 及之前通过申请的用户解锁权限保留至 2024 年 12 月 31 日 24:00，2024 年 1 月 1 日 00:00 及之后通过申请的用户解锁权限保留至申请当年 12 月 31 日 24:00。"
+        },
+        {
+          "id": 6,
+          "content": "本周答题的通过分数线为92分以上（不含92分）",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，答题通过分数线为 92 分以上（不含 92 分）。"
+        },
+        {
+          "id": 7,
+          "content": "未答题或未达到答题的分数线时，每7天可重新参与一次答题",
+          "correct": true,
+          "explanation": "根据答题后的分数页面提示，每 7 天可以重复参与一次答题。"
+        },
+        {
+          "id": 8,
+          "content": "参与答题必须从“小米社区App的内测中心-BL解锁申请-去答题”进入，其他方式进入答题将无法展示分数，影响后续申请",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，参与答题必须从“小米社区 App-内测中心-BL 解锁申请-去答题”进入。"
+        },
+        {
+          "id": 9,
+          "content": "本周答题通过分数线为92分以上（不含92分）",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，答题通过分数线为 92 分以上（不含 92 分）。"
+        },
+        {
+          "id": 10,
+          "content": "租借/转让/借用BL解锁的资格，属于违规行为，将被永久封号",
+          "correct": true,
+          "explanation": "根据解锁申请详细说明，租借/转让/借用 BL 解锁资格等账号异常行为将被封禁。"
+        },
+        {
+          "id": 11,
+          "content": "如果本次BL解锁的申请通过，所获得的3次解锁资格，有效期至2024年12月31日",
+          "correct": true,
+          "explanation": "根据解锁申请详细说明，2023年12月31日24:00及之前通过申请的用户解锁权限保留至 2024 年 12 月 31 日 24:00，2024 年 1 月 1 日 00:00 及之后通过申请的用户解锁权限保留至申请当年 12 月 31 日 24:00。"
+        },
+        {
+          "id": 12,
+          "content": "寻找“代答”是违规行为，经过核查发现答题时所使用的IP地址异常波动的用户，将无法通过BL解锁审核",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，“代答”是违规行为，无法通过后续审核。"
+        },
+        {
+          "id": 13,
+          "content": "“代答”是违规行为，经过核查发现答题异常的用户，将无法通过BL解锁审核",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，“代答”是违规行为，无法通过后续审核。"
+        },
+        {
+          "id": 14,
+          "content": "“代答”是违规行为，目前已处理多名“利用解锁答题谋利”的用户，为避免您的经济损失，请勿购买相关“代答服务”，使用“代答服务”将无法申请通过",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，“代答”是违规行为，无法通过后续审核。"
+        },
+        {
+          "id": 15,
+          "content": "本期（2023 年 12 月 13 日上午 11:00 - 2023 年 12 月 20 日上午 10:59）答题的通过分数线为 85 分以上（不含 85 分）",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，本期答题通过分数线为 85 分以上（不含 85 分）。"
+        },
+        {
+          "id": 16,
+          "content": "租借/转让/借用BL解锁资格、“代答”等行为均属违规",
+          "correct": true,
+          "explanation": "根据解锁申请详细说明，租借/转让/借用 BL 解锁资格、“代答”等账号异常行为均属于违规，解锁申请不予通过，且账号将被封禁。"
+        },
+        {
+          "id": 17,
+          "content": "本期答题的通过分数线为85分以上（不含85分）",
+          "correct": true,
+          "explanation": "根据答题问卷页面提示，本期答题通过分数线为 85 分以上（不含 85 分）。"
+        },
+        {
+          "id": 18,
+          "content": "BL解锁名额充足，满足申请条件后即可申请",
+          "correct": true,
+          "explanation": "目前解锁名额已由 2w 上调至为 5w 人，已通过人数仅 1.5w+，名额充足。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "content": "下列刷机工具中，不属于官方提供给用户的工具是？",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "MIUI一键刷机",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "刷机大师",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "线刷宝",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "91助手",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "content": "MiFlash",
+          "correct": false,
+          "explanation": "除 MiFlash（及 MiFlashPro）外，其余工具均为非官方工具。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "content": "以下关于BL解锁刷机的说法中，正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "刷入第三方Recovery，个人数据通常会丢失",
+          "correct": false,
+          "explanation": "刷入第三方 Recovery 通常不会涉及个人数据（userdata）。"
+        },
+        {
+          "id": 2,
+          "content": "擦除cache分区数据，个人数据通常不会丢失",
+          "correct": true,
+          "explanation": "擦除缓存（cache）分区数据，通常不会涉及个人数据（userdata）。"
+        },
+        {
+          "id": 3,
+          "content": "Xiaomi/Redmi手机，一般同时按住音量上键和下键可以进入Recovery",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机进入 Recovery 的组合键一般是「电源键」和「音量上键」。"
+        },
+        {
+          "id": 4,
+          "content": "线刷刷机前，应当备份重要数据",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "content": "线刷刷机前，无需备份重要数据",
+          "correct": false,
+          "explanation": "线刷刷机可能会清除所有数据，重要数据需要在刷机前备份。"
+        },
+        {
+          "id": 6,
+          "content": "手机如果只能进入FASTBOOT，可能是引导程序损毁",
+          "correct": true,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "content": "如何烧录img、bin、mbn、elf等镜像文件内容到指定分区？",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot boot<镜像文件名或路径> <分区名>",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "fastboot boot <分区名> <镜像文件名或路径>",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "fastboot flash <镜像文件名或路径> <分区名>",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "fastboot flash <分区名> <镜像文件名或路径>",
+          "correct": true,
+          "explanation": "根据 fastboot 使用说明，刷入（flash）子命令格式为 flash PARTITION [FILENAME]。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "content": "线刷可以用来解决哪些场景问题？",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "恢复误删除的数据",
+          "correct": false,
+          "explanation": "线刷无法恢复数据。"
+        },
+        {
+          "id": 2,
+          "content": "降级回到之前的系统版本",
+          "correct": true,
+          "explanation": "在不触及小米防回滚机制（Xiaomi Anti-Rollback）的情况下，可以通过线刷降级系统版本。"
+        },
+        {
+          "id": 3,
+          "content": "彻底删除设备数据",
+          "correct": true,
+          "explanation": "线刷可以删除所有设备数据。"
+        },
+        {
+          "id": 4,
+          "content": "解决已解锁手机无法开机的问题",
+          "correct": true,
+          "explanation": "线刷可以用来救砖。"
+        },
+        {
+          "id": 5,
+          "content": "恢复误删除数据",
+          "correct": false,
+          "explanation": "线刷无法恢复数据。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "content": "关于Android安全策略相关内容，以下说法错误的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Android的安全策略基于DAC+Sandbox，因此root用户不受任何限制，可以执行任意操作",
+          "correct": true,
+          "explanation": "root 用户会受限于 SELinux 规则，在执行一些操作时仍然会被 SELinux（和/或 seccomp）机制限制，并非不受任何限制。所以在开发需要获取最高权限时，还需要将 SELinux 设置为宽容模式，仅提升到 root 用户并非最高权限。"
+        },
+        {
+          "id": 2,
+          "content": "在正常情况下，所有非system分区的APP运行时的UID都是一样的",
+          "correct": true,
+          "explanation": "Android 系统会给每个非系统应用（untrusted_app）分配不同的 UID。"
+        },
+        {
+          "id": 3,
+          "content": "Android系统通过加密保护用户数据，Android 10或更高版本的设备使用全盘加密",
+          "correct": true,
+          "explanation": "根据 Android 文档，Android 10 或更高版本不允许使用全盘加密（Full Disk Encryption, FDE），而是使用文件级加密（File-Based Encryption, FBE）。"
+        },
+        {
+          "id": 4,
+          "content": "Android系统使用TEE来保护极度敏感的数据，解锁BootLoader后可能导致TEE熔断",
+          "correct": false,
+          "explanation": "小米为了保护用户敏感数据，添加了 TEE 熔断机制，解锁 BootLoader 后，一些刷机行为会触发熔断机制，具体机制介绍可参考我酷安动态。其他厂商出于保护用户数据安全考量，也可能会添加熔断机制（如 Motorola）。"
+        },
+        {
+          "id": 5,
+          "content": "在正常情况下，所有非system分区的APP运行时的UID不是完全一样的",
+          "correct": false,
+          "explanation": "Android 系统会给每个非系统应用（untrusted_app）分配不同的 UID。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "content": "以下关于安卓系统的说法不正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "刷机过程中出现Flash antirbpass error报错，不可以直接修改脚本强刷",
+          "correct": false,
+          "explanation": "任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 2,
+          "content": "刷机过程中如果变砖，可以通过9008模式刷机救回MTK平台的机器",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 9008 模式刷机救砖。"
+        },
+        {
+          "id": 3,
+          "content": "刷机过程中出现Missmatching image and device报错，可以直接修改脚本强刷，不会变砖",
+          "correct": true,
+          "explanation": "该报错表示欲刷入的镜像与设备不匹配，强行刷入可能会导致设备无法启动。任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 4,
+          "content": "刷机过程中碰到数据线可能导致报错，重新刷机即可",
+          "correct": false,
+          "explanation": "刷机过程中碰到数据线可能导致设备与计算机的连接断开，从而引发报错。此时设备可能无法正常启动，重新连接设备后刷机即可。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "content": "下列关于退出FASTBOOT模式，做法不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "在FASTBOOT模式下长按电源键约7-15秒重启进入系统",
+          "correct": false,
+          "explanation": "长按「电源键」可以强制重启。"
+        },
+        {
+          "id": 2,
+          "content": "通过“fastboot reboot”及“fastboot oem poweroff”命令重启进入系统或拔线关机",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，上述命令为正确重启或关机命令。"
+        },
+        {
+          "id": 3,
+          "content": "部分机型在FASTBOOT模式下插入数据线，5分钟到半小时内会自动重启或关机",
+          "correct": true,
+          "explanation": "部分机型在未连接（数据线拔出）时，5 分钟到半小时内才会自动重启或关机，已连接状态（数据线插入）不会自动关机。"
+        },
+        {
+          "id": 4,
+          "content": "反复插拔数据线5次",
+          "correct": true,
+          "explanation": "反复插拔数据线不会退出 FASTBOOT 模式。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "content": "下列指令对应正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot getvar product：输出该机型内部代号名称",
+          "correct": true,
+          "explanation": "该命令将输出机型内部代号，通常用于判断镜像是否与设备相符。"
+        },
+        {
+          "id": 2,
+          "content": "fastboot oem device-info：输出当前BL锁状态",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，device-info 命令将输出如下设备状态：Verity mode（完整性校验状态），刷入非官方镜像需要禁用，为 false 时表示已禁用完整性校验；Device unlocked（BootLoader 解锁状态），为 true 时表示已解锁；Device critical unlocked（关键分区解锁状态），为 true 时表示 BootLoader 已完整解锁；Charger screen enabled（关机充电屏幕状态）。"
+        },
+        {
+          "id": 3,
+          "content": "fastboot wipe <分区名>：擦除分区内数据",
+          "correct": false,
+          "explanation": "fastboot 不存在 wipe 子命令，正确的子命令应该是 erase PARTITION。"
+        },
+        {
+          "id": 4,
+          "content": "fastboot oem lock：解锁设备",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，lock 命令为回锁命令。"
+        },
+        {
+          "id": 5,
+          "content": "fastboot -w：擦除设备上所有数据",
+          "correct": true,
+          "explanation": "命令开关 -w 可以在任何子命令前添加，将擦除设备中存储的所有用户数据。"
+        },
+        {
+          "id": 6,
+          "content": "fastboot getvar code：输出该机型内部代号名称",
+          "correct": false,
+          "explanation": "输出机型内部代号的正确命令应为 fastboot getvar product。"
+        },
+        {
+          "id": 7,
+          "content": "fastboot erase <分区名>：擦除分区内数据",
+          "correct": true,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据。"
+        },
+        {
+          "id": 8,
+          "content": "fastboot getvar code：输出该机型的内部代号名称",
+          "correct": false,
+          "explanation": "输出机型内部代号的正确命令应为 fastboot getvar product。"
+        },
+        {
+          "id": 9,
+          "content": "fastboot oem device-info：输出当前BL锁的状态",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，device-info 命令将输出如下设备状态：Verity mode（完整性校验状态），刷入非官方镜像需要禁用，为 false 时表示已禁用完整性校验；Device unlocked（BootLoader 解锁状态），为 true 时表示已解锁；Device critical unlocked（关键分区解锁状态），为 true 时表示 BootLoader 已完整解锁；Charger screen enabled（关机充电屏幕状态）。"
+        },
+        {
+          "id": 10,
+          "content": "fastboot erase <分区名>：擦除分区数据",
+          "correct": true,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据。"
+        },
+        {
+          "id": 11,
+          "content": "fastboot -r：擦除设备上的所有数据",
+          "correct": false,
+          "explanation": "fastboot 不存在 -r 命令开关。如果要擦除设备中存储的所有用户数据，正确的命令开关应为 -w。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "content": "关于MTK刷机常见报错的原因不匹配的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "S_DA_EMMC_FLASH_NOT_FOUND：手机内存己经损坏",
+          "correct": true,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        },
+        {
+          "id": 2,
+          "content": "S_FT_NEED_DOWNLOAD_ALL_FAIL：目标ROM文件和手机的系统差距过大",
+          "correct": false,
+          "explanation": "该报错意味着目标 ROM 文件和手机的系统差距过大，通常在单刷某个分区时会出现。"
+        },
+        {
+          "id": 3,
+          "content": "S_BROM_CMD_STARTCMD_FAIL：没有加载好刷机包的文件",
+          "correct": false,
+          "explanation": "该报错意味着没有加载好刷机包的文件或驱动没装好。"
+        },
+        {
+          "id": 4,
+          "content": "S_UNSUPPORTED_OPERATION：已存在同名程序",
+          "correct": true,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "content": "fastboot oem reboot-recovery的作用是",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "退出FASTBOOT模式并重启进入Recovery模式",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，reboot-recovery 会将设备重启至 Recovery 模式。"
+        },
+        {
+          "id": 2,
+          "content": "退出FASTBOOT模式并重启进入系统",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "退出FASTBOOT模式并重启进入EDL模式",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "退出FASTBOOT模式并关机",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "content": "下列说法正确的有",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "刷入系统版本与原系统差异较大时，通常建议执行四清",
+          "correct": true,
+          "explanation": "刷入系统差异较大时，如果不完整清除数据，可能会无法开机。这里的四清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）、系统缓存（Cache）以及账户锁（Frp）。"
+        },
+        {
+          "id": 2,
+          "content": "对于刷入系统包的操作，通常建议执行四清",
+          "correct": false,
+          "explanation": "四清会清除用户数据，通常不需要四清。"
+        },
+        {
+          "id": 3,
+          "content": "三清后不刷入系统，通常无法开机进系统",
+          "correct": false,
+          "explanation": "三清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）和系统缓存（Cache），并不涉及系统分区，通常不会造成无法开机的问题。"
+        },
+        {
+          "id": 4,
+          "content": "双清通常是指清除Data、Cache",
+          "correct": true,
+          "explanation": "双清指的是是用户数据（Userdata 或 Data）和系统缓存（Cache）。但对于 A/B 分区格式（和/或虚拟 A/B 分区格式）的新设备，不存在独立的系统缓存（Cache）分区，系统缓存（Cache）存储在用户数据（Userdata 或 Data）分区下。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "content": "下列关于JVM垃圾回收机制的说法正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Serial Collector适合内存有限的情况",
+          "correct": true,
+          "explanation": "串行垃圾回收器（Serial Collector）是额外内存消耗最小的，适合配置较低的机器、或内存有限的情况。"
+        },
+        {
+          "id": 2,
+          "content": "Concurrent Mark Sweep Collector在Old区回收暂停时间长",
+          "correct": false,
+          "explanation": "并发标记清除垃圾回收器（Concurrent Mark Sweep）收集器是一种以获取最短回收停顿时间为目标的收集器。"
+        },
+        {
+          "id": 3,
+          "content": "Parallel Collector效率高",
+          "correct": true,
+          "explanation": "并行垃圾回收器（Parallel Collector）具有高吞吐量的优势，能够高效利用 CPU。"
+        },
+        {
+          "id": 4,
+          "content": "Serial Collector回收速度快",
+          "correct": false,
+          "explanation": "串行垃圾回收器（Serial Collector）占用低，但回收速度慢。"
+        },
+        {
+          "id": 5,
+          "content": "G1垃圾回收器将堆内存划分为多个大小不等的Region",
+          "correct": false,
+          "explanation": "G1（Garbage First）垃圾回收器将连续的 Java 堆划分为多个大小相等的独立区域（Region）。"
+        },
+        {
+          "id": 6,
+          "content": "G1垃圾回收器采用的是区域化、分布式的垃圾收集器",
+          "correct": true,
+          "explanation": "G1（Garbage First）垃圾回收器针对于拥有多核处理器和大内存的机器，具有区域化、分布式的特性。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "content": "下列说法正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Android 8或更高版本的设备中，APK文件中包含运行所需全部资源，运行应用实际上是在运行APK",
+          "correct": false,
+          "explanation": "APK 的部分 Dalvik 字节码在安装时已被编译为本地机器代码，本机库在安装时也可能会解压到对应位置，实际运行的并非 APK 中的内容。应用也可能会在运行时动态下载部分资源。"
+        },
+        {
+          "id": 2,
+          "content": "Android 8或更高版本的设备中，同一份APK文件不可以安装到所有Android系统的设备上",
+          "correct": false,
+          "explanation": "APK 文件通常是通用的，可以提取出来安装到其他受支持架构的 Android 系统设备中。"
+        },
+        {
+          "id": 3,
+          "content": "Android 8或更高版本的设备中，用户必须授予权限，系统才能从应用商店以外的来源安装应用",
+          "correct": true,
+          "explanation": "Android 8 后，用户需要在设置中对应用单独授予「安装外部来源应用」权限（android.permission.REQUEST_INSTALL_PACKAGES）。"
+        },
+        {
+          "id": 4,
+          "content": "Android 7或更高版本的设备中，使用JIT/AOT混合编译模式",
+          "correct": true,
+          "explanation": "ART（Android Runtime）运行时支持 AOT（Ahead of Time）编译。在应用安装时，部分代码会被预先编译成本地机器代码，以提高应用的运行性能。JIT（Just-in-Time）编译仍然可以在运行时进行，以优化特定情况下的性能。"
+        },
+        {
+          "id": 5,
+          "content": "刷入系统版本与原系统差异较大时，通常建议执行三清",
+          "correct": false,
+          "explanation": "刷入系统差异较大时，如果不完整清除数据，可能会无法开机，也就是通常所说的「四清」，包含用户数据（Userdata 或 Data）、加密元数据（Metadata）、系统缓存（Cache）以及账户锁（Frp）。"
+        },
+        {
+          "id": 6,
+          "content": "对于刷入系统包的操作，通常建议执行三清",
+          "correct": true,
+          "explanation": "不知道为什么需要选这个，小米你在瞎讲= =。三清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）和系统缓存（Cache），并不涉及系统分区，理论上刷入系统通常不需要三清。"
+        },
+        {
+          "id": 7,
+          "content": "三清后不刷入系统，通常无法开机进系统",
+          "correct": false,
+          "explanation": "三清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）和系统缓存（Cache），并不涉及系统分区，通常不会造成无法开机的问题。"
+        },
+        {
+          "id": 8,
+          "content": "双清通常是指清除Data、Cache",
+          "correct": true,
+          "explanation": "双清指的是是用户数据（Userdata 或 Data）和系统缓存（Cache）。但对于 A/B 分区格式（和/或虚拟 A/B 分区格式）的新设备，不存在独立的系统缓存（Cache）分区，系统缓存（Cache）存储在用户数据（Userdata 或 Data）分区下。"
+        },
+        {
+          "id": 9,
+          "content": "Android 7及更低版本的设备中，同一APK文件不可以安装到所有Android系统的设备上",
+          "correct": false,
+          "explanation": "APK 文件通常是通用的，可以提取出来安装到其他受支持架构的 Android 系统设备中。"
+        },
+        {
+          "id": 10,
+          "content": "Android 7及更低版本的设备中，不使用JIT/AOT混合编译模式",
+          "correct": true,
+          "explanation": "Android 7 及更低版本主要使用 JIT（Just-In-Time）编译，即在运行时将字节码翻译成机器码。"
+        },
+        {
+          "id": 11,
+          "content": "刷入的系统版本与原系统差异较大时，通常建议执行四清",
+          "correct": true,
+          "explanation": "刷入系统差异较大时，如果不完整清除数据，可能会无法开机。这里的四清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）、系统缓存（Cache）以及账户锁（Frp）。"
+        },
+        {
+          "id": 12,
+          "content": "对于刷入的系统包的操作，通常建议执行四清",
+          "correct": false,
+          "explanation": "四清会清除用户数据，通常不需要四清。"
+        },
+        {
+          "id": 13,
+          "content": "三清后不刷入系统，通常无法开机进入系统",
+          "correct": false,
+          "explanation": "三清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）和系统缓存（Cache），并不涉及系统分区，通常不会造成无法开机的问题。"
+        },
+        {
+          "id": 14,
+          "content": "双清通常是指的清除Data、Cache",
+          "correct": true,
+          "explanation": "双清指的是是用户数据（Userdata 或 Data）和系统缓存（Cache）。但对于 A/B 分区格式（和/或虚拟 A/B 分区格式）的新设备，不存在独立的系统缓存（Cache）分区，系统缓存（Cache）存储在用户数据（Userdata 或 Data）分区下。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "content": "下列说法不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "正式版切换到开发版通常不用解锁",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机的正式版切换到开发版通常不需要解锁，部分机型仍然有例外情况。"
+        },
+        {
+          "id": 2,
+          "content": "解锁时需要登录小米账号",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机解锁 BootLoader 需要登录并绑定小米账号。"
+        },
+        {
+          "id": 3,
+          "content": "解锁时小米账号不需要与手机绑定",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 手机解锁 BootLoader 需要登录并绑定小米账号。"
+        },
+        {
+          "id": 4,
+          "content": "解锁后系统安全系数不会降低",
+          "correct": true,
+          "explanation": "解锁 BootLoader 后，设备安全无任何保证，存储的数据将丢失，用户使用已解锁的设备可能会因此遭受经济损失。"
+        },
+        {
+          "id": 5,
+          "content": "正式版切换到开发版通常不需要解锁",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机的正式版切换到开发版通常不需要解锁，部分机型仍然有例外情况。"
+        },
+        {
+          "id": 6,
+          "content": "Android 8或更高版本的设备中，APK文件中包含运行所需全部资源，运行应用实际上是在运行APK",
+          "correct": true,
+          "explanation": "APK 的部分 Dalvik 字节码在安装时已被编译为本地机器代码，本机库在安装时也可能会解压到对应位置，实际运行的并非 APK 中的内容。应用也可能会在运行时动态下载部分资源。"
+        },
+        {
+          "id": 7,
+          "content": "Android 7及更低版本的设备中，同一APK文件不可以安装到所有Android系统的设备上",
+          "correct": true,
+          "explanation": "APK 文件通常是通用的，可以提取出来安装到其他受支持架构的 Android 系统设备中。"
+        },
+        {
+          "id": 8,
+          "content": "Android 7及更低版本的设备中，不使用JIT/AOT混合编译模式",
+          "correct": false,
+          "explanation": "Android 7 已引入 JIT/AOT 混合编译模式。正确的描述应为「Android 7 以下版本的设备中，不使用 JIT/AOT 混合编译模式」，该选项可能会对用户造成误导。"
+        },
+        {
+          "id": 9,
+          "content": "HAL介于Android framework层和应用层之间，屏蔽了硬件底层的具体实现，防止AOSP受GPL污染",
+          "correct": true,
+          "explanation": "根据 Android 文档对于 AOSP 软件堆栈架构的介绍，硬件抽象层（Hardware Abstraction Layer, HAL）介于 Android 运行时（Android Runtime, ART）层与 Linux 内核（Linux Kernel）层之间，并非 Android 框架（Android Framework）层与应用（Android Apps）层之间。"
+        },
+        {
+          "id": 10,
+          "content": "Android安全机制包括dm-verity，avb，bootloader等",
+          "correct": false,
+          "explanation": "根据 Android 文档，device-mapper-verity（dm-verity）用于校验块存储设备的完整性，启动时验证（Android Verified Boot, AVB）用于确保所有已执行代码均来自可信来源，引导加载器（BootLoader）用于监护设备状态、初始化可信执行环境 (TEE) 以及绑定其信任根。除此之外，Android 还有更多安全机制。"
+        },
+        {
+          "id": 11,
+          "content": "BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行",
+          "correct": true,
+          "explanation": "根据 Android 文档，引导加载器（BootLoader）负责在设备上启动内核，而不是系统。"
+        },
+        {
+          "id": 12,
+          "content": "正式版切换到开发版一般不需要解锁",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机的正式版切换到开发版通常不需要解锁，部分机型仍然有例外情况。"
+        },
+        {
+          "id": 13,
+          "content": "解锁后系统的安全系数不会降低",
+          "correct": true,
+          "explanation": "解锁 BootLoader 后，设备安全无任何保证，存储的数据将丢失，用户使用已解锁的设备可能会因此遭受经济损失。"
+        },
+        {
+          "id": 14,
+          "content": "官方提供给用户的刷机工具是MiFlash",
+          "correct": false,
+          "explanation": "除 MiFlash（及 MiFlashPro）外，其余工具均为非官方工具。"
+        },
+        {
+          "id": 15,
+          "content": "隐式Intent有指定的组件来运行一个确切的类",
+          "correct": true,
+          "explanation": "隐式 Intent 通过操作（Action）来传递意图，由系统解析 Action 并启动对应的 Activity，或弹出对话框供用户选择，并未提供确切的类。"
+        },
+        {
+          "id": 16,
+          "content": "Android的安全机制的包括进程沙箱隔离机制、应用程序签名机制、访问控制机制、事件分发机制等",
+          "correct": true,
+          "explanation": "事件分发机制不属于 Android 的安全机制。"
+        },
+        {
+          "id": 17,
+          "content": "刷入的系统版本与原系统差异较大时，通常建议执行四清",
+          "correct": false,
+          "explanation": "刷入系统差异较大时，如果不完整清除数据，可能会无法开机。这里的四清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）、系统缓存（Cache）以及账户锁（Frp）。"
+        },
+        {
+          "id": 18,
+          "content": "对于刷入的系统包的操作，通常建议执行四清",
+          "correct": true,
+          "explanation": "四清会清除用户数据，通常不需要四清。"
+        },
+        {
+          "id": 19,
+          "content": "三清后不刷入系统，通常无法开机进入系统",
+          "correct": true,
+          "explanation": "三清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）和系统缓存（Cache），并不涉及系统分区，通常不会造成无法开机的问题。"
+        },
+        {
+          "id": 20,
+          "content": "双清通常是指的清除Data、Cache",
+          "correct": false,
+          "explanation": "双清指的是是用户数据（Userdata 或 Data）和系统缓存（Cache）。但对于 A/B 分区格式（和/或虚拟 A/B 分区格式）的新设备，不存在独立的系统缓存（Cache）分区，系统缓存（Cache）存储在用户数据（Userdata 或 Data）分区下。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "content": "下列说法错误的有？",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "搭载Qualcomm或MTK处理器的手机可以使用EDL刷机",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。联发科（MediaTek, MTK）平台的机器需使用 MediaTek Preloader。"
+        },
+        {
+          "id": 2,
+          "content": "EDL刷机仅适用于小米14系列和Redmi K70系列之前发布的手机",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 所有搭载高通（Qualcomm）处理器的手机均可使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。自小米 8 后，小米公司不再允许用户自行使用 EDL 刷机，用户需前往官方售后服务网点才能使用 EDL 刷机。"
+        },
+        {
+          "id": 3,
+          "content": "EDL刷机无需进入Fastboot模式后使用",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL, 9008 模式）刷机更为底层，能够在无法进入 FASTBOOT 时救砖。"
+        },
+        {
+          "id": 4,
+          "content": "在没有root的情况下，不可以安装Magisk",
+          "correct": true,
+          "explanation": "在手机中安装 Magisk 正是为了获取 root 权限。"
+        },
+        {
+          "id": 5,
+          "content": "搭载Qualcomm的手机可以使用EDL刷机",
+          "correct": false,
+          "explanation": "高通（Qualcomm）平台的 Xiaomi/Redmi 手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。"
+        },
+        {
+          "id": 6,
+          "content": "EDL刷机不需要进入Fastboot模式后使用",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL, 9008 模式）刷机更为底层，能够在无法进入 FASTBOOT 时救砖。"
+        },
+        {
+          "id": 7,
+          "content": "在没有root的情况下可以安装Magisk",
+          "correct": false,
+          "explanation": "在手机中安装 Magisk 正是为了获取 root 权限。"
+        },
+        {
+          "id": 8,
+          "content": "FASTBOOT模式下，通过fastboot -r ANTI可以输出防回滚机制（ANTI）版本号",
+          "correct": true,
+          "explanation": "正确的输出防回滚机制（ANTI）版本号命令应为 fastboot getvar anti。"
+        },
+        {
+          "id": 9,
+          "content": "搭载Qualcomm手机不可以使用EDL刷机",
+          "correct": true,
+          "explanation": "高通（Qualcomm）平台的手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。"
+        },
+        {
+          "id": 10,
+          "content": "在没有root情况下可以安装Magisk",
+          "correct": false,
+          "explanation": "在手机中安装 Magisk 正是为了获取 root 权限。"
+        },
+        {
+          "id": 11,
+          "content": "FASTBOOT模式下，通过fastboot -r ANTI可以输出防回滚机制版本号",
+          "correct": true,
+          "explanation": "fastboot 不存在 -r 命令开关。正确的输出小米防回滚机制版本号的命令应为 fastboot getvar anti。"
+        },
+        {
+          "id": 12,
+          "content": "Android系统启动时，第一个启动的进程是zygote进程",
+          "correct": true,
+          "explanation": "Zygote 进程由 Android 运行时（Android Runtime, ART）启动。所以第一个启动的进程并不是 Zygote。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "content": "安卓系统中负责启动应用，管理应用生命周期的系统服务是",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "ActivityManagerSystem",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "ActivitySystemManager",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "ActivityManagerService",
+          "correct": true,
+          "explanation": "在 Android 系统中，负责上述操作的系统服务为 AMS，全称为 Activity Manager Service。"
+        },
+        {
+          "id": 4,
+          "content": "ApplicationManagerService",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "content": "输入“adb logcat”后，出现“waiting for device”信息，可能的原因是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "ADB驱动程序没有正确安装",
+          "correct": true,
+          "explanation": "该信息的含义为 【等待 device 模式的设备连接】，可能出现的原因有以下几点：1）驱动未安装，计算机无法识别设备；2）设备没有物理连接到计算机，可检查接口是否松动或数据线是否正常；3）设备不在 device 模式，或未授权计算机；4）设备没有启用 USB 调试功能。"
+        },
+        {
+          "id": 2,
+          "content": "设备没有连接到计算机",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "在线ota升级后没有自动双清",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "安装包的签名不一致",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "content": "ADB驱动程序没正确安装",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 6,
+          "content": "设备没有连接计算机",
+          "correct": true,
+          "explanation": "该信息的含义为 【等待 device 模式的设备连接】，可能出现的原因有以下几点：1）驱动未安装，计算机无法识别设备；2）设备没有物理连接到计算机，可检查接口是否松动或数据线是否正常；3）设备不在 device 模式，或未授权计算机；4）设备没有启用 USB 调试功能。"
+        },
+        {
+          "id": 7,
+          "content": "在线ota升级后没自动双清",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 8,
+          "content": "安装包签名不一致",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "content": "下列关于JVM垃圾回收机制的说法不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Parallel Collector适合内存有限的情况",
+          "correct": true,
+          "explanation": "并行垃圾回收器（Parallel Collector）占用内存较多，优势是高吞吐量，能够高效利用 CPU。"
+        },
+        {
+          "id": 2,
+          "content": "G1垃圾回收器作为分代收集器，区分年轻代和老年代",
+          "correct": true,
+          "explanation": "G1（Garbage First）垃圾回收器面向堆内存任何部分来组成回收集进行回收，衡量标准不再是它属于哪个分代。"
+        },
+        {
+          "id": 3,
+          "content": "G1垃圾回收器的设计原则是收集尽可能多的垃圾",
+          "correct": false,
+          "explanation": "G1（Garbage First）垃圾回收器面向堆内存任何部分来组成回收集进行回收，衡量标准是哪块内存中存放的垃圾数量最多，回收收益最大。"
+        },
+        {
+          "id": 4,
+          "content": "G1垃圾回收器将堆内存划分为多个大小不等的Region",
+          "correct": true,
+          "explanation": "G1（Garbage First）垃圾回收器将连续的 Java 堆划分为多个大小相等的独立区域（Region）。"
+        },
+        {
+          "id": 5,
+          "content": "G1垃圾回收器采用的是分布式的垃圾收集器",
+          "correct": false,
+          "explanation": "G1（Garbage First）垃圾回收器针对于拥有多核处理器和大内存的机器，具有分布式的特性。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "content": "关于AndroidManifest.xml中的manifest标签，以下说法不正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "它声明应用程序特定的属性",
+          "correct": false,
+          "explanation": "manifest 标签中可以声明应用包名（Package Name）、版本号（Version Name）、内部版本号（Version Code）等特定属性。"
+        },
+        {
+          "id": 2,
+          "content": "它可以被嵌套在application标签内",
+          "correct": true,
+          "explanation": "manifest 标签必须声明在 AndroidManifest.xml 最外层，不能嵌套到 application 标签内。"
+        },
+        {
+          "id": 3,
+          "content": "它声明组件特定的属性",
+          "correct": true,
+          "explanation": "组件特定属性在 application 标签内子标签中声明。"
+        },
+        {
+          "id": 4,
+          "content": "这是AndroidManifest.xml中必须的标签",
+          "correct": false,
+          "explanation": "manifest 标签必须在 AndroidManifest.xml 最外层存在。"
+        },
+        {
+          "id": 5,
+          "content": "它声明的应用程序特定的属性",
+          "correct": false,
+          "explanation": "manifest 标签中可以声明应用包名（Package Name）、版本号（Version Name）、内部版本号（Version Code）等特定属性。"
+        },
+        {
+          "id": 6,
+          "content": "它可以被嵌套在application的标签内",
+          "correct": true,
+          "explanation": "manifest 标签必须声明在 AndroidManifest.xml 最外层，不能嵌套到 application 标签内。"
+        },
+        {
+          "id": 7,
+          "content": "它声明组件特定属性",
+          "correct": true,
+          "explanation": "组件特定属性在 application 标签内子标签中声明。"
+        },
+        {
+          "id": 8,
+          "content": "这是AndroidManifest.xml中必须标签",
+          "correct": false,
+          "explanation": "manifest 标签必须在 AndroidManifest.xml 最外层存在。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "content": "以下不适用于View类的onDraw()方法有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "如果需要自定义绘制视图，则必须重写onDraw方法",
+          "correct": false,
+          "explanation": "根据 Android 开发者文档，onDraw 方法的介绍为 Implement this to do your drawing。自定义绘制时需要重写（Override）实现此方法。"
+        },
+        {
+          "id": 2,
+          "content": "它接收两个参数：Canvas和View",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，onDraw 方法签名为 protected void android.view.View.onDraw (android.graphics.Canvas canvas)。只有一个 android.graphics.Canvas 类型的参数。"
+        },
+        {
+          "id": 3,
+          "content": "它接收一个Canvas类型的参数",
+          "correct": false,
+          "explanation": "同上。"
+        },
+        {
+          "id": 4,
+          "content": "它使用Canvas参数来绘制包含它的Activity的边缘",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，Canvas 参数的介绍为 the canvas on which the background will be drawn。它用于绘制背景，而不是 Activity 边缘。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "content": "关于安卓系统的说法不正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "刷机过程中出现Flash antirbpass error的报错，可以直接修改脚本强刷",
+          "correct": true,
+          "explanation": "任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 2,
+          "content": "刷机过程中如果变砖，可以通过9008的模式刷机救回MTK平台的机器",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 9008 模式刷机救砖。"
+        },
+        {
+          "id": 3,
+          "content": "刷机过程中出现的Missmatching image and device报错，不可以直接修改脚本强刷",
+          "correct": false,
+          "explanation": "该报错表示欲刷入的镜像与设备不匹配，强行刷入可能会导致设备无法启动。任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 4,
+          "content": "刷机过程中碰到数据线可能导致报错，重新刷机即可",
+          "correct": false,
+          "explanation": "刷机过程中碰到数据线可能导致设备与计算机的连接断开，从而引发报错。此时设备可能无法正常启动，重新连接设备后刷机即可。"
+        },
+        {
+          "id": 5,
+          "content": "刷机过程中出现的Missmatching image and device报错，可以直接修改脚本强刷",
+          "correct": true,
+          "explanation": "该报错表示欲刷入的镜像与设备不匹配，强行刷入可能会导致设备无法启动。任何报错都不建议修改脚本强刷。"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "content": "以下关于Dialog类的描述中正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "可以调用setContentView()将自定义布局添加到Dialog",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，setContentView 方法的介绍为 Set the screen content from a layout resource (to an explicit view)。用于添加自定义布局。"
+        },
+        {
+          "id": 2,
+          "content": "Dialog具有独立于Activity的生命周期",
+          "correct": false,
+          "explanation": "在 Activity 销毁时，Dialog 也会随之销毁。"
+        },
+        {
+          "id": 3,
+          "content": "调用show()方法在屏幕上显示一个Dialog",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，setContentView 方法的介绍为 Start the dialog and display it on screen。用于将对话框（Dialog）显示在屏幕上。"
+        },
+        {
+          "id": 4,
+          "content": "Dialog没有访问拥有它的Activity的方法",
+          "correct": false,
+          "explanation": "根据 Android 开发者文档，方法 public final android.app.Activity android.app.Dialog.getOwnerActivity () 用于获取拥有 Dialog 的 Activity。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "content": "关于Android安全策略相关内容，以下说法不正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Android安全策略基于DAC+Sandbox，因此root用户不受任何限制，可执行任意操作",
+          "correct": true,
+          "explanation": "root 用户会受限于 SELinux 规则，在执行一些操作时仍然会被 SELinux（和/或 seccomp）机制限制，并非不受任何限制。所以在开发需要获取最高权限时，还需要将 SELinux 设置为宽容模式，仅提升到 root 用户并非最高权限。"
+        },
+        {
+          "id": 2,
+          "content": "在正常情况下，所有非system分区，APP运行时的UID不是完全一样的",
+          "correct": false,
+          "explanation": "Android 系统会给每个非系统应用（untrusted_app）分配不同的 UID。"
+        },
+        {
+          "id": 3,
+          "content": "Android系统加密保护用户数据，Android 10或更高版本的设备使用全盘加密",
+          "correct": true,
+          "explanation": "根据 Android 文档，Android 10 或更高版本不允许使用全盘加密（Full Disk Encryption, FDE），而是使用文件级加密（File-Based Encryption, FBE）。"
+        },
+        {
+          "id": 4,
+          "content": "Android系统使用TEE来保护极度敏感的数据，BL解锁后会导致TEE熔断",
+          "correct": false,
+          "explanation": "小米为了保护用户敏感数据，添加了 TEE 熔断机制，解锁 BootLoader 后，一些刷机行为会触发熔断机制，具体机制介绍可参考我酷安动态。其他厂商出于保护用户数据安全考量，也可能会添加熔断机制（如 Motorola）。"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "content": "以下关于BL解锁刷机的说法中，不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "刷入第三方Recovery，个人数据通常是不会丢失",
+          "correct": false,
+          "explanation": "刷入第三方 Recovery 通常不会涉及个人数据（userdata）。"
+        },
+        {
+          "id": 2,
+          "content": "擦除cache分区数据，个人数据通常是会丢失",
+          "correct": true,
+          "explanation": "擦除缓存（cache）分区数据，通常不会涉及个人数据（userdata）。"
+        },
+        {
+          "id": 3,
+          "content": "Xiaomi/Redmi的手机，一般同时按住音量+键和电源键可以进入Recovery",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机进入 Recovery 的组合键一般是「电源键」和「音量上键」。"
+        },
+        {
+          "id": 4,
+          "content": "线刷前不建议备份重要数据",
+          "correct": true,
+          "explanation": "线刷刷机可能会清除所有数据，重要数据需要在刷机前备份。"
+        },
+        {
+          "id": 5,
+          "content": "手机如只能进入FASTBOOT，可能是引导程序损毁",
+          "correct": false,
+          "explanation": "该描述是正确的。"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "content": "下列关于说法不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Parallel Collector适合于内存有限的情况",
+          "correct": true,
+          "explanation": "并行垃圾回收器（Parallel Collector）占用内存较多，优势是高吞吐量，能够高效利用 CPU。"
+        },
+        {
+          "id": 2,
+          "content": "G1垃圾回收器作为分代的收集器，区分年轻代和老年代",
+          "correct": true,
+          "explanation": "G1（Garbage First）垃圾回收器面向堆内存任何部分来组成回收集进行回收，衡量标准不再是它属于哪个分代。"
+        },
+        {
+          "id": 3,
+          "content": "G1垃圾回收器设计原则是收集尽可能少的垃圾",
+          "correct": true,
+          "explanation": "G1（Garbage First）垃圾回收器面向堆内存任何部分来组成回收集进行回收，衡量标准是哪块内存中存放的垃圾数量最多，回收收益最大。"
+        },
+        {
+          "id": 4,
+          "content": "G1垃圾回收器将堆内存划分多个大小相等的Region",
+          "correct": false,
+          "explanation": "G1（Garbage First）垃圾回收器将连续的 Java 堆划分为多个大小相等的独立区域（Region）。"
+        },
+        {
+          "id": 5,
+          "content": "G1垃圾回收器采用的是分布式垃圾收集器",
+          "correct": false,
+          "explanation": "G1（Garbage First）垃圾回收器针对于拥有多核处理器和大内存的机器，具有分布式的特性。"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "content": "MTK刷机，报错原因匹配的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "S_DA_EMMC_FLASH_NOT_FOUND：手机的内存己经损坏",
+          "correct": false,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        },
+        {
+          "id": 2,
+          "content": "S_FT_NEED_DOWNLOAD_ALL_FAIL：目标ROM文件和手机系统差距过大",
+          "correct": true,
+          "explanation": "该报错意味着目标 ROM 文件和手机的系统差距过大，通常在单刷某个分区时会出现。"
+        },
+        {
+          "id": 3,
+          "content": "S_BROM_CMD_STARTCMD_FAIL：没有加载好刷机包文件",
+          "correct": true,
+          "explanation": "该报错意味着没有加载好刷机包的文件或驱动没装好。"
+        },
+        {
+          "id": 4,
+          "content": "S_UNSUPPORTED_OPERATION：已存在同名的程序",
+          "correct": false,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "content": "烧录img、bin、mbn、elf等镜像文件内容到指定分区，正确的指令是",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot boot<镜像文件名或路径> <分区名>",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "fastboot boot <分区名> <镜像文件名或路径>",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "fastboot flash <镜像文件名或路径> <分区名>",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "fastboot flash <分区名> <镜像文件名或路径>",
+          "correct": true,
+          "explanation": "根据 fastboot 使用说明，刷入（flash）子命令格式为 flash PARTITION [FILENAME]。"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "content": "下列关于说法正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Parallel Collector适合于内存有限的情况",
+          "correct": false,
+          "explanation": "并行垃圾回收器（Parallel Collector）占用内存较多，优势是高吞吐量，能够高效利用 CPU。"
+        },
+        {
+          "id": 2,
+          "content": "G1垃圾回收器作为分代的收集器，区分年轻代和老年代",
+          "correct": false,
+          "explanation": "G1（Garbage First）垃圾回收器面向堆内存任何部分来组成回收集进行回收，衡量标准不再是它属于哪个分代。"
+        },
+        {
+          "id": 3,
+          "content": "G1垃圾回收器设计原则是收集尽可能少的垃圾",
+          "correct": false,
+          "explanation": "G1（Garbage First）垃圾回收器面向堆内存任何部分来组成回收集进行回收，衡量标准是哪块内存中存放的垃圾数量最多，回收收益最大。"
+        },
+        {
+          "id": 4,
+          "content": "G1垃圾回收器将堆内存划分多个大小相等的Region",
+          "correct": true,
+          "explanation": "G1（Garbage First）垃圾回收器将连续的 Java 堆划分为多个大小相等的独立区域（Region）。"
+        },
+        {
+          "id": 5,
+          "content": "G1垃圾回收器采用的是分布式垃圾收集器",
+          "correct": true,
+          "explanation": "G1（Garbage First）垃圾回收器针对于拥有多核处理器和大内存的机器，具有分布式的特性。"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "content": "以下适用于View类的onDraw()方法有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "如果需要自定义绘制视图，则必须重写onDraw方法",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，onDraw 方法的介绍为 Implement this to do your drawing。自定义绘制时需要重写（Override）实现此方法。"
+        },
+        {
+          "id": 2,
+          "content": "它接收两个参数：Canvas和View",
+          "correct": false,
+          "explanation": "根据 Android 开发者文档，onDraw 方法签名为 protected void android.view.View.onDraw (android.graphics.Canvas canvas)。只有一个 android.graphics.Canvas 类型的参数。"
+        },
+        {
+          "id": 3,
+          "content": "它接收一个Canvas类型的参数",
+          "correct": true,
+          "explanation": "同上。"
+        },
+        {
+          "id": 4,
+          "content": "它使用Canvas参数来绘制包含它的Activity的边缘",
+          "correct": false,
+          "explanation": "根据 Android 开发者文档，Canvas 参数的介绍为 the canvas on which the background will be drawn。它用于绘制背景，而不是 Activity 边缘。"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "content": "下列说法不正确的有？",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "搭载Qualcomm手机不可以使用EDL刷机",
+          "correct": true,
+          "explanation": "高通（Qualcomm）平台的手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。"
+        },
+        {
+          "id": 2,
+          "content": "EDL刷机仅适用于小米14系列和Redmi K70系列之前发布的手机",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 所有搭载高通（Qualcomm）处理器的手机均可使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。自小米 8 后，小米公司不再允许用户自行使用 EDL 刷机，用户需前往官方售后服务网点才能使用 EDL 刷机。"
+        },
+        {
+          "id": 3,
+          "content": "EDL刷机不需要进入Fastboot模式后使用",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL, 9008 模式）刷机更为底层，能够在无法进入 FASTBOOT 时救砖。"
+        },
+        {
+          "id": 4,
+          "content": "在没有root情况下可以安装Magisk",
+          "correct": false,
+          "explanation": "在手机中安装 Magisk 正是为了获取 root 权限。"
+        },
+        {
+          "id": 5,
+          "content": "FASTBOOT模式下，通过fastboot -r ANTI可以输出防回滚机制版本号",
+          "correct": true,
+          "explanation": "fastboot 不存在 -r 命令开关。正确的输出小米防回滚机制版本号的命令应为 fastboot getvar anti。"
+        },
+        {
+          "id": 6,
+          "content": "Android系统启动时，第一个启动的进程是zygote进程",
+          "correct": true,
+          "explanation": "Zygote 进程由 Android 运行时（Android Runtime, ART）启动。所以第一个启动的进程并不是 Zygote。"
+        },
+        {
+          "id": 7,
+          "content": "EDL刷机需要进入Fastboot模式后使用",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL, 9008 模式）刷机更为底层，能够在无法进入 FASTBOOT 时救砖。"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "content": "关于AndroidManifest.xml中的manifest标签，以下说法正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "它声明的应用程序特定的属性",
+          "correct": true,
+          "explanation": "manifest 标签中可以声明应用包名（Package Name）、版本号（Version Name）、内部版本号（Version Code）等特定属性。"
+        },
+        {
+          "id": 2,
+          "content": "它可以被嵌套在application的标签内",
+          "correct": false,
+          "explanation": "manifest 标签必须声明在 AndroidManifest.xml 最外层，不能嵌套到 application 标签内。"
+        },
+        {
+          "id": 3,
+          "content": "它声明组件特定属性",
+          "correct": false,
+          "explanation": "组件特定属性在 application 标签内子标签中声明。"
+        },
+        {
+          "id": 4,
+          "content": "这是AndroidManifest.xml中必须标签",
+          "correct": true,
+          "explanation": "manifest 标签必须在 AndroidManifest.xml 最外层存在。"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "content": "关于Android安全策略相关内容，以下说法正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Android安全策略基于DAC+Sandbox，因此root用户不受任何限制，可执行任意操作",
+          "correct": false,
+          "explanation": "root 用户会受限于 SELinux 规则，在执行一些操作时仍然会被 SELinux（和/或 seccomp）机制限制，并非不受任何限制。所以在开发需要获取最高权限时，还需要将 SELinux 设置为宽容模式，仅提升到 root 用户并非最高权限。"
+        },
+        {
+          "id": 2,
+          "content": "在正常情况下，所有非system分区，APP运行时的UID不是完全一样的",
+          "correct": true,
+          "explanation": "Android 系统会给每个非系统应用（untrusted_app）分配不同的 UID。"
+        },
+        {
+          "id": 3,
+          "content": "Android系统加密保护用户数据，Android 10或更高版本的设备使用全盘加密",
+          "correct": false,
+          "explanation": "根据 Android 文档，Android 10 或更高版本不允许使用全盘加密（Full Disk Encryption, FDE），而是使用文件级加密（File-Based Encryption, FBE）。"
+        },
+        {
+          "id": 4,
+          "content": "Android系统使用TEE来保护极度敏感的数据，BL解锁后会导致TEE熔断",
+          "correct": true,
+          "explanation": "小米为了保护用户敏感数据，添加了 TEE 熔断机制，解锁 BootLoader 后，一些刷机行为会触发熔断机制，具体机制介绍可参考我酷安动态。其他厂商出于保护用户数据安全考量，也可能会添加熔断机制（如 Motorola）。"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "content": "下列指令对应不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot getvar code：输出该机型的内部代号名称",
+          "correct": true,
+          "explanation": "输出机型内部代号的正确命令应为 fastboot getvar product。"
+        },
+        {
+          "id": 2,
+          "content": "fastboot oem device-info：输出当前BL锁的状态",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，device-info 命令将输出如下设备状态：Verity mode（完整性校验状态），刷入非官方镜像需要禁用，为 false 时表示已禁用完整性校验；Device unlocked（BootLoader 解锁状态），为 true 时表示已解锁；Device critical unlocked（关键分区解锁状态），为 true 时表示 BootLoader 已完整解锁；Charger screen enabled（关机充电屏幕状态）。"
+        },
+        {
+          "id": 3,
+          "content": "fastboot erase <分区名>：擦除分区数据",
+          "correct": false,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据。"
+        },
+        {
+          "id": 4,
+          "content": "fastboot oem lock：解锁设备",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，lock 命令为回锁命令。"
+        },
+        {
+          "id": 5,
+          "content": "fastboot -r：擦除设备上的所有数据",
+          "correct": true,
+          "explanation": "fastboot 不存在 -r 命令开关。如果要擦除设备中存储的所有用户数据，正确的命令开关应为 -w。"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "content": "以下关于Dialog类的描述正确的是",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "可以调用setContentView()将自定义布局添加到Dialog",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，setContentView 方法的介绍为 Set the screen content from a layout resource (to an explicit view)。用于添加自定义布局。"
+        },
+        {
+          "id": 2,
+          "content": "Dialog具有独立于Activity的生命周期",
+          "correct": false,
+          "explanation": "在 Activity 销毁时，Dialog 也会随之销毁。"
+        },
+        {
+          "id": 3,
+          "content": "调用show()方法在屏幕上显示一个Dialog",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，setContentView 方法的介绍为 Start the dialog and display it on screen。用于将对话框（Dialog）显示在屏幕上。"
+        },
+        {
+          "id": 4,
+          "content": "Dialog没有访问拥有它的Activity的方法",
+          "correct": false,
+          "explanation": "根据 Android 开发者文档，方法 public final android.app.Activity android.app.Dialog.getOwnerActivity () 用于获取拥有 Dialog 的 Activity。"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "content": "如何在FASTBOOT命令行内，刷入twrp到boot分区？",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot flash update boot.img",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "fastboot flash recovery boot.img",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "fastboot flash boot boot.img",
+          "correct": true,
+          "explanation": "根据 fastboot 使用说明，刷入（flash）子命令格式为 flash PARTITION [FILENAME]，其中分区名为 boot，文件名任意。不过，真的有人会闲得蛋疼把 TWRP 刷到 boot 分区里？有 recovery 分区不刷去刷 boot，不想开机了？小米你搞毛线呢？一开始就误导用户的题现在又搬出来凑数？"
+        },
+        {
+          "id": 4,
+          "content": "fastboot flash update recovery boot.img",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "content": "关于9008模式刷机说法不正确的有？",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "手机必须搭载高通处理器或联发科处理器才能使用9008模式刷机",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 9008 模式刷机救砖。"
+        },
+        {
+          "id": 2,
+          "content": "9008模式下的刷机会比fastboot模式下的刷机更加彻底",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL 或 9008）模式刷机更为底层，能够写入一些在 fastboot 模式下无法写入的分区或数据。"
+        },
+        {
+          "id": 3,
+          "content": "小米所有手机均可使用9008模式",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 仅搭载高通（Qualcomm）处理器的手机才可使用 Qualcomm Emergency Download（EDL 或 9008）模式刷机。自小米 8 后，小米公司不再允许用户自行使用 EDL 刷机，用户需前往官方售后服务网点才能使用 EDL 刷机。"
+        },
+        {
+          "id": 4,
+          "content": "9008模式仅限手机可正常进入系统时才可使用",
+          "correct": true,
+          "explanation": "Qualcomm Emergency Download（EDL 或 9008）模式刷机更为底层，通常用于在无法进入系统时救砖。"
+        },
+        {
+          "id": 5,
+          "content": "手机必须搭载高通处理器才能使用9008模式刷机",
+          "correct": false,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 9008 模式刷机救砖。"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "content": "FASTBOOT模式下如何输出防回滚机制（ANTI）版本号",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot -w ANTI",
+          "correct": false,
+          "explanation": "命令开关 -w 用于清除用户数据。"
+        },
+        {
+          "id": 2,
+          "content": "fastboot -r ANTI",
+          "correct": false,
+          "explanation": "fastboot 不存在 -r 命令开关。"
+        },
+        {
+          "id": 3,
+          "content": "fastboot getvar anti",
+          "correct": true,
+          "explanation": "正确的输出小米防回滚机制（Xiaomi Anti-Rollback）版本号命令为 fastboot getvar anti。"
+        },
+        {
+          "id": 4,
+          "content": "fastboot devices",
+          "correct": false,
+          "explanation": "子命令 devices 用于列出已连接的设备列表。"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "content": "以下说法关于Android权限的说法，不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "PROCESS_OUTGOING_CALLS权限允许应用程序访问通话记录",
+          "correct": true,
+          "explanation": "该权限不提供访问通话记录的授权。如需访问通话记录，请使用 READ_CALL_LOG 权限。"
+        },
+        {
+          "id": 2,
+          "content": "PROCESS_OUTGOING_CALLS权限应用程序监控或中止拨出呼叫",
+          "correct": false,
+          "explanation": "该权限将允许应用在电话呼出期间查看正在拨打的号码，并提供将呼叫重定向到其他号码和中断呼叫的选项。"
+        },
+        {
+          "id": 3,
+          "content": "PROCESS_OUTGOING_CALLS权限允许应用程序记录拨出电话",
+          "correct": false,
+          "explanation": "应用获取该权限后能够查看拨打的号码，应用获取到号码后可以将其记录。"
+        },
+        {
+          "id": 4,
+          "content": "PROCESS_OUTGOING_CALLS权限允许应用程序转接来电",
+          "correct": true,
+          "explanation": "该权限无法影响呼入电话的行为，无法用于转接来电。"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "content": "输入fastboot devices命令后，可能输出的结果是",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "$ wget https://xxx.xxx/xxx/xxx/xxx.img",
+          "correct": false,
+          "explanation": "该内容为用户手动输入的指令。"
+        },
+        {
+          "id": 2,
+          "content": "XMABC100-01 fastboot",
+          "correct": true,
+          "explanation": "fastboot 子命令 devices 的输出格式为空（即无设备连接）或「<序列号> fastboot」（如有多个设备同时连接，则每行会显示一个设备）。"
+        },
+        {
+          "id": 3,
+          "content": "remount failed",
+          "correct": false,
+          "explanation": "该内容为挂载（mount）命令的报错。"
+        },
+        {
+          "id": 4,
+          "content": "MBR: verify success!",
+          "correct": false,
+          "explanation": "该内容为引导加载程序的日志。"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "content": "MTK刷机时，报错4004的意思是",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "驱动问题",
+          "correct": true,
+          "explanation": "该报错代码表示驱动问题。"
+        },
+        {
+          "id": 2,
+          "content": "内存损坏",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "刷机软件版本不匹配",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "ROM文件和手机系统差距太大",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "content": "以下说法正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "versionCode与用户侧显示的应用程序版本号相同",
+          "correct": false,
+          "explanation": "用户侧显示的应用程序版本号为 versionName，并非 versionCode。"
+        },
+        {
+          "id": 2,
+          "content": "如果同一台手机已经安装一个高versionCode的客户端版本，则无法安装同包名的低versionCode客户端",
+          "correct": true,
+          "explanation": "旧版应用通常不兼容新版的数据，为了兼容性考量，用户无法降级覆盖安装软件。"
+        },
+        {
+          "id": 3,
+          "content": "同一个应用程序，versionCode变动时，versionName可以保持不变",
+          "correct": true,
+          "explanation": "versionCode 与 versionName 互不影响。"
+        },
+        {
+          "id": 4,
+          "content": "发布新版本的应用程序时，必须从之前的versionCode开始递增",
+          "correct": true,
+          "explanation": "系统和/或应用商店通过 versionCode 来判断应用是否有更新，通常情况下，应用在发布更新时，会选择从之前的 version 开始递增。"
+        },
+        {
+          "id": 5,
+          "content": "刷机过程中出现Flash antirbpass error的报错，可以直接修改脚本强刷",
+          "correct": false,
+          "explanation": "任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 6,
+          "content": "刷入的系统版本与原系统差异较大时，通常建议执行四清",
+          "correct": true,
+          "explanation": "刷入系统差异较大时，如果不完整清除数据，可能会无法开机。这里的四清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）、系统缓存（Cache）以及账户锁（Frp）。"
+        },
+        {
+          "id": 7,
+          "content": "手机如只能进入FASTBOOT，可能是引导程序损毁",
+          "correct": true,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 8,
+          "content": "正式版切换到开发版一般不需要解锁",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 手机的正式版切换到开发版通常不需要解锁，部分机型仍然有例外情况。"
+        },
+        {
+          "id": 9,
+          "content": "HAL介于Android framework层和应用层之间，屏蔽了硬件底层的具体实现，防止AOSP受GPL污染",
+          "correct": false,
+          "explanation": "根据 Android 文档对于 AOSP 软件堆栈架构的介绍，硬件抽象层（Hardware Abstraction Layer, HAL）介于 Android 运行时（Android Runtime, ART）层与 Linux 内核（Linux Kernel）层之间，并非 Android 框架（Android Framework）层与应用（Android Apps）层之间。"
+        },
+        {
+          "id": 10,
+          "content": "隐式Intent没有指定组件",
+          "correct": true,
+          "explanation": "隐式 Intent 并不指定组件（Component）。"
+        },
+        {
+          "id": 11,
+          "content": "隐式Intent有指定的组件来运行一个确切的类",
+          "correct": false,
+          "explanation": "隐式 Intent 通过操作（Action）来传递意图，由系统解析 Action 并启动对应的 Activity，或弹出对话框供用户选择，并未提供确切的类。"
+        },
+        {
+          "id": 12,
+          "content": "隐式Intent必须包含足够的数据，允许Android系统选择最佳组件来运行",
+          "correct": true,
+          "explanation": "隐式 Intent 需要在传递意图时提供足够的数据（最少需要一个 Action），由系统解析并启动对应的 Activity，或弹出对话框供用户选择。"
+        },
+        {
+          "id": 13,
+          "content": "隐式Intent必须使用Bundle携带额外的数据",
+          "correct": false,
+          "explanation": "额外数据（Extra）不是必须的，传递额外数据也可以不使用 Bundle。"
+        },
+        {
+          "id": 14,
+          "content": "刷入第三方TWRP，通常选择刷入到system分区",
+          "correct": false,
+          "explanation": "TWRP 通常刷入到 Recovery 分区。"
+        },
+        {
+          "id": 15,
+          "content": "刷入第三方Recovery，通常数据不会丢失",
+          "correct": true,
+          "explanation": "刷入第三方 Recovery 通常不会涉及数据（userdata）。"
+        },
+        {
+          "id": 16,
+          "content": "在正常情况下，所有非system分区的APP运行时的UID都是一样的",
+          "correct": false,
+          "explanation": "Android 系统会给每个非系统应用（untrusted_app）分配不同的 UID。"
+        },
+        {
+          "id": 17,
+          "content": "Xiaomi/Redmi手机，一般长按电源键和音量加键即可进入Recovery",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 手机进入 Recovery 的组合键一般是「电源键」和「音量加键」。"
+        },
+        {
+          "id": 18,
+          "content": "线刷可以用来降级回到之前的系统版本、彻底删除设备数据、恢复误删除数据等",
+          "correct": false,
+          "explanation": "线刷无法恢复数据。"
+        },
+        {
+          "id": 19,
+          "content": "在FASTBOOT模式下，用flash命令刷写固件",
+          "correct": true,
+          "explanation": "根据 fastboot 使用说明，刷入（flash）子命令格式为 flash PARTITION [FILENAME]。"
+        },
+        {
+          "id": 20,
+          "content": "Android系统启动时，首先启动的是zygote进程",
+          "correct": false,
+          "explanation": "Zygote 进程由 Android 运行时（Android Runtime, ART）启动。所以第一个启动的进程并不是 Zygote。"
+        },
+        {
+          "id": 21,
+          "content": "如果需要自定义绘制视图，则必须重写onDraw方法",
+          "correct": true,
+          "explanation": "根据 Android 开发者文档，onDraw 方法的介绍为 Implement this to do your drawing。自定义绘制时需要重写（Override）实现此方法。"
+        },
+        {
+          "id": 22,
+          "content": "擦除cache分区数据，个人数据通常不会丢失",
+          "correct": true,
+          "explanation": "擦除缓存（cache）分区数据，通常不会涉及个人数据（userdata）。"
+        },
+        {
+          "id": 23,
+          "content": "子网掩码的作用是识别子网",
+          "correct": true,
+          "explanation": "子网掩码用于将 IP 地址划分为网络地址和主机地址，从而实现对网络的划分。"
+        },
+        {
+          "id": 24,
+          "content": "网桥可以有选择地转发数据帧",
+          "correct": true,
+          "explanation": "网桥是数据链路层设备，可以根据 MAC 地址选择性地转发数据帧，而不是像简单的中继器一样广播全部数据。"
+        },
+        {
+          "id": 25,
+          "content": "网络配置后不能进入Internet服务，ping 127.0.0.1是通的，ping 网关不通，原因可能是网关没有正确配置",
+          "correct": true,
+          "explanation": "该问题的原因可能是网关没有正确配置，或者存在网络连接或路由问题。"
+        },
+        {
+          "id": 26,
+          "content": "通信子网为资源子网提供信息传输服务",
+          "correct": true,
+          "explanation": "通信子网通常是指负责数据传输和通信的子网，而资源子网则可能包含具体的资源（如服务器、数据库等）。通信子网提供信息传输服务以连接不同的资源子网。"
+        },
+        {
+          "id": 27,
+          "content": "如果需要自定义绘制视图，不必重写onDraw方法",
+          "correct": false,
+          "explanation": "根据 Android 开发者文档，onDraw 方法的介绍为 Implement this to do your drawing。自定义绘制时需要重写（Override）实现此方法。"
+        },
+        {
+          "id": 28,
+          "content": "BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行",
+          "correct": false,
+          "explanation": "根据 Android 文档，引导加载器（BootLoader）负责在设备上启动内核，而不是系统。"
+        },
+        {
+          "id": 29,
+          "content": "同一个应用程序，versionCode变动时，versionName不可以保持不变",
+          "correct": false,
+          "explanation": "versionCode 与 versionName 互不影响。"
+        },
+        {
+          "id": 30,
+          "content": "采用CRC进行差错校验，生成多项式为G(X)=X4+X+1，信息码字为10110，则计算出的CRC校验码是0010",
+          "correct": false,
+          "explanation": "根据给定的生成多项式（10011）和信息码字，计算得出的 CRC 校验码为 1111。"
+        },
+        {
+          "id": 31,
+          "content": "总线位宽是指总线上同时能够传输的数据位数，通常是指数据总线的根数",
+          "correct": false,
+          "explanation": "总线位宽指的是单个数据总线的宽度，而不是数据总线的根数。"
+        },
+        {
+          "id": 32,
+          "content": "在计算机网络参考模型中，第N层为第N+1层提供服务",
+          "correct": true,
+          "explanation": "计算机网络参考模型通常指的是 Open Systems Interconnection（OSI）模型，每一层（N）根据当层的协议实现接口，向其上一层（N+1）提供服务。"
+        },
+        {
+          "id": 33,
+          "content": "网桥不可以有选择地转发数据帧",
+          "correct": false,
+          "explanation": "网桥是数据链路层设备，可以根据 MAC 地址选择性地转发数据帧，而不是像简单的中继器一样广播全部数据。"
+        },
+        {
+          "id": 34,
+          "content": "在不做子网划分的情况下，154.27.0.0/16能支持65534台主机",
+          "correct": true,
+          "explanation": "CIDR 块中，/16 表示前 16 位为网络标识，剩余的 32 - 16 = 16 位用于主机标识。在不考虑子网划分的情况下，主机部分有 2^16 个可用地址，减去广播和网关地址，实际可用地址数为 2^16 - 2 = 65534，即能支持的最大主机数。"
+        },
+        {
+          "id": 35,
+          "content": "CRC校验在接收端发现差错后采取的措施是反馈重发",
+          "correct": true,
+          "explanation": "CRC 校验无法纠错，如发现差错只能向发送端反馈，要求其重新发送。"
+        },
+        {
+          "id": 36,
+          "content": "ACK-Flood攻击属于利用TCP协议发起的攻击",
+          "correct": true,
+          "explanation": "在 Transmission Control Protocol（TCP）协议中，Acknowledgment（ACK）是握手的一个环节。ACK-Flood 攻击通过向服务器发送大量 ACK 握手包，使服务器被迫处理这些不完整的请求，可能会因此消耗大量资源。"
+        },
+        {
+          "id": 37,
+          "content": "删除一个视图的SQL命令是DELETE",
+          "correct": false,
+          "explanation": "SQL 数据库中用于删除视图（View）的命令通常为「DROP VIEW <视图名>」。"
+        },
+        {
+          "id": 38,
+          "content": "刷机过程中，出现Flash antirbpass error的报错，不可以直接修改脚本强刷",
+          "correct": true,
+          "explanation": "该报错意味着欲刷入镜像与设备中已有的小米防回滚机制（Xiaomi Anti-Rollback）冲突，强行刷入可能会无法开机。任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 39,
+          "content": "刷机过程中，执行fastboot erase system可擦除全部数据",
+          "correct": false,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据，system 为 Android 系统分区，擦除该分区并不影响用户数据。"
+        },
+        {
+          "id": 40,
+          "content": "正式版切换到开发版一般不需要BL解锁",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 手机的正式版切换到开发版通常不需要解锁，部分机型仍然有例外情况。最新的设备已不再提供开发版。"
+        },
+        {
+          "id": 41,
+          "content": "重定向是指将网络请求从一个网址转移到其他网址",
+          "correct": true,
+          "explanation": "对于网络请求，该描述是正确的。"
+        },
+        {
+          "id": 42,
+          "content": "刷机过程中，刷入的系统版本与原系统差异较大时，通常建议执行四清",
+          "correct": true,
+          "explanation": "刷入系统差异较大时，如果不完整清除数据，可能会无法开机。这里的四清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）、系统缓存（Cache）以及账户锁（Frp）。"
+        },
+        {
+          "id": 43,
+          "content": "对称加密最大的缺点在于其密钥管理困难",
+          "correct": true,
+          "explanation": "对称性加密使用相同的密钥进行加解密。因此，密钥管理很困难，通常可以分为以下几个方面：1）分发：当密钥在传输过程中被截获，密文就有可能被非法解密；2）更新：更新密钥时，双方都需要及时获得新密钥，否则密文无法解密；3）存储：若通信双方的任何一方未能安全存储密钥，就可能导致密钥泄露，密文被非法解密。如果是多方通信，则需要通信的每一方都有极高的安全存储要求；4）数量：为了防止密钥泄露发生，通常会为多方通信的每一位生成独立的密钥，而密钥增多又会加大密钥管理的难度。"
+        },
+        {
+          "id": 44,
+          "content": "inet是UNIX系统最重要的网络服务进程",
+          "correct": false,
+          "explanation": "inetd（Internet Daemon）是重要的网络进程，但并不存在 inet 进程，它可能指的是接口或库。"
+        },
+        {
+          "id": 45,
+          "content": "RBAC模型同时具有强制访问控制和自主访问控制属性",
+          "correct": true,
+          "explanation": "基于角色的访问控制（Role-Based Access Control，RBAC）模型的优点是灵活可扩展，在特定的配置下，可以实现强制访问控制（Mandatory Access Control，MAC）和自主访问控制（Discretionary Access Control，DAC）模型的特性。因此，可以说 RBAC 同时具有 MAC 和 DAC 的属性。"
+        },
+        {
+          "id": 46,
+          "content": "刷机过程中，官方提供给用户的刷机工具是MiFlash",
+          "correct": true,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 47,
+          "content": "SHA算法要比MD5算法更快",
+          "correct": false,
+          "explanation": "通常情况下，SHA 算法比 MD5 算法慢，但 SHA 算法更为安全。"
+        },
+        {
+          "id": 48,
+          "content": "线刷可以用来降级回到之前的系统版本、彻底删除设备数据等",
+          "correct": true,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 49,
+          "content": "哈希函数是一种双向密码机制",
+          "correct": false,
+          "explanation": "哈希（Hash）是一种单向密码，不具备可逆向性，通常只能通过碰撞的方式来得出哈希原文。"
+        },
+        {
+          "id": 50,
+          "content": "BL锁可以防止用户在设备上安装非官方或未授权的操作系统",
+          "correct": true,
+          "explanation": "BootLoader 锁在设计上的用途即为此。"
+        },
+        {
+          "id": 51,
+          "content": "RAM指的是手机的运行内存",
+          "correct": true,
+          "explanation": "RAM 全称为 Random-access memory，指的是运行内存。"
+        },
+        {
+          "id": 52,
+          "content": "DNS欺骗技术可分为基于DNS服务器的欺骗和基于用户计算机的欺骗",
+          "correct": true,
+          "explanation": "该描述是正确的。举例来说，DNS 缓存污染属于 DNS 服务器欺骗，而 DNS 重定向属于用户计算机本地网络欺骗。"
+        },
+        {
+          "id": 53,
+          "content": "原始设备制造商简称OEM，是英文Original Environment Manufacturer的缩写",
+          "correct": false,
+          "explanation": "OEM 是英文 Original Equipment Manufacturer 的缩写"
+        },
+        {
+          "id": 54,
+          "content": "MD5算法要比SHA算法更快",
+          "correct": true,
+          "explanation": "通常情况下，MD5 算法比 SHA 算法快，但 SHA 算法更为安全。"
+        },
+        {
+          "id": 55,
+          "content": "9008模式仅限手机可正常进入系统时才可使用",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL 或 9008）模式刷机更为底层，通常用于在无法进入系统时救砖。"
+        },
+        {
+          "id": 56,
+          "content": "DNS欺骗是攻击者冒充域名服务器的一种欺骗行为",
+          "correct": true,
+          "explanation": "DNS 欺骗是指通过篡改域名服务器（DNS）的响应，以欺骗用户或系统，使其访问错误的网站或受到攻击。"
+        },
+        {
+          "id": 57,
+          "content": "BS7799标准是英国标准协会制定的信息安全管理体系标准，它包括两个部分：《信息安全管理实施指南》和《信息安全管理体系规范和应用指南》。依据该标准可以组织建立、实施与保持信息安全管理体系、对组织内关键信息资产的安全态势进行动态监测",
+          "correct": false,
+          "explanation": "BS7799（ISO/IEC 27001）关注信息安全管理体系，未指定特定技术。动态监测需使用SIEM、IDS等，标准鼓励根据风险选择技术。组织可在框架内自定义实施，灵活选择适合的解决方案。"
+        },
+        {
+          "id": 58,
+          "content": "蜜罐是一种在互联网上运行的计算机系统，是专门为吸引并诱骗那些试图非法闯入他人计算机系统的人而设计的",
+          "correct": true,
+          "explanation": "蜜罐是一种安全机制，用于诱导攻击者并监测他们的行为，以便学习攻击技巧和保护真实系统。"
+        },
+        {
+          "id": 59,
+          "content": "《信息安全技术—SM3密码杂凑算法》中，SM3的杂凑值长度为16字节",
+          "correct": false,
+          "explanation": "SM3 的杂凑值长度为 512 位（64字节），而不是16字节。"
+        },
+        {
+          "id": 60,
+          "content": "研究密码破译的科学称为密码分析学。密码分析学中，根据密码分析者可利用的数据资源，可将攻击密码的类型分为四种，选择密文攻击适合于攻击公开密钥密码体制，特别是攻击其数字签名",
+          "correct": true,
+          "explanation": "密码分析学中的选择密文攻击不适用于公开密钥密码体制，而是适用于对称密钥密码体制。"
+        },
+        {
+          "id": 61,
+          "content": "基于MD4和MD5设计的S/Key口令是一种一次性口令生成方案，它可以对访问者的身份与设备进行综合验证，该方案可以对抗穷举攻击",
+          "correct": false,
+          "explanation": "S/Key口令是基于MD4和MD5的一次性口令生成方案，但它不太适用于对抗穷举攻击。"
+        },
+        {
+          "id": 62,
+          "content": "Android提供了Handler和Looper来满足线程间的通信，其中Looper类用来管理特定线程内对象之间的消息交换",
+          "correct": true,
+          "explanation": "Android中，Handler和Looper确实用于线程间的通信，Looper用来管理消息队列，确保消息在特定线程内被处理。"
+        },
+        {
+          "id": 63,
+          "content": "刷机过程中如果变砖，可以通过9008的模式刷机救回非MTK平台的机器",
+          "correct": true,
+          "explanation": "9008模式是一种刷机模式，可以用于修复变砖（软砖）的手机，但通常不限于MTK平台。"
+        },
+        {
+          "id": 64,
+          "content": "inetd是UNIX系统最重要的网络服务进程",
+          "correct": true,
+          "explanation": "inetd（Internet Daemon）是UNIX系统中负责启动其他网络服务的守护进程。"
+        },
+        {
+          "id": 65,
+          "content": "在白盒法技术测试用例的设计中，语句覆盖是必须要满足的覆盖标准",
+          "correct": true,
+          "explanation": "语句覆盖是白盒测试中的一种覆盖标准，确保测试用例覆盖代码中的每个语句。"
+        },
+        {
+          "id": 66,
+          "content": "认证常用的参数有口令、标识符、生物特征等，但认证不允许第三方参与验证过程",
+          "correct": false,
+          "explanation": "认证可能涉及第三方参与验证过程，例如证书颁发机构（CA）的参与。"
+        },
+        {
+          "id": 67,
+          "content": "交换机可以实现从多个端口上接收数据，并根据数据包头部的信息将其转发到正确的目标地址",
+          "correct": true,
+          "explanation": "交换机是网络设备，可以根据数据包的目标地址进行智能转发，提高网络性能。"
+        },
+        {
+          "id": 68,
+          "content": "小米所有手机均可使用9008模式",
+          "correct": false,
+          "explanation": "不是所有小米手机都可以使用9008模式，具体适用性因型号而异。"
+        },
+        {
+          "id": 69,
+          "content": "计算机系统中，CPU对主存的访问方式属于随机存取",
+          "correct": true,
+          "explanation": "CPU对主存的访问是随机存取，可以根据地址直接访问任意存储单元。"
+        },
+        {
+          "id": 70,
+          "content": "若计算机中的地址总线的宽度为24位，则最多允许直接访问主存储器的8MB物理空间",
+          "correct": false,
+          "explanation": "24位地址总线最多可以访问2^24个地址，即16MB物理空间。"
+        },
+        {
+          "id": 71,
+          "content": "ServerSocket这个类是实现了一个服务器端的Socket，利用这个类可以监听来自网络的请求",
+          "correct": true,
+          "explanation": "ServerSocket用于创建服务器端的Socket，用于监听和接受来自客户端的连接请求。"
+        },
+        {
+          "id": 72,
+          "content": "根据《计算机软件保护条例》，著作权法保护的计算机软件是指程序及其相关文档",
+          "correct": true,
+          "explanation": "计算机软件保护条例确实包括对程序及其相关文档的著作权保护。"
+        },
+        {
+          "id": 73,
+          "content": "UML不属于面向对象开发方法",
+          "correct": false,
+          "explanation": "UML是一种用于面向对象开发的建模语言，属于面向对象开发方法的一部分。"
+        },
+        {
+          "id": 74,
+          "content": "衡量模块的独立性的两个标准是内聚和耦合",
+          "correct": true,
+          "explanation": "内聚和耦合是衡量模块独立性的两个重要标准，内聚度高、耦合度低表示模块设计较好。"
+        },
+        {
+          "id": 75,
+          "content": "软件测试最基础性的测试是集成测试",
+          "correct": false,
+          "explanation": "软件测试的最基础性测试是单元测试，集成测试是测试单元之间的交互和集成情况。"
+        },
+        {
+          "id": 76,
+          "content": "擦除cache分区数据，个人数据通常会丢失",
+          "correct": false,
+          "explanation": "擦除缓存（cache）分区数据通常不会导致个人数据（userdata）丢失，因为缓存只是临时存储。"
+        },
+        {
+          "id": 77,
+          "content": "删除一个视图的SQL命令是DROP VIEW",
+          "correct": true,
+          "explanation": "DROP VIEW是删除数据库中视图的SQL命令。"
+        },
+        {
+          "id": 78,
+          "content": "Xiaomi/Redmi手机，一般长按音量加键和电源键即可进入Recovery",
+          "correct": true,
+          "explanation": "长按音量加键和电源键是进入Recovery模式的常见操作。"
+        },
+        {
+          "id": 79,
+          "content": "《中华人民共和国网络安全法》第五十八条明确规定，因维护国家安全和社会公共秩序，处置重大突发社会安全事件的需要，经国务院决定或者批准，可以在特定区域对网络通信采取限制等临时措施",
+          "correct": true,
+          "explanation": "《中华人民共和国网络安全法》确实规定了在特定情况下采取限制网络通信的措施。"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "content": "如何退出FASTBOOT模式？",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "在FASTBOOT模式下长按音量键约7-15秒重启进入系统",
+          "correct": false,
+          "explanation": "长按「电源键」可以强制重启，并非「音量键」。"
+        },
+        {
+          "id": 2,
+          "content": "通过“fastboot reboot”及“fastboot oem poweroff”命令重启进入系统或拔线关机",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，上述命令为正确重启或关机命令。"
+        },
+        {
+          "id": 3,
+          "content": "部分机型在FASTBOOT模式下不插入数据线，5分钟到半小时内会自动重启或关机",
+          "correct": true,
+          "explanation": "部分机型在未连接（数据线拔出）时，5 分钟到半小时内才会自动重启或关机，已连接状态（数据线插入）不会自动关机。"
+        },
+        {
+          "id": 4,
+          "content": "反复插拔数据线5次",
+          "correct": false,
+          "explanation": "插拔数据线不会造成任何影响。"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "content": "以下说法错误的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Android 7及更低版本的设备中，不使用JIT/AOT混合编译模式",
+          "correct": false,
+          "explanation": "Android 7 已引入 JIT/AOT 混合编译模式。正确的描述应为「Android 7 以下版本的设备中，不使用 JIT/AOT 混合编译模式」，该选项可能会对用户造成误导。"
+        },
+        {
+          "id": 2,
+          "content": "BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行",
+          "correct": true,
+          "explanation": "根据 Android 文档，引导加载器（BootLoader）负责在设备上启动内核，而不是系统。"
+        },
+        {
+          "id": 3,
+          "content": "AndroidManifest.xml中的manifest标签可以被嵌套在application的标签内",
+          "correct": true,
+          "explanation": "manifest 标签必须声明在 AndroidManifest.xml 最外层，不能嵌套到 application 标签内。"
+        },
+        {
+          "id": 4,
+          "content": "Android的安全机制的包括进程沙箱隔离机制、应用程序签名机制、访问控制机制等",
+          "correct": false,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 5,
+          "content": "刷机过程中如果变砖，可以通过9008的模式刷机救回MTK平台的机器",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。联发科（MediaTek, MTK）平台的机器需使用 MediaTek Preloader。"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "content": "以下FASTBOOT基本命令，对应不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot getvar product：输出该机型内部代号名称",
+          "correct": false,
+          "explanation": "该命令将输出机型内部代号，通常用于判断镜像是否与设备相符。"
+        },
+        {
+          "id": 2,
+          "content": "fastboot oem device-info：输出该设备的所有信息",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，device-info 命令将仅能输出如下设备状态消息：Verity mode（完整性校验状态），刷入非官方镜像需要禁用，为 false 时表示已禁用完整性校验；Device unlocked（BootLoader 解锁状态），为 true 时表示已解锁；Device critical unlocked（关键分区解锁状态），为 true 时表示 BootLoader 已完整解锁；Charger screen enabled（关机充电屏幕状态）。"
+        },
+        {
+          "id": 3,
+          "content": "fastboot erase <分区名>：清除手机中所有数据",
+          "correct": true,
+          "explanation": "子命令 erase 仅用于擦除指定分区的所有数据，而不是手机中的所有数据。"
+        },
+        {
+          "id": 4,
+          "content": "fastboot oem lock：开启BL锁保护",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，lock 命令为回锁（开启 BootLoader 锁保护）命令。"
+        },
+        {
+          "id": 5,
+          "content": "fastboot -w：列出当前已进入FASTBOOT模式，且与PC连接正常的所有设备",
+          "correct": true,
+          "explanation": "命令开关 -w 可以在任何子命令前添加，将擦除设备中存储的所有用户数据。若想列出已连接的 FASTBOOT 模式设备，请使用 devices 子命令。"
+        },
+        {
+          "id": 6,
+          "content": "fastboot erase userdata：清除手机中所有数据",
+          "correct": false,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据，userdata 分区为手机数据保存的分区。"
+        },
+        {
+          "id": 7,
+          "content": "fastboot oem lks：查看当前BL锁状态（MTK）",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 MTK 平台的 Xiaomi/Redmi 手机，lks 命令通常用于查询解锁状态，输出为 lks=0 时表示已解锁。"
+        },
+        {
+          "id": 8,
+          "content": "fastboot reboot：列出当前已进入FASTBOOT模式，且与PC连接正常的所有设备",
+          "correct": true,
+          "explanation": "子命令 reboot 用于重启设备。若想列出已连接的 FASTBOOT 模式设备，请使用 devices 子命令。"
+        },
+        {
+          "id": 9,
+          "content": "fastboot reboot：重启手机",
+          "correct": false,
+          "explanation": "子命令 reboot 用于重启设备。"
+        },
+        {
+          "id": 10,
+          "content": "fastboot oem poweroff：清除手机中所有数据后关机",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，poweroff 命令只会关机，不会清除数据"
+        },
+        {
+          "id": 11,
+          "content": "fastboot erase system：擦除系统分区",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 12,
+          "content": "fastboot delete：擦除所有分区",
+          "correct": true,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "content": "Android原生提供的ContentProvider有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "联系人",
+          "correct": true,
+          "explanation": "联系人的内容提供器（Content Provider）由 com.android.contacts 提供。"
+        },
+        {
+          "id": 2,
+          "content": "通话记录",
+          "correct": true,
+          "explanation": "通话记录的内容提供器（Content Provider）由 com.android.dialer 提供。"
+        },
+        {
+          "id": 3,
+          "content": "书签",
+          "correct": false,
+          "explanation": "书签由各浏览器（或其他类型的应用程序）自己控制和/或保存，系统并不提供。"
+        },
+        {
+          "id": 4,
+          "content": "应用列表",
+          "correct": false,
+          "explanation": "应用列表不属于内容提供器（Content Provider）。"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "content": "MTK刷机的报错，原因不匹配的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "S_DA_EMMC_FLASH_NOT_FOUND：手机的内存己经损坏",
+          "correct": true,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        },
+        {
+          "id": 2,
+          "content": "S_BROM_CMD_STARTCMD_FAIL：没有加载好刷机包文件",
+          "correct": false,
+          "explanation": "该报错意味着没有加载好刷机包的文件或驱动没装好。"
+        },
+        {
+          "id": 3,
+          "content": "S_FT_NEED_DOWNLOAD_ALL_FAIL：目标ROM文件和手机系统差距过大",
+          "correct": false,
+          "explanation": "该报错意味着目标 ROM 文件和手机的系统差距过大，通常在单刷某个分区时会出现。"
+        },
+        {
+          "id": 4,
+          "content": "S_UNSUPPORTED_OPERATION：已存在同名的程序",
+          "correct": true,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        },
+        {
+          "id": 5,
+          "content": "S_CHIP_TYPE_NOT_MATCH：文件类型不匹配",
+          "correct": true,
+          "explanation": "该报错意味着刷机包适配的芯片型号与设备不匹配。"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "content": "Android系统加密保护用户数据，Android 10或更高版本的设备使用全盘加密",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "正确",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "错误",
+          "correct": true,
+          "explanation": "根据 Android 文档，Android 10 或更高版本不允许使用全盘加密（Full Disk Encryption, FDE），而是使用文件级加密（File-Based Encryption, FBE）。"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "content": "已满足BL解锁申请条件，但申请后被拒绝的原因，下列说法正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "在社交媒介恶意诋毁、谩骂、造谣等（包括但不限于各论坛、微博、微信、QQ群等）",
+          "correct": true,
+          "explanation": "您不得在社交媒介对小米恶意诋毁、谩骂、造谣等。"
+        },
+        {
+          "id": 2,
+          "content": "出现被判定为作弊的行为（包括但不限于找人“代答”、使用脚本或工具达到申请条件等）",
+          "correct": true,
+          "explanation": "根据解锁申请详细说明，“代答”等账号异常行为属于违规，解锁申请不予通过，且账号将被封禁。"
+        },
+        {
+          "id": 3,
+          "content": "不填写申请理由、或使用AI生成申请理由、或申请理由出现过辱骂威胁等内容",
+          "correct": true,
+          "explanation": "您必须在申请时认真填写真实的申请理由。"
+        },
+        {
+          "id": 4,
+          "content": "其他违反小米账号使用协议的相关情形",
+          "correct": true,
+          "explanation": "您不得违反小米账号使用协议。"
+        },
+        {
+          "id": 5,
+          "content": "确认无任何违规情形，被拒绝后可尝试再次申请",
+          "correct": true,
+          "explanation": "如您无上述违规情形，在申请被拒绝后，可在 7 天后重新答题并申请。"
+        },
+        {
+          "id": 6,
+          "content": "在社交媒介恶意诋毁、谩骂、造谣等",
+          "correct": true,
+          "explanation": "您不得在社交媒介对小米恶意诋毁、谩骂、造谣等。"
+        },
+        {
+          "id": 7,
+          "content": "出现被判定为作弊的行为",
+          "correct": true,
+          "explanation": "根据解锁申请详细说明，“代答”等账号异常行为属于违规，解锁申请不予通过，且账号将被封禁。"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "content": "官方提供给用户的刷机工具是MiFlash",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "正确",
+          "correct": true,
+          "explanation": "除 MiFlash（及 MiFlashPro）外，其余工具均为非官方工具。"
+        },
+        {
+          "id": 2,
+          "content": "错误",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "content": "以下说法不正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "Android 7及更低版本的设备中，不使用JIT/AOT混合编译模式",
+          "correct": false,
+          "explanation": "Android 7 已引入 JIT/AOT 混合编译模式。正确的描述应为「Android 7 以下版本的设备中，不使用 JIT/AOT 混合编译模式」，该选项可能会对用户造成误导。"
+        },
+        {
+          "id": 2,
+          "content": "BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行",
+          "correct": true,
+          "explanation": "根据 Android 文档，引导加载器（BootLoader）负责在设备上启动内核，而不是系统。"
+        },
+        {
+          "id": 3,
+          "content": "AndroidManifest.xml中的manifest标签可以被嵌套在application的标签内",
+          "correct": true,
+          "explanation": "manifest 标签必须声明在 AndroidManifest.xml 最外层，不能嵌套到 application 标签内。"
+        },
+        {
+          "id": 4,
+          "content": "Android的安全机制的包括进程沙箱隔离机制、应用程序签名机制、访问控制机制等",
+          "correct": false,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 5,
+          "content": "刷机过程中如果变砖，可以通过9008的模式刷机救回MTK平台的机器",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。联发科（MediaTek, MTK）平台的机器需使用 MediaTek Preloader。"
+        },
+        {
+          "id": 6,
+          "content": "刷机过程中出现Flash antirbpass error的报错，可以直接修改脚本强刷",
+          "correct": true,
+          "explanation": "该报错意味着欲刷入镜像与设备中已有的小米防回滚机制（Xiaomi Anti-Rollback）冲突，强行刷入可能会无法开机。任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 7,
+          "content": "刷入的系统版本与原系统差异较大时，通常建议执行四清",
+          "correct": false,
+          "explanation": "刷入系统差异较大时，如果不完整清除数据，可能会无法开机。这里的四清指的是用户数据（Userdata 或 Data）、加密元数据（Metadata）、系统缓存（Cache）以及账户锁（Frp）。"
+        },
+        {
+          "id": 8,
+          "content": "手机如只能进入FASTBOOT，可能是引导程序损毁",
+          "correct": false,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 9,
+          "content": "正式版切换到开发版一般不需要解锁",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机的正式版切换到开发版通常不需要解锁，部分机型仍然有例外情况。最新的设备已不再提供开发版。"
+        },
+        {
+          "id": 10,
+          "content": "HAL介于Android framework层和应用层之间，屏蔽了硬件底层的具体实现，防止AOSP受GPL污染",
+          "correct": true,
+          "explanation": "根据 Android 文档对于 AOSP 软件堆栈架构的介绍，硬件抽象层（Hardware Abstraction Layer, HAL）介于 Android 运行时（Android Runtime, ART）层与 Linux 内核（Linux Kernel）层之间，并非 Android 框架（Android Framework）层与应用（Android Apps）层之间。"
+        },
+        {
+          "id": 11,
+          "content": "刷入第三方TWRP，通常选择刷入到system分区",
+          "correct": true,
+          "explanation": "TWRP 通常刷入到 Recovery 分区。"
+        },
+        {
+          "id": 12,
+          "content": "刷入第三方Recovery，通常数据不会丢失",
+          "correct": false,
+          "explanation": "刷入第三方 Recovery 通常不会涉及数据（userdata）。"
+        },
+        {
+          "id": 13,
+          "content": "在正常情况下，所有非system分区的APP运行时的UID都是一样的",
+          "correct": true,
+          "explanation": "Android 系统会给每个非系统应用（untrusted_app）分配不同的 UID。"
+        },
+        {
+          "id": 14,
+          "content": "Xiaomi/Redmi手机，一般长按电源键和音量减键即可进入Recovery",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 手机进入 Recovery 的组合键一般是「电源键」和「音量加键」。"
+        },
+        {
+          "id": 15,
+          "content": "隐式Intent没有指定组件",
+          "correct": false,
+          "explanation": "隐式 Intent 并不指定组件（Component）。"
+        },
+        {
+          "id": 16,
+          "content": "隐式Intent有指定的组件来运行一个确切的类",
+          "correct": true,
+          "explanation": "隐式 Intent 通过操作（Action）来传递意图，由系统解析 Action 并启动对应的 Activity，或弹出对话框供用户选择，并未提供确切的类。"
+        },
+        {
+          "id": 17,
+          "content": "隐式Intent必须包含足够的数据，允许Android系统选择最佳组件来运行",
+          "correct": false,
+          "explanation": "隐式 Intent 需要在传递意图时提供足够的数据（最少需要一个 Action），由系统解析并启动对应的 Activity，或弹出对话框供用户选择。"
+        },
+        {
+          "id": 18,
+          "content": "隐式Intent必须使用Bundle携带额外的数据",
+          "correct": true,
+          "explanation": "额外数据（Extra）不是必须的，传递额外数据也可以不使用 Bundle。"
+        },
+        {
+          "id": 19,
+          "content": "versionCode与用户侧显示的应用程序版本号相同",
+          "correct": true,
+          "explanation": "用户侧显示的应用程序版本号为 versionName，并非 versionCode。"
+        },
+        {
+          "id": 20,
+          "content": "刷机过程中如果变砖，不可以通过9008的模式刷机救回MTK平台的机器",
+          "correct": false,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。联发科（MediaTek, MTK）平台的机器需使用 MediaTek Preloader。"
+        },
+        {
+          "id": 21,
+          "content": "刷机过程中出现Flash antirbpass error的报错，不可以直接修改脚本强刷",
+          "correct": false,
+          "explanation": "该报错意味着欲刷入镜像与设备中已有的小米防回滚机制（Xiaomi Anti-Rollback）冲突，强行刷入可能会无法开机。任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 22,
+          "content": "手机如只能进入FASTBOOT，不可能是引导程序损毁",
+          "correct": true,
+          "explanation": "引导程序损毁可能导致只能进入 FASTBOOT 模式或完全无法启动。"
+        },
+        {
+          "id": 23,
+          "content": "假设信息位是8位，用海明码来发现并纠正1位出错的情况，则校验位的位数至少为8位",
+          "correct": true,
+          "explanation": "使用海明码来校验并纠错 8 位的信息，纠错位数至少为 4 位，而不是 8 位。计算海明码的校验位数可以使用以下不等式，m 为信息位，满足不等式的 r 最小值即为校验位数: 2^r >= m + r + 1"
+        },
+        {
+          "id": 24,
+          "content": "Xiaomi/Redmi手机，一般长按电源键和音量加键即可进入Recovery",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机进入 Recovery 的组合键一般是「电源键」和「音量加键」。"
+        },
+        {
+          "id": 25,
+          "content": "执行fastboot erase system可擦除全部数据",
+          "correct": true,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据，system 为 Android 系统分区，擦除该分区并不影响用户数据。"
+        },
+        {
+          "id": 26,
+          "content": "DNS欺骗技术可分为基于DNS服务器的欺骗和基于用户计算机的欺骗",
+          "correct": false,
+          "explanation": "该描述是正确的。举例来说，DNS 缓存污染属于 DNS 服务器欺骗，而 DNS 重定向属于用户计算机本地网络欺骗。"
+        },
+        {
+          "id": 27,
+          "content": "特征码查杀技术可以有效检测采用加壳技术的恶意程序",
+          "correct": true,
+          "explanation": "恶意软件加壳（或加密/加固）后，常规的特征会被外壳覆盖，使特征码查杀技术失效。"
+        },
+        {
+          "id": 28,
+          "content": "小米所有手机均可使用9008模式",
+          "correct": true,
+          "explanation": "Xiaomi/Redmi 仅搭载高通（Qualcomm）处理器的手机才可使用 Qualcomm Emergency Download（EDL 或 9008）模式刷机。自小米 8 后，小米公司不再允许用户自行使用 EDL 刷机，用户需前往官方售后服务网点才能使用 EDL 刷机。"
+        },
+        {
+          "id": 29,
+          "content": "如果同一台手机已经安装一个高versionCode的客户端版本，则无法安装同包名的低versionCode客户端",
+          "correct": false,
+          "explanation": "旧版应用通常不兼容新版的数据，为了兼容性考量，用户无法降级覆盖安装软件。"
+        },
+        {
+          "id": 30,
+          "content": "RBAC模型同时具有强制访问控制和自主访问控制属性",
+          "correct": false,
+          "explanation": "基于角色的访问控制（Role-Based Access Control，RBAC）模型的优点是灵活可扩展，在特定的配置下，可以实现强制访问控制（Mandatory Access Control，MAC）和自主访问控制（Discretionary Access Control，DAC）模型的特性。因此，可以说 RBAC 同时具有 MAC 和 DAC 的属性。"
+        },
+        {
+          "id": 31,
+          "content": "网桥不可以有选择地转发数据帧",
+          "correct": true,
+          "explanation": "网桥是数据链路层设备，可以根据 MAC 地址选择性地转发数据帧，而不是像简单的中继器一样广播全部数据。"
+        },
+        {
+          "id": 32,
+          "content": "inet是UNIX系统最重要的网络服务进程",
+          "correct": true,
+          "explanation": "inetd（Internet Daemon）是重要的网络进程，但并不存在 inet 进程，它可能指的是接口或库。"
+        },
+        {
+          "id": 33,
+          "content": "哈希函数是一种双向密码机制",
+          "correct": true,
+          "explanation": "哈希（Hash）是一种单向密码，不具备可逆向性，通常只能通过碰撞的方式来得出哈希原文。"
+        },
+        {
+          "id": 34,
+          "content": "RAM指的是手机的运行内存",
+          "correct": false,
+          "explanation": "RAM 全称为 Random-access memory，指的是运行内存。"
+        },
+        {
+          "id": 35,
+          "content": "刷机过程中，官方提供给用户的刷机工具是MiFlash",
+          "correct": false,
+          "explanation": "除 MiFlash（及 MiFlashPro）外，其余工具均为非官方工具。"
+        },
+        {
+          "id": 36,
+          "content": "Android系统加密保护用户数据，Android 10或更高版本的设备使用全盘加密",
+          "correct": true,
+          "explanation": "根据 Android 文档，Android 10 或更高版本不允许使用全盘加密（Full Disk Encryption, FDE），而是使用文件级加密（File-Based Encryption, FBE）。"
+        },
+        {
+          "id": 37,
+          "content": "9008模式下的刷机会比fastboot模式下的刷机更加彻底",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL 或 9008）模式刷机更为底层，能够写入一些在 fastboot 模式下无法写入的分区或数据。"
+        },
+        {
+          "id": 38,
+          "content": "BL锁可以防止用户在设备上安装非官方或未授权的操作系统",
+          "correct": false,
+          "explanation": "BootLoader 锁在设计上的用途即为此。"
+        },
+        {
+          "id": 39,
+          "content": "Redmi所有手机均可使用EDL模式",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 Qualcomm Emergency Download（EDL, 9008 模式）刷机。"
+        },
+        {
+          "id": 40,
+          "content": "Android系统启动时，首先启动的是zygote进程",
+          "correct": true,
+          "explanation": "Zygote 进程由 Android 运行时（Android Runtime, ART）启动。所以第一个启动的进程并不是 Zygote。"
+        },
+        {
+          "id": 41,
+          "content": "ROM指的是手机的运行内存",
+          "correct": true,
+          "explanation": "ROM 全称为 Read-only memory，指的是手机的系统固件。运行内存为 Random-access memory（RAM）。"
+        },
+        {
+          "id": 42,
+          "content": "adb的全称是Android Debug Badge，起到调试桥的作用",
+          "correct": false,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 43,
+          "content": "Xiaomi/Redmi手机，一般长按音量加键和电源键即可进入Recovery",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 手机进入 Recovery 的组合键一般是「电源键」和「音量加键」。"
+        },
+        {
+          "id": 44,
+          "content": "擦除cache分区数据，个人数据通常会丢失",
+          "correct": true,
+          "explanation": "擦除缓存（cache）分区数据，通常不会涉及个人数据（userdata）。"
+        },
+        {
+          "id": 45,
+          "content": "重定向是指将网络请求从一个网址转移到其他网址",
+          "correct": false,
+          "explanation": "对于网络请求，该描述是正确的。"
+        },
+        {
+          "id": 46,
+          "content": "Android 7及更低版本的设备中，使用JIT/AOT混合编译模式",
+          "correct": true,
+          "explanation": "Android 7 已引入 JIT/AOT 混合编译模式。正确的描述应为「Android 7 以下版本的设备中，不使用 JIT/AOT 混合编译模式」，该选项可能会对用户造成误导。"
+        },
+        {
+          "id": 47,
+          "content": "删除一个视图的SQL命令是DROP VIEW",
+          "correct": false,
+          "explanation": "该描述是正确的，命令后面需要附上视图（View）名称。"
+        },
+        {
+          "id": 48,
+          "content": "MD5算法要比SHA算法更快",
+          "correct": false,
+          "explanation": "通常情况下，MD5 算法比 SHA 算法快，但 SHA 算法更为安全。"
+        },
+        {
+          "id": 49,
+          "content": "DNS欺骗是攻击者冒充域名服务器的一种欺骗行为",
+          "correct": false,
+          "explanation": "DNS 欺骗是指通过篡改域名服务器（DNS）的响应，以欺骗用户或系统，使其访问错误的网站或受到攻击。"
+        },
+        {
+          "id": 50,
+          "content": "在FASTBOOT模式下，用flash命令刷写固件",
+          "correct": false,
+          "explanation": "根据 fastboot 使用说明，刷入（flash）子命令格式为 flash PARTITION [FILENAME]。"
+        },
+        {
+          "id": 51,
+          "content": "9008模式仅限手机可正常进入系统时才可使用",
+          "correct": true,
+          "explanation": "Qualcomm Emergency Download（EDL 或 9008）模式刷机更为底层，通常用于在无法进入系统时救砖。"
+        },
+        {
+          "id": 52,
+          "content": "网桥可以有选择地转发数据帧",
+          "correct": false,
+          "explanation": "网桥是数据链路层设备，可以根据 MAC 地址选择性地转发数据帧，而不是像简单的中继器一样广播全部数据。"
+        },
+        {
+          "id": 53,
+          "content": "9008模式下的刷机不如fastboot模式下的刷机更加彻底",
+          "correct": true,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "content": "BL解锁面向发烧友和开发者开放，因此在资格筛选时，会考察是否符合发烧友的特质。下面关于发烧友的特质，说法正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "发烧友指的是对某一领域极度热爱，并对此领域的产品进行深入研究",
+          "correct": true,
+          "explanation": "这你让我咋写解析......公告类型题，对上一题的正确选项做出了解释，直接全选。"
+        },
+        {
+          "id": 2,
+          "content": "发烧友具备探究精神，因此在遇到不了解的问题时，会在合理范围内主动探寻答案，但不会寻求不正当“捷径”或采用违规方式",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "发烧友具备坚韧不拔的品质，因此在遇到失败或挫折时，会不断尝试和努力，但不会去造谣、诋毁",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "发烧友具备学习精神，因此在遇到新鲜事物或新知识时，会乐于学习和钻研，但不会肆意谩骂",
+          "correct": true,
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "content": "发烧友具备分享精神，因此在有一些好的知识或经验时，会积极分享和交流，但不会去利用“资源”去“谋利”，更不会将获得的“资源”去“转租/转售”",
+          "correct": true,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "content": "MTK刷机的报错，原因匹配的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "S_FT_NEED_DOWNLOAD_ALL_FAIL：目标ROM文件和手机系统差距过大",
+          "correct": true,
+          "explanation": "该报错意味着目标 ROM 文件和手机的系统差距过大，通常在单刷某个分区时会出现。"
+        },
+        {
+          "id": 2,
+          "content": "S_BROM_CMD_STARTCMD_FAIL：没有加载好刷机包文件",
+          "correct": true,
+          "explanation": "该报错意味着没有加载好刷机包的文件或驱动没装好。"
+        },
+        {
+          "id": 3,
+          "content": "S_UNSUPPORTED_OPERATION：已存在同名的程序",
+          "correct": false,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        },
+        {
+          "id": 4,
+          "content": "S_DA_EMMC_FLASH_NOT_FOUND：手机的内存己经损坏",
+          "correct": false,
+          "explanation": "该报错意味着刷机引导文件 Scatter.txt 与设备不匹配。"
+        },
+        {
+          "id": 5,
+          "content": "S_CHIP_TYPE_NOT_MATCH：文件类型不匹配",
+          "correct": false,
+          "explanation": "该报错意味着刷机包适配的芯片型号与设备不匹配。"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "content": "现计划展出10台小米/Redmi手机，具体如下：3台Redmi K70（已BL解锁）、3台小米13（未BL解锁）、1台小米14Pro（未BL解锁）、3台Redmi K60至尊版（未BL解锁），现将这10台手机排成一列进行展示，但已BL解锁的手机不能挨在一起，请问有多少种展出陈列方式（同一机型视为完全一样）",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "2240",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "2352",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "7840",
+          "correct": true,
+          "explanation": "数学排列组合问题。根据题目列出公式计算: C(3, 7) * C(3, 4) * C(3, 8) = 7840"
+        },
+        {
+          "id": 4,
+          "content": "8960",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 5,
+          "content": "10080",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "content": "比特率是指将模拟声音信号转换成数字声音信号后单位时间内的二进制数据量，因此比特率越大的音质就越好",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "正确",
+          "correct": true,
+          "explanation": "通常情况下，音频的比特率越高，音质就越好。实际情况可能会受限于压缩算法的影响，较低的比特率也可以提供高音质音频。"
+        },
+        {
+          "id": 2,
+          "content": "错误",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "content": "以下FASTBOOT基本命令，对应正确的有",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "fastboot getvar product：输出该机型内部代号名称",
+          "correct": true,
+          "explanation": "该命令将输出机型内部代号，通常用于判断镜像是否与设备相符。"
+        },
+        {
+          "id": 2,
+          "content": "fastboot oem device-info：输出该设备的所有信息",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，device-info 命令将仅能输出如下设备状态消息：Verity mode（完整性校验状态），刷入非官方镜像需要禁用，为 false 时表示已禁用完整性校验；Device unlocked（BootLoader 解锁状态），为 true 时表示已解锁；Device critical unlocked（关键分区解锁状态），为 true 时表示 BootLoader 已完整解锁；Charger screen enabled（关机充电屏幕状态）。"
+        },
+        {
+          "id": 3,
+          "content": "fastboot erase userdata：清除手机中所有数据",
+          "correct": true,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据，userdata 分区为手机数据保存的分区。"
+        },
+        {
+          "id": 4,
+          "content": "fastboot reboot：输出FASTBOOT模式下连接的设备",
+          "correct": false,
+          "explanation": "子命令 reboot 用于重启设备。若想列出已连接的 FASTBOOT 模式设备，请使用 devices 子命令。"
+        },
+        {
+          "id": 5,
+          "content": "fastboot oem lks：输出当前BL锁状态（MTK）",
+          "correct": true,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 MTK 平台的 Xiaomi/Redmi 手机，lks 命令通常用于查询解锁状态，输出为 lks=0 时表示已解锁。"
+        },
+        {
+          "id": 6,
+          "content": "fastboot getvar all：输出当前BL锁状态（非MTK）",
+          "correct": false,
+          "explanation": "子命令 getvar 用于从 BootLoader 中读取手机信息。all 表示输出全部信息，其中虽然包含 BootLoader 解锁状态，但该命令通常不用做是否已解锁判断。"
+        },
+        {
+          "id": 7,
+          "content": "fastboot oem lock：获取root权限",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，lock 命令将会重新上锁 BootLoader。"
+        },
+        {
+          "id": 8,
+          "content": "fastboot flashing unlock：获取root权限",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，unlock 命令单独执行不起作用，需要使用小米官方解锁工具才能解锁 BootLoader。"
+        },
+        {
+          "id": 9,
+          "content": "fastboot oem poweroff：清除手机中所有数据后关机",
+          "correct": false,
+          "explanation": "子命令 oem 为制造商自定义命令。对于 Xiaomi/Redmi 手机，poweroff 命令只会关机，不会清除数据。"
+        },
+        {
+          "id": 10,
+          "content": "fastboot reboot：重启手机",
+          "correct": true,
+          "explanation": "子命令 reboot 用于重启设备。"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "content": "在CRC码计算中，与101101对应的多项式为",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "x^6+x^4+x^3+1",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "x^5+x^3+x^2+x",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 3,
+          "content": "x^6+x^5+x^4+x",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 4,
+          "content": "x^5+x^3+x^2+1",
+          "correct": true,
+          "explanation": "CRC 码中，二进制格式的多项式生成系数从右往左的每一位都分别代表从 0 开始，指数从小到大的项，值为 1 时表示该项存在。在此系数中，一共有 6 位，从右往左分别表示 x^0 至 x^5，其中 x^1 和 x^4 对应位的值为 0。将 x^0 替换为等值 1 后将其相加，得出此多项式。"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "content": "关于9008模式刷机说法正确的有？",
+      "type": "multiple",
+      "options": [
+        {
+          "id": 1,
+          "content": "手机必须搭载高通处理器才能使用9008模式刷机",
+          "correct": true,
+          "explanation": "仅高通（Qualcomm）平台的手机可以通过官方售后使用 9008 模式刷机救砖。"
+        },
+        {
+          "id": 2,
+          "content": "小米所有手机均可使用9008模式",
+          "correct": false,
+          "explanation": "Xiaomi/Redmi 仅搭载高通（Qualcomm）处理器的手机才可使用 Qualcomm Emergency Download（EDL 或 9008）模式刷机。自小米 8 后，小米公司不再允许用户自行使用 EDL 刷机，用户需前往官方售后服务网点才能使用 EDL 刷机。"
+        },
+        {
+          "id": 3,
+          "content": "9008模式下的刷机会比fastboot模式下的刷机更加彻底",
+          "correct": true,
+          "explanation": "Qualcomm Emergency Download（EDL 或 9008）模式刷机更为底层，能够写入一些在 fastboot 模式下无法写入的分区或数据。"
+        },
+        {
+          "id": 4,
+          "content": "9008模式仅限手机可正常进入系统时才可使用",
+          "correct": false,
+          "explanation": "Qualcomm Emergency Download（EDL 或 9008）模式刷机更为底层，通常用于在无法进入系统时救砖。"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "content": "原始设备制造商简称OEM，是英文Original Equipment Manufacturer的缩写",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "正确",
+          "correct": true,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 2,
+          "content": "错误",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "content": "adb的全称是Android Debug Bridge，起到调试桥的作用",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "正确",
+          "correct": true,
+          "explanation": "该描述是正确的。"
+        },
+        {
+          "id": 2,
+          "content": "错误",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "content": "BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "错误",
+          "correct": true,
+          "explanation": "根据 Android 文档，引导加载器（BootLoader）负责在设备上启动内核，而不是系统。"
+        },
+        {
+          "id": 2,
+          "content": "正确",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "content": "刷机过程中，执行fastboot erase system可擦除全部数据",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "正确",
+          "correct": false,
+          "explanation": ""
+        },
+        {
+          "id": 2,
+          "content": "错误",
+          "correct": true,
+          "explanation": "子命令 erase 用于擦除指定分区的所有数据，system 为 Android 系统分区，擦除该分区并不影响用户数据。"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "content": "刷机过程中，出现Flash antirbpass error的报错，不可以直接修改脚本强刷",
+      "type": "single",
+      "options": [
+        {
+          "id": 1,
+          "content": "正确",
+          "correct": true,
+          "explanation": "该报错意味着欲刷入镜像与设备中已有的小米防回滚机制（Xiaomi Anti-Rollback）冲突，强行刷入可能会无法开机。任何报错都不建议修改脚本强刷。"
+        },
+        {
+          "id": 2,
+          "content": "错误",
+          "correct": false,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "content": "请截图本页面，并上传截图。",
+      "note": "未正确上传该页面截图或伪造截图，将视为无效答卷，无法通过审核",
+      "type": "upload_file",
+      "options": []
+    }
+  ]
+}

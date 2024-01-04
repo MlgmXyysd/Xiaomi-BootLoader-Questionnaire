@@ -1,0 +1,51 @@
+<div style="height: 100%; overflow: hidden;">
+    <mdui-text-field label="搜索题目或选项" icon="search--outlined" id="search" style="padding: 0 12px;" oninput="search()"></mdui-text-field>
+    <mdui-collapse id="collapse" style="padding: 0 12px;"></mdui-collapse>
+
+    <script>
+        let problems = [];
+
+        function doSearch() {
+            let search = $("#search").val();
+            let collapse = $("#collapse");
+            collapse.val([]);
+            for (let i = 0; i < problems.length; i++) {
+                let problem = problems[i];
+                let match = problem.match(search.toLowerCase());
+                if (match != 0) {
+                    problem.htmlElement.show();
+                } else {
+                    problem.htmlElement.hide();
+                }
+                if (match == 2) {
+                    collapse[0].value.push("" + problem.id);
+                }
+            }
+        }
+
+        let search_timeout = null;
+        function search() {
+            if (search_timeout != null)
+                clearTimeout(search_timeout);
+            search_timeout = setTimeout(doSearch, 500);
+        }
+
+        httpPromise("GET", "data/problems.json").then(function (response) {
+            for (let i = 0; i < response.problems.length; i++) {
+                let problemJson = response.problems[i];
+                let problem = Problem.fromJson(problemJson);
+                for (let j = 0; j < problem.options.length; j++) {
+                    let option = problem.options[j];
+                    option.htmlElement.on("click", () => {
+                        option.toggleExplanation();
+                    });
+                    option.check(option.correct)
+                }
+                problems.push(problem);
+                $("#collapse").append(problem.htmlElement);
+            }
+        }).catch(function (error) {
+            console.log(error);
+        });
+    </script>
+</div>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh" class="mdui-theme-auto">
+<head>
+    <link rel="icon" href="/favicon.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+    <title>小米 Bootloader 解锁测试</title>
+    <link rel="stylesheet" href="https://unpkg.com/mdui@2.0.3/mdui.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+    <script src="https://unpkg.com/mdui@2.0.3/mdui.global.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/problem.js"></script>
+    <link rel="stylesheet" href="css/ui.css">
+    <script>
+        let redirect_pages = [
+            {
+                name: "题库",
+                action: "problem_list",
+                icon: "library_books--outlined",
+                url: "problem_list.html"
+            },
+            {
+                name: "模拟测试",
+                action: "judge",
+                icon: "check--outlined",
+                url: "judge.html"
+            },
+            {
+                name: "关于",
+                action: "about",
+                icon: "info--outlined",
+                url: "about.html"
+            }
+        ];
+        let url = new URL(window.location.href);
+        let action = url.searchParams.get("action");
+        let page = null;
+        for (let i = 0; i < redirect_pages.length; i++) {
+            if (redirect_pages[i].action == action) {
+                page = redirect_pages[i];
+                break;
+            }
+        }
+        if (page == null) {
+            page = redirect_pages[0];
+        }
+        document.title = "小米 Bootloader 解锁测试 - " + page.name;
+
+        function makeActionElement(item, type) {
+            let element = $("<" + type + "></" + type + ">")
+            element.attr("value", item.action);
+            element.on("click", function() {
+                if (item.action != page.action) {
+                    window.location.href = "?action=" + item.action;
+                }
+            });
+            element.attr("icon", item.icon);
+            element.attr("active-icon", item.icon);
+            element.text(item.name);
+            return element;
+        }
+
+        $(document).ready(function() {
+            let navigationRail = $("#navigation-rail");
+            let container = $("#container");
+            let title = $("#title");
+            title.text(page.name);
+            for (let i = 0; i < redirect_pages.length; i++) {
+                let item = redirect_pages[i];
+                let element = makeActionElement(item, "mdui-navigation-rail-item");
+                navigationRail.append(element);
+            }
+            navigationRail.attr("value", page.action);
+
+            let navigationBar = $("#navigation-bar");
+            for (let i = 0; i < redirect_pages.length; i++) {
+                let item = redirect_pages[i];
+                let element = makeActionElement(item, "mdui-navigation-bar-item");
+                navigationBar.append(element);
+            }
+            navigationBar.attr("value", page.action);
+
+            container.load(page.url);
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <mdui-layout>
+            <mdui-layout-main id="container">
+            </mdui-layout-main>
+            <mdui-top-app-bar>
+                <mdui-top-app-bar-title id="title" style="margin-left: 12px;"></mdui-top-app-bar-title>
+            </mdui-top-app-bar>
+            <mdui-navigation-rail id="navigation-rail" contained></mdui-navigation-rail>
+            <mdui-navigation-bar id="navigation-bar"></mdui-navigation-bar>
+        </mdui-layout>
+    </div>
+    
+    <script>
+        $(window).resize(function() {
+            if (window.innerWidth < 840) {
+                $("#navigation-rail").hide();
+                $("#navigation-bar").show();
+            } else {
+                $("#navigation-rail").show();
+                $("#navigation-bar").hide();
+            }
+        });
+        $(window).resize();
+    </script>
+</body>
+</html>

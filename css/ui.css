@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Roboto, Noto Sans SC, PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, "Microsoft Sans Serif", WenQuanYi Micro Hei, sans-serif;
+    word-wrap: break-word;
+}
+
+mdui-layout {
+    height: 100vh;
+}
+
+mdui-layout-main {
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+}
+
+mdui-top-app-bar {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+mdui-navigation-drawer {
+    position: absolute;
+    top: 64px;
+    bottom: 0px;
+    left: 0px;
+}
+
+#collapse {
+    margin: 12px 0;
+    overflow-y: auto;
+    max-height: calc(100% - 64px - 12px);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 1.25em;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2.5em;
+    line-height: 1.2;
+}
+
+h2 {
+    font-size: 1.875em;
+    line-height: 1.3;
+}

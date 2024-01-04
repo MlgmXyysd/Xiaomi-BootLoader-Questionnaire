@@ -1,0 +1,209 @@
+<div style="padding: 0 24px; overflow-y: auto; max-height: 100%;">
+    <h3>题目版本：<span id="version"></span></h3>
+    <div id="running_info" style="display: none;">
+        共有 <span name="total">0</span> 道题，已完成 <span name="finished">0</span> 道题。
+        <span style="float: right;">剩余时间 <span name="time">00:00</span></span>
+        <mdui-linear-progress value="0" max="20" id="problem_progress"></mdui-linear-progress>
+    </div>
+    <div id="score_info" style="display: none;">
+        <p>本次测试共有 <span name="total">0</span> 道题，回答正确 <span id="score">0</span> 道。用时 <span name="time_used">00:00</span>。</p>
+        <p>正确答案会以强调色显示。可以刷新页面以重新开始模拟测试。</p>
+    </div>
+    <div id="begin_notice">
+        <h3>请在开始前阅读以下注意事项：</h3>
+        <ul>
+            <li>本次测试共有 <span name="total">0</span> 道题，你有 15 分钟的答题时间。</li>
+            <li>每道题目只能答一次，答题后无法修改答案。</li>
+            <li>题目选项的顺序是随机的，每次测试的顺序都不相同。</li>
+            <li>答题结束后，点击“提交”按钮提交答案，并取得本次测试的成绩和解析。</li>
+            <li>正确答案会以强调色显示</li>
+            <li>小米 Bootloader 解锁测试题每天都会更新，本次模拟测试的题目与真实测试的题目可能有所不同。</li>
+            <li>答题结束后，可以刷新页面以重新开始模拟测试</li>
+        </ul>
+    </div>
+    <mdui-collapse id="collapse" style="margin-top: 12px; display: none;"></mdui-collapse>
+    <div style="float: right; margin: 12px 0 36px 0;">
+        <mdui-button id="start" end-icon="arrow_forward--outlined">开始</mdui-button>
+        <mdui-button id="next_problem" end-icon="arrow_forward--outlined" style="display: none;" >下一题</mdui-button>
+        <mdui-button id="submit" end-icon="check--outlined" style="display: none;">提交</mdui-button>
+    </div>
+    <style type="text/css">
+        .correct-option {
+            background-color: rgb(var(--mdui-color-primary-container));
+        }
+    </style>
+    <script>
+        let problems = [];
+
+        function checkOptionAtLeastOneChecked(problem) {
+            let oneChecked = false;
+            for (let i = 0; i < problem.options.length; i++) {
+                if (problem.options[i].checked) {
+                    oneChecked = true;
+                    break;
+                }
+            }
+            if (oneChecked) {
+                $("#next_problem").removeAttr("disabled");
+                $("#submit").removeAttr("disabled");
+            } else {
+                $("#next_problem").attr("disabled", "");
+                $("#submit").attr("disabled", "");
+            }
+        }
+
+        function optionClickHandlerOnJudge(event) {
+            let option = event.data.option;
+            let problem = event.data.problem;
+            if (option.type == "single") {
+                for (let i = 0; i < problem.options.length; i++) {
+                    problem.options[i].check(false);
+                }
+                option.check(true);
+            } else if (option.type == "multiple") {
+                option.check(!option.checked);
+            }
+            checkOptionAtLeastOneChecked(problem);
+        }
+
+        httpPromise("GET", "data/problems.json").then(function (response) {
+            let latestDate = response.latest.date;
+            let latestProblems = response.latest.problems;
+            let total = latestProblems.length;
+            $("[name='total']").text(total);
+            $("#problem_progress").attr("max", total);
+            $("#version").text(latestDate);
+            let collapse = $("#collapse");
+
+            for (let i = 0; i < latestProblems.length; i++) {
+                let latestProblem = latestProblems[i];
+                let problem = null;
+                for (let j = 0; j < response.problems.length; j++) {
+                    if (response.problems[j].id == latestProblem.id) {
+                        problem = response.problems[j];
+                        break;
+                    }
+                }
+                if (problem == null) {
+                    continue;
+                }
+                let options = [];
+                if (problem.type == "upload_file") {
+                    options.push(new Option("1", "上传文件", true, "single", ""));
+                } else {
+                    for (let j = 0; j < problem.options.length; j++) {
+                        let option = problem.options[j];
+                        if (latestProblem.options.indexOf(option.id) != -1) {
+                            options.push(new Option(option.id, option.content, option.correct, problem.type, option.explanation));
+                        }
+                    }
+                    if (latestProblem.random_options != false) {
+                        shuffle(options);
+                    }
+                }
+                let problemItem = new Problem(i, problem.content, problem.type, options, problem.note);
+                for (let j = 0; j < problemItem.options.length; j++) {
+                    problemItem.options[j].htmlElement.on("click", {option: problemItem.options[j], problem: problemItem}, optionClickHandlerOnJudge);
+                }
+                problems.push(problemItem);
+                problemItem.htmlElement.hide();
+            }
+            for (let i = 0; i < problems.length; i++) {
+                collapse.append(problems[i].htmlElement);
+            }
+
+        }).catch(function (error) {
+            console.log(error);
+        });
+
+        function nextProblem() {
+            if (currentProblem != -1) {
+                problems[currentProblem].htmlElement.hide();
+            }
+            currentProblem++;
+            $("#problem_progress").attr("value", currentProblem);
+            problems[currentProblem].htmlElement.show();
+            problems[currentProblem].htmlElement.attr("disabled", "");
+            $("#collapse")[0].value = ["" + problems[currentProblem].id];
+            checkOptionAtLeastOneChecked(problems[currentProblem]);
+            $("[name='finished']").text(currentProblem);
+            if (currentProblem + 1 >= problems.length) {
+                $("#next_problem").hide();
+                $("#submit").show();
+                return;
+            }
+        }
+
+        const TIME_LIMIT = 15 * 60;
+        let beginTime = null;
+        let timer = null;
+        let currentProblem = -1;
+
+        $("#start").on("click", function () {
+            $("#begin_notice").hide();
+            $("#start").hide();
+            $("#running_info").show();
+            $("#collapse").show();
+            $("#next_problem").show();
+            beginTime = new Date();
+            let timeText = $("[name='time']");
+            timer = setInterval(function () {
+                let time = Math.floor((TIME_LIMIT - (new Date() - beginTime) / 1000));
+                timeText.text(timeToString(time));
+                if (time <= 0) {
+                    $("#submit").click();
+                    clearInterval(timer);
+                }
+            }, 1000);
+            nextProblem();
+        });
+
+        $("#next_problem").on("click", function () {
+            nextProblem();
+        });
+
+        $("#submit").on("click", function () {
+            clearInterval(timer);
+            $("#running_info").hide();
+            $("#next_problem").hide();
+            $("#submit").hide();
+            $("#score_info").show();
+            $("#collapse")[0].value = [];
+            $("[name='time_used']").text(timeToString(Math.floor((new Date() - beginTime) / 1000)));
+            let correct = 0;
+            for (let i = 0; i < problems.length; i++) {
+                let problem = problems[i];
+                let correctCount = 1;
+                for (let j = 0; j < problem.options.length; j++) {
+                    let option = problem.options[j];
+                    if (option.checked != option.correct) {
+                        correctCount = 0;
+                    }
+                    if (option.correct) {
+                        option.htmlElement.addClass("correct-option");
+                    } else {
+                        option.htmlElement.addClass("wrong-option");
+                    }
+                }
+                if (correctCount == 1) {
+                    correct++;
+                    problem.htmlElement.children("mdui-list-item").attr("icon", "check--outlined");
+                } else {
+                    problem.htmlElement.children("mdui-list-item").attr("icon", "close--outlined");
+                }
+            }
+            $("#score").text(correct);
+            for (let i = 0; i < problems.length; i++) {
+                problems[i].htmlElement.removeAttr("disabled");
+                problems[i].htmlElement.show();
+                for (let j = 0; j < problems[i].options.length; j++) {
+                    problems[i].options[j].htmlElement.off("click");
+                    problems[i].options[j].htmlElement.on("click", function () {
+                        problems[i].options[j].toggleExplanation();
+                    });
+                }
+            }
+        });
+
+    </script>
+</div>
