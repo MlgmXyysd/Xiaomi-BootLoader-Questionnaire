@@ -25,7 +25,7 @@
 ## 2024.01.05
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8020935)
 - 答题链接: https://m.beehive.miui.com/Ou_Y3tYMxr5Bs11kyQCOww/
-- 题目数量(更新): 20
+- 题目数量(更新): 20（【公告题】x4，【多选题】x9，【单选题】x4，【文件题】x1，【填空题】x2）
 - 合格分数(更新): 86，其中【填空题】占 16 分。
 - 时间限制: 15 分钟，超时结算已回答题目的分数
 - 得分有效期: 2024 年 1 月 3 日上午 10:00 - 2024 年 1 月 10 日下午 18:00
