@@ -22,7 +22,7 @@
 
 网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
 
-## 2024.01.10
+## 2024.01.10、2024.01.11、2024.01.12、2024.01.15、2024.01.16
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8076534)
 - 答题链接(更新): https://m.beehive.miui.com/rEjxjt0Ow_WNC_hr99hoZQ/
 - 题目数量: 20
