@@ -15,16 +15,431 @@
 - 该项目完全免费，如果你从他人手中购买了此项目的内容，请申请退款并向平台举报倒卖行为。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
 - This project is completely free. If you purchased the content of this project from others, please apply for a refund and report to the platform for reselling behavior. If you want to express your gratitude to authors, you can sponsor through the following channels: [爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
 
-## Notice for Global users
-- The repository is currently only available for Xiaomi HyperOS devices in the China (Mainland) region. When the international region unlocking rules are updated, we will synchronize the update as much as possible if the questionnaire requirement exists. Please be patient and wait for Xiaomi to announce it.
+## Bypass PoC
+如果您的设备不是以 HyperOS 出厂，您可尝试使用漏洞进行绑定，成功则无需参与答题：[Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 
 ## 《五年解锁 三年模拟》
 为了辅助用户答题，我们为项目制作了[网站](https://xmbl.neko.ink/)，网站目前有「知识库」和「模拟答题」功能，内容跟随仓库更新。
 
 网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
 
-## Bypass PoC
-如果您的设备不是以 HyperOS 出厂，您可尝试使用漏洞进行绑定，成功则无需参与答题：[Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
+## Notice for Global users
+- The repository is currently only available for Xiaomi HyperOS devices in the China (Mainland) region. When the international region unlocking rules are updated, we will synchronize the update as much as possible if the questionnaire requirement exists. Please be patient and wait for Xiaomi to announce it.
+
+## 2024.01.24、2024.01.25、2024.01.26
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8253243) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/43)
+- 答题链接(更新): https://m.beehive.miui.com/2502bGI1tPhaATYR1KQK8g/
+- 题目数量: 20
+- 合格分数(更新): 86，其中【填空题】和【多项填空题】占 32 分。
+- 时间限制: 15 分钟，超时结算已回答题目的分数
+- 得分有效期(更新): 2024 年 1 月 24 日上午 10:00 - 2024 年 1 月 30 日下午 18:00
+- 注:
+  1. 【填空题】和【多项填空题】为人工阅卷评分，所给答案仅供参考。
+  2. 未正确上传题目 1525370 在「小米社区」APP 的界面截图或伪造截图，将视为无效答卷，无法通过审核；
+  3. 经用户测试验证，本期客观题为满分答案（68 分）。
+  4. 社区等级低于 5 级无法答题，且答题后不记录、不展示是否合格和得分；
+  5. 部分题目和选项的顺序和细节描述可能会随机变动，请仔细检查后选择；
+  6. 已答题账号在 7 天内无法重新答题；
+  7. 用户若出现下列情形，将无法通过解锁审核:
+    - 在社交媒介恶意诋毁、谩骂、造谣等;
+    - 出现被判定为作弊的行为;
+    - 不填写申请理由、或使用AI生成申请理由、或申请理由出现过辱骂威胁等内容;
+    - 其他违反小米账号使用协议的相关情形。
+- 官方提示:
+  1. 请务必通过“小米社区 App-内测中心-BL 解锁申请-去答题”进入本次答题界面并完成答题，未使用小米社区 App 进行答题将视为无效答题，无法展示成绩;
+  2. 等级未达 5 段，无法展示成绩;
+  3. 答题超时提交，无法展示成绩;
+  4. “代答”是违规行为，为避免您的经济损失，请勿购买相关“代答服务”;
+  5. 答题分数仅当期有效，超过当期再次申请时需要重新答题，敬请知悉;
+  6. 填空题采用人工阅卷方式，人工阅卷预计在【下一答题周期开始前】完成;
+  7. 您提交问卷时的实时成绩仅为【选择题得分】;
+  8. 人工阅卷后，如您的【选择题 + 填空题总分】未达到分数线时，您的成绩将仅展示【选择题得分】;
+  9. 人工阅卷后，如您的【选择题 + 填空题总分】达到分数线时，您的成绩将展示为【选择题 + 填空题总分】;
+  10. 请您充分知晓解锁和刷机存在的风险，并在可承担该风险的情况下申请 Bootloader 解锁。
+
+<table>
+	<tr align="center">
+		<th rowspan="2">题目 ID</td>
+		<th rowspan="2">题目内容</td>
+		<th rowspan="2">类型</td>
+		<th colspan="12">选项</td>
+		<th rowspan="2">答案</td>
+	</tr>
+	<tr align="center">
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+	</tr>
+	<tr>
+		<td>1529942</td>
+		<td>关于BL解锁说法正确的是</td>
+		<td>多选题</td>
+		<td>5017234</td>
+		<td>未答题或未达到答题分数线时，每7天可重新参与一次答题</td>
+		<td>5017235</td>
+		<td>参与答题必须从“小米社区App-内测中心-BL解锁申请-去答题”进入，其他方式进入答题将无法展示分数，影响后续申请</td>
+		<td>5017236</td>
+		<td>本期答题的通过分数线为85分以上（不含85分）</td>
+		<td>5017237</td>
+		<td>租借/转让/借用BL解锁资格、“代答”等行为均属违规</td>
+		<td>5017238</td>
+		<td>如果本次BL解锁申请通过，所获得的3次解锁资格，有效期至2024年12月31日</td>
+		<td>5017239</td>
+		<td>BL解锁名额充足，满足申请条件后即可申请</td>
+		<td>5017234,5017235,5017236,5017237,5017238,5017239</td>
+	</tr>
+	<tr>
+		<td>1529943</td>
+		<td>已满足BL解锁申请条件，但申请后被拒绝的原因，下列说法正确的有</td>
+		<td>多选题</td>
+		<td>5017240</td>
+		<td>在社交媒介恶意诋毁、谩骂、造谣等</td>
+		<td>5017241</td>
+		<td>出现被判定为作弊的行为</td>
+		<td>5017242</td>
+		<td>不填写申请理由、或使用AI生成申请理由、或申请理由出现过辱骂威胁等内容</td>
+		<td>5017243</td>
+		<td>其他违反小米账号使用协议的相关情形</td>
+		<td>5017244</td>
+		<td>确认无任何违规情形，被拒绝后可尝试再次申请</td>
+		<td></td>
+		<td></td>
+		<td>5017240,5017241,5017242,5017243,5017244</td>
+	</tr>
+	<tr>
+		<td>1529944</td>
+		<td>BL解锁面向发烧友和开发者开放，因此在资格筛选时，会考察是否符合发烧友的特质。下面关于发烧友的特质，说法正确的有</td>
+		<td>多选题</td>
+		<td>5017245</td>
+		<td>发烧友指的是对某一领域极度热爱，并对此领域的产品进行深入研究</td>
+		<td>5017246</td>
+		<td>发烧友具备探究精神，因此在遇到不了解的问题时，会在合理范围内主动探寻答案，但不会寻求不正当“捷径”或采用违规方式</td>
+		<td>5017247</td>
+		<td>发烧友具备坚韧不拔的品质，因此在遇到失败或挫折时，会不断尝试和努力，但不会去造谣、诋毁</td>
+		<td>5017248</td>
+		<td>发烧友具备学习精神，因此在遇到新鲜事物或新知识时，会乐于学习和钻研，但会肆意谩骂</td>
+		<td>5017249</td>
+		<td>发烧友具备分享精神，因此在有一些好的知识或经验时，会积极分享和交流，不会去利用“资源”去“谋利”</td>
+		<td></td>
+		<td></td>
+		<td>5017245,5017246,5017247,5017249</td>
+	</tr>
+	<tr>
+		<td>1529949</td>
+		<td>通过fastboot -r ANTI命令可以输出ANTI版本号</td>
+		<td>单选题</td>
+		<td>5017266</td>
+		<td>错误</td>
+		<td>5017267</td>
+		<td>正确</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>5017266</td>
+	</tr>
+	<tr>
+		<td>1529946</td>
+		<td>通过流的read()方法读取数据，返回-1表示流结尾</td>
+		<td>单选题</td>
+		<td>5017254</td>
+		<td>正确</td>
+		<td>5017255</td>
+		<td>错误</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>5017254</td>
+	</tr>
+	<tr>
+		<td>1529947</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>5017256</td>
+		<td>在多线程开发中，对多个同步代码的同步锁，按照以一定的顺序依次获取，可以有效避免死锁发生</td>
+		<td>5017257</td>
+		<td>对顺序存储的线性表，设其长度为n，在任何位置上插入或删除操作都是等概率的。插入一个元素时平均要移动表中的(n-1)/2个元素</td>
+		<td>5017258</td>
+		<td>Xiaomi/Redmi手机，一般长按电源键即可进入Recovery</td>
+		<td>5017259</td>
+		<td>使用数组实现的栈是线性存储结构</td>
+		<td>5017260</td>
+		<td>队列和栈都可以用链表来实现</td>
+		<td></td>
+		<td></td>
+		<td>5017257,5017258</td>
+	</tr>
+	<tr>
+		<td>1530139</td>
+		<td>请简述线刷和卡刷的步骤（8分） （此题为人工阅卷，如出现使用AI生成、复制粘贴、雷同试卷等情况，将视为无效作答，无法通过审核）</td>
+		<td>多项填空题</td>
+		<td>325767</td>
+		<td>线刷</td>
+		<td>325768</td>
+		<td>卡刷</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>325767,325768</td>
+	</tr>
+	<tr>
+		<td>1529948</td>
+		<td>MTK刷机的报错，原因不匹配的有</td>
+		<td>多选题</td>
+		<td>5017261</td>
+		<td>S_UNSUPPORTED_OPERATION：已存在同名的程序</td>
+		<td>5017262</td>
+		<td>S_DA_EMMC_FLASH_NOT_FOUND：手机的内存己经损坏</td>
+		<td>5017263</td>
+		<td>S_FT_NEED_DOWNLOAD_ALL_FAIL：目标ROM文件和手机系统差距过大</td>
+		<td>5017264</td>
+		<td>S_BROM_CMD_STARTCMD_FAIL：没有加载好刷机包文件</td>
+		<td>5017265</td>
+		<td>S_CHIP_TYPE_NOT_MATCH：文件类型不匹配</td>
+		<td></td>
+		<td></td>
+		<td>5017261,5017262,5017265</td>
+	</tr>
+	<tr>
+		<td>1529950</td>
+		<td>请简述手机BL解锁后可能产生的风险（8分）</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td>此题为人工阅卷，如出现使用AI生成、复制粘贴、雷同试卷等情况，将视为无效作答，无法通过审核</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1529951</td>
+		<td>输入fastboot devices命令后，可能输出的结果是</td>
+		<td>单选题</td>
+		<td>5017268</td>
+		<td>$ wget https://xxx.xxx/xxx/xxx/xxx.img</td>
+		<td>5017269</td>
+		<td>MBR: verify success!</td>
+		<td>5017270</td>
+		<td>remount failed</td>
+		<td>5017271</td>
+		<td>XMABC100-01 fastboot</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>5017271</td>
+	</tr>
+	<tr>
+		<td>1529953</td>
+		<td>以下说法正确的有</td>
+		<td>多选题</td>
+		<td>5017277</td>
+		<td>DES、AES、RC4都是对称加密算法</td>
+		<td>5017278</td>
+		<td>认证常用的参数有口令、标识符、生物特征等，认证允许第三方参与验证过程</td>
+		<td>5017279</td>
+		<td>官方提供给用户的刷机工具是MiFlash</td>
+		<td>5017280</td>
+		<td>密钥为256位的AES需要16个子密钥</td>
+		<td>5017281</td>
+		<td>BL锁可以防止用户在设备上安装非官方或未授权的操作系统</td>
+		<td></td>
+		<td></td>
+		<td>5017277,5017278,5017279,5017281</td>
+	</tr>
+	<tr>
+		<td>1530142</td>
+		<td>简述以下几款第三方recovery的特点和区别（8分） （此题为人工阅卷，如出现使用AI生成、复制粘贴、雷同试卷等情况，将视为无效作答，无法通过审核）</td>
+		<td>多项填空题</td>
+		<td>325769</td>
+		<td>Team Win Recovery Project</td>
+		<td>325770</td>
+		<td>Pitch Black Recovery Project</td>
+		<td>325771</td>
+		<td>OrangeFox Recovery</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>325769,325770,325771</td>
+	</tr>
+	<tr>
+		<td>1529954</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>5017282</td>
+		<td>端口扫描是通过与目标系统的TCP/IP端口连接，并查看该系统处于监听或运行状态的服务</td>
+		<td>5017283</td>
+		<td>网络的拓扑结构是逻辑结构，与实际设备的物理连接没有必然的关系</td>
+		<td>5017284</td>
+		<td>9008模式下的刷机不如fastboot模式下的刷机更加彻底</td>
+		<td>5017285</td>
+		<td>Blowfish是一个128位分组及可变密钥长度的分组密码算法</td>
+		<td>5017864</td>
+		<td>OpenVAS是一个开放式漏洞评估系统，也可以说它是一个包含着相关工具的网络扫描器，主要用来检测远程系统和应用程序中的安全漏洞</td>
+		<td></td>
+		<td></td>
+		<td>5017284,5017285</td>
+	</tr>
+	<tr>
+		<td>1529955</td>
+		<td>以下说法正确的有</td>
+		<td>多选题</td>
+		<td>5017287</td>
+		<td>若计算机中的地址总线的宽度为24位，则最多允许直接访问主存储器的8MB物理空间</td>
+		<td>5017288</td>
+		<td>RAM存储器在掉电状态下，不保留其内容</td>
+		<td>5017289</td>
+		<td>输入“adb logcat”后，出现“waiting for device”信息，可能是由于设备没有连接计算机</td>
+		<td>5017290</td>
+		<td>HAProxy配置中包含的组件有frontend、daemon、listen、global等</td>
+		<td>5017291</td>
+		<td>刷机过程中，刷入的系统版本与原系统差异较大时，通常建议执行二清</td>
+		<td></td>
+		<td></td>
+		<td>5017288,5017289</td>
+	</tr>
+	<tr>
+		<td>1529956</td>
+		<td>请截图本页面，并上传截图</td>
+		<td>文件题</td>
+		<td>✔️</td>
+		<td>至少需要上传 1 个文件。请使用「小米社区」APP 答题并截图上传。</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>1529957</td>
+		<td>以下说法不正确的有</td>
+		<td>多选题</td>
+		<td>5017292</td>
+		<td>线刷可以用来降级回到之前的系统版本、彻底删除设备数据等</td>
+		<td>5017294</td>
+		<td>软件测试最基础性的测试是单元测试</td>
+		<td>5017295</td>
+		<td>衡量模块的独立性的两个标准是内聚和外联</td>
+		<td>5017296</td>
+		<td>UML不属于面向对象开发方法</td>
+		<td>5017957</td>
+		<td>构造函数的返回类型只能是void型</td>
+		<td></td>
+		<td></td>
+		<td>5017295,5017957</td>
+	</tr>
+	<tr>
+		<td>1529959</td>
+		<td>以下FASTBOOT基本命令，对应正确的有</td>
+		<td>多选题</td>
+		<td>5017301</td>
+		<td>fastboot oem device-info：输出该设备的所有信息</td>
+		<td>5017302</td>
+		<td>fastboot oem poweroff：清除手机中所有数据后关机</td>
+		<td>5017303</td>
+		<td>fastboot reboot：重启手机</td>
+		<td>5017304</td>
+		<td>fastboot erase system：擦除系统分区</td>
+		<td>5017305</td>
+		<td>fastboot delete：擦除所有分区</td>
+		<td></td>
+		<td></td>
+		<td>5017303,5017304</td>
+	</tr>
+	<tr>
+		<td>1529960</td>
+		<td>请简述对“小米BL解锁申请”的看法（8分）</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td>此题为人工阅卷，如出现使用AI生成、复制粘贴、雷同试卷等情况，将视为无效作答，无法通过审核</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1529945</td>
+		<td>如何退出FASTBOOT模式？</td>
+		<td>多选题</td>
+		<td>5017250</td>
+		<td>在FASTBOOT模式下长按音量键约7-15秒重启进入系统</td>
+		<td>5017251</td>
+		<td>通过“fastboot reboot”及“fastboot oem poweroff”命令重启进入系统或拔线关机</td>
+		<td>5017252</td>
+		<td>部分机型在FASTBOOT模式下不插入数据线，5分钟到半小时内会自动重启或关机</td>
+		<td>5017253</td>
+		<td>反复插拔数据线5次</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>5017251,5017252</td>
+	</tr>
+	<tr>
+		<td>1529961</td>
+		<td>关于本问卷中的填空题，请您务必认真阅读并了解以下注意事项</td>
+		<td>多选题</td>
+		<td>5017306</td>
+		<td>本问卷中的填空题共计32分，采用人工阅卷方式，人工阅卷预计在【下一周期答题开始前】完成</td>
+		<td>5017307</td>
+		<td>您提交问卷时，系统所显示的成绩仅为【选择题得分】</td>
+		<td>5017308</td>
+		<td>人工阅卷后，如您的 选择题+填空题 总分【达到】分数线，系统会显示您的【选择题和填空题的总分】</td>
+		<td>5017309</td>
+		<td>人工阅卷后，如您的  选择题+填空题 总分【未达到】分数线，系统仅显示您的【选择题得分】</td>
+		<td>5017310</td>
+		<td>请您及时关注答题分数变化，如您的答题分数达到分数线，请您务必在下一答题周期开始前申请解锁资格</td>
+		<td></td>
+		<td></td>
+		<td>5017306,5017307,5017308,5017309,5017310</td>
+	</tr>
+</table>
 
 ## 2024.01.17、2024.01.18、2024.01.19、2024.01.22、2024.01.23
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8229152) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/38)
@@ -690,7 +1105,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>4981301</td>
+		<td>4981298,4981301</td>
 	</tr>
 	<tr>
 		<td>1518680</td>
@@ -798,7 +1213,7 @@
 		<td>UML不属于面向对象开发方法</td>
 		<td></td>
 		<td></td>
-		<td>4981317,4981320</td>
+		<td>4981317,4981320,4981321</td>
 	</tr>
 	<tr>
 		<td>1518686</td>
