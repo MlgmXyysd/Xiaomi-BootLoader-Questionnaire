@@ -2,14 +2,12 @@
 小米 BootLoader《解锁资格答题测试》更新记录
 
 - 本记录**不是**小米官方统计项目。应 [数据删除] 要求，为提高用户知识水平，添加 [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4)。
-- 各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。
-- 答案为收集整理，不一定完全正确，欢迎提交你的答案。
-- 选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。
-- 文字游戏较多，注意题目和选项的细节。
-- 祝你们每个人都能天天签到 24 分，早日通过申请审批，解锁 BootLoader。
-- 在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户，感谢你们为 Android 刷机社区做出的贡献。
+- 各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。答案为收集整理，不一定完全正确，欢迎提交你的答案。
+- 选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。文字游戏较多，注意题目和选项的细节。
+- 祝你们每个人都能天天签到 24 分，早日通过申请审批，解锁 BootLoader。在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户，感谢你们为 Android 刷机社区做出的贡献。
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
 - 新增答题开放时间限制：工作日上午 10 点 - 下午 18 点（法定节假日为答题系统维护时间），还请合理安排答题时间。答题成绩每周三上午 10:59 失效，如答题通过，请务必在周三中午 11 点前完成申请，避免成绩失效影响申请。
+- **警告**：已通过国内 BootLoader 解锁资格审批的用户请勿再尝试通过 beehive 链接重复答题，已经有用户的解锁功能被封禁（绑定提示账户受限）、回收解锁资格并踢出所有内测项目。被计入绑定黑名单后，该账户后续不仅无法再解锁 HyperOS 设备，甚至也不能解锁 MIUI 设备！！
 
 ## 声明 / Disclaimer
 - 该项目完全免费，如果你从他人手中购买了此项目的内容，请申请退款并向平台举报倒卖行为。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
@@ -23,10 +21,13 @@
 
 网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
 
-## Notice for Global users
-- The repository is currently only available for Xiaomi HyperOS devices in the China (Mainland) region. When the international region unlocking rules are updated, we will synchronize the update as much as possible if the questionnaire requirement exists. Please be patient and wait for Xiaomi to announce it.
+## Notice for International users
+- International users are not required to answer questions. Xiaomi Community APP 5.3.31+ is required.
 
-## 2024.01.24、2024.01.25、2024.01.26
+## 2024.01.31、2024.02.01
+- [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/48)
+
+## 2024.01.24、2024.01.25、2024.01.26、2024.01.29、2024.01.30
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8253243) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/43)
 - 答题链接(更新): https://m.beehive.miui.com/2502bGI1tPhaATYR1KQK8g/
 - 题目数量: 20
