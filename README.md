@@ -6,9 +6,9 @@
   - **警告**：**已通过**国内 BootLoader 解锁资格审批的用户请勿再尝试通过 beehive 链接重复答题，已经有用户的**解锁功能被封禁（绑定提示账户受限）、回收解锁资格并踢出所有内测项目**。被计入绑定黑名单后，该账户后续**不仅无法再解锁 HyperOS 设备，甚至也不能解锁 MIUI 设备**！！
   - **警告**：社区等级**未满5级**的用户也请勿尝试通过 beehive 链接进行答题，已经有大量用户因此导致**社区相关功能被封禁**，且**客服无法解封**。社区功能被封禁后，进入社区不能加载数据并提示“访问小米社区受限，请几天后再试”，该账户后续**无法继续使用任何与社区有关的功能，包括但不限于内测申请、BL解锁申请**！！
 - 本记录**不是**小米官方统计项目。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。文字游戏较多，注意题目和选项的细节。答案为收集整理，不一定完全正确，欢迎提交你的答案。
-- 祝你们每个人都能天天签到 24 分，早日通过申请审批，解锁 BootLoader。在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户，感谢你们为 Android 刷机社区做出的贡献。
+- 祝你们每个人都能天天签到 30 分，早日通过申请审批，解锁 BootLoader。在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户，感谢你们为 Android 刷机社区做出的贡献。
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
-- 答题开放时间限制：工作日上午 10 点 - 下午 18 点（法定节假日为答题系统维护时间），还请合理安排答题时间。答题成绩每周三上午 10:59 失效，如答题通过，请务必在周三中午 11 点前完成申请，避免成绩失效影响申请。
+- 答题开放时间限制：工作日上午 10 点 - 下午 18 点（法定节假日为答题系统维护时间），还请合理安排答题时间。答题成绩每周三上午 9:59 失效，如答题通过，请务必在周三上午 10 点前完成申请，避免成绩失效影响申请。
 - **Notice for International users**: International users who are unlocking HyperOS are not required to take an exam. [Xiaomi Community APP](https://play.google.com/store/apps/details?id=com.mi.global.bbs) 5.3.31+ is required.
 
 ## 声明 / Disclaimer
@@ -23,8 +23,8 @@
 
 网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
 
-## 2024.01.31、2024.02.01、2024.02.02
-- [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/48)
+## 2024.01.31、2024.02.01、2024.02.02、2024.02.05、2024.02.06
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8443406) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/48)
 
 ## 2024.01.24、2024.01.25、2024.01.26、2024.01.29、2024.01.30
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8253243) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/43)
@@ -335,8 +335,8 @@
 		<td>1529956</td>
 		<td>请截图本页面，并上传截图</td>
 		<td>文件题</td>
-		<td>✔️</td>
-		<td>至少需要上传 1 个文件。请使用「小米社区」APP 答题并截图上传。</td>
+		<td>0</td>
+		<td>未正确上传该页面截图或伪造截图，将视为无效答卷，无法通过审核</td>
 		<td></td>
 		<td></td>
 		<td></td>
