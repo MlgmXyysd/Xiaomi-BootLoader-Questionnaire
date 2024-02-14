@@ -723,7 +723,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td></td>
+		<td>0</td>
 	</tr>
 	<tr>
 		<td>1529957</td>
