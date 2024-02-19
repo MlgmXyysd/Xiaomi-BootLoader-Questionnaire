@@ -9470,7 +9470,7 @@
 </table>
 
 ## 2023.12.01
-
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/69#discussioncomment-8507431)
 - 答题链接: https://m.beehive.miui.com/Wc2BAFI5U3xqe_bYlNMT2g/
 - 题目数量: 18
 - 合格分数: 93
@@ -9789,7 +9789,7 @@
 </table>
 
 ## 2023.11.30
-
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/69#discussioncomment-8507430)
 - 答题链接: https://m.beehive.miui.com/Wc2BAFI5U3xqe_bYlNMT2g/
 - 题目数量: 17
 - 合格分数: 93
@@ -10092,7 +10092,7 @@
 </table>
 
 ## 2023.11.29
-
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/69#discussioncomment-8507429)
 - 答题链接(更新): https://m.beehive.miui.com/Wc2BAFI5U3xqe_bYlNMT2g/
 - 题目数量(更新): 18
 - 合格分数(更新): 93
@@ -10411,7 +10411,7 @@
 </table>
 
 ## 2023.11.08
-
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/69#discussioncomment-8507426)
 - 答题链接: https://m.beehive.miui.com/jdXtFrvJLlOK1T2omVdcFQ/
 - 题目数量: 25
 - 合格分数: 80
