@@ -1,6 +1,6 @@
 {
     "latest": {
-        "date": "2024-01-31",
+        "date": "2024-01-04",
         "problems": [
             {
                 "id": 1,
@@ -315,6 +315,43 @@
         },
         {
             "id": 3,
+            "content": "已满足BL解锁申请条件，但申请后被拒绝的原因，下列说法正确的有",
+            "type": "multiple",
+            "options": [
+                {
+                    "id": 1,
+                    "content": "在社交媒介恶意诋毁、谩骂、造谣等",
+                    "correct": true,
+                    "explanation": "您不得在社交媒介对小米恶意诋毁、谩骂、造谣等。"
+                },
+                {
+                    "id": 2,
+                    "content": "出现被判定为作弊的行为",
+                    "correct": true,
+                    "explanation": "根据解锁申请详细说明，“代答”等账号异常行为属于违规，解锁申请不予通过，且账号将被封禁。"
+                },
+                {
+                    "id": 3,
+                    "content": "不填写申请理由、或使用AI生成申请理由、或申请理由出现过辱骂威胁等内容",
+                    "correct": true,
+                    "explanation": "您必须在申请时认真填写真实的申请理由。"
+                },
+                {
+                    "id": 4,
+                    "content": "其他违反小米账号使用协议的相关情形",
+                    "correct": true,
+                    "explanation": "您不得违反小米账号使用协议。"
+                },
+                {
+                    "id": 5,
+                    "content": "确认无任何违规情形，被拒绝后可尝试再次申请",
+                    "correct": true,
+                    "explanation": "如您无上述违规情形，在申请被拒绝后，可在 7 天后重新答题并申请。"
+                }
+            ]
+        },
+        {
+            "id": 4,
             "content": "BL解锁面向发烧友和开发者开放，因此在资格筛选时，会考察是否符合发烧友的特质。下面关于发烧友的特质，说法正确的有",
             "type": "multiple",
             "options": [
@@ -363,7 +400,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": 5,
             "content": "下列关于JVM垃圾回收机制的说法不正确的有",
             "type": "multiple",
             "options": [
@@ -454,7 +491,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": 6,
             "content": "FASTBOOT模式进入后是什么样子？",
             "type": "single",
             "options": [
@@ -479,7 +516,7 @@
             ]
         },
         {
-            "id": 6,
+            "id": 7,
             "content": "在FASTBOOT模式下，什么是用于刷写固件的命令？",
             "type": "single",
             "options": [
@@ -510,7 +547,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 8,
             "content": "通过流的read()方法读取数据，返回1表示流结尾",
             "type": "single",
             "options": [
@@ -529,7 +566,7 @@
             ]
         },
         {
-            "id": 8,
+            "id": 9,
             "content": "在正常情况下，所有非system分区，APP运行时的UID不是完全一样的",
             "type": "single",
             "options": [
@@ -548,7 +585,7 @@
             ]
         },
         {
-            "id": 9,
+            "id": 10,
             "content": "下列关于数据差错校验的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -579,7 +616,7 @@
             ]
         },
         {
-            "id": 10,
+            "id": 11,
             "content": "下列有关计算机安全的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -634,7 +671,7 @@
             ]
         },
         {
-            "id": 11,
+            "id": 12,
             "content": "输入“adb logcat”后，出现“waiting for device”信息，可能是由于设备没有连接计算机",
             "type": "single",
             "options": [
@@ -653,7 +690,7 @@
             ]
         },
         {
-            "id": 12,
+            "id": 13,
             "content": "下列关于Java后端开发的说法中，不正确的有",
             "type": "multiple",
             "options": [
@@ -696,7 +733,7 @@
             ]
         },
         {
-            "id": 13,
+            "id": 14,
             "content": "BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行",
             "type": "single",
             "options": [
@@ -715,7 +752,7 @@
             ]
         },
         {
-            "id": 14,
+            "id": 15,
             "content": "以下对于计算机组成原理相关概念的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -758,7 +795,7 @@
             ]
         },
         {
-            "id": 15,
+            "id": 16,
             "content": "以下关于9008模式的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -831,7 +868,7 @@
             ]
         },
         {
-            "id": 16,
+            "id": 17,
             "content": "以下对于网络数据传输的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -862,7 +899,7 @@
             ]
         },
         {
-            "id": 17,
+            "id": 18,
             "content": "FASTBOOT getvar all 命令有何作用？",
             "type": "single",
             "options": [
@@ -893,7 +930,7 @@
             ]
         },
         {
-            "id": 18,
+            "id": 19,
             "content": "FASTBOOT模式通常用于哪些操作？",
             "type": "multiple",
             "options": [
@@ -936,7 +973,7 @@
             ]
         },
         {
-            "id": 19,
+            "id": 20,
             "content": "MTK刷机的报错，原因不匹配的有",
             "type": "multiple",
             "options": [
@@ -973,7 +1010,7 @@
             ]
         },
         {
-            "id": 20,
+            "id": 21,
             "content": "以下有关信息安全法律法规的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -1004,7 +1041,7 @@
             ]
         },
         {
-            "id": 21,
+            "id": 22,
             "content": "以下适用于View类的onDraw()方法有",
             "type": "multiple",
             "options": [
@@ -1041,7 +1078,7 @@
             ]
         },
         {
-            "id": 22,
+            "id": 23,
             "content": "线刷需要手机进入什么模式？",
             "type": "single",
             "options": [
@@ -1066,7 +1103,7 @@
             ]
         },
         {
-            "id": 23,
+            "id": 24,
             "content": "在正常情况下，所有非system分区的APP运行时的UID都是一样的",
             "type": "single",
             "options": [
@@ -1085,7 +1122,7 @@
             ]
         },
         {
-            "id": 24,
+            "id": 25,
             "content": "以下关于隐式Intent的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1116,7 +1153,7 @@
             ]
         },
         {
-            "id": 25,
+            "id": 26,
             "content": "adb的全称是Android Debug Badge，起到调试桥的作用",
             "type": "single",
             "options": [
@@ -1135,7 +1172,7 @@
             ]
         },
         {
-            "id": 26,
+            "id": 27,
             "content": "下列关于清除数据的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1184,7 +1221,7 @@
             ]
         },
         {
-            "id": 27,
+            "id": 28,
             "content": "MTK刷机时，报错4004的意思是",
             "type": "single",
             "options": [
@@ -1215,7 +1252,7 @@
             ]
         },
         {
-            "id": 28,
+            "id": 29,
             "content": "通过fastboot -r ANTI命令可以输出ANTI版本号",
             "type": "single",
             "options": [
@@ -1234,7 +1271,7 @@
             ]
         },
         {
-            "id": 29,
+            "id": 30,
             "content": "下列关于Android应用权限的相关说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1271,7 +1308,7 @@
             ]
         },
         {
-            "id": 30,
+            "id": 31,
             "content": "原始设备制造商简称OEM，是英文Original Equipment Manufacturer的缩写",
             "type": "single",
             "options": [
@@ -1290,7 +1327,7 @@
             ]
         },
         {
-            "id": 31,
+            "id": 32,
             "content": "如何解除手机Bootloader锁？",
             "type": "single",
             "options": [
@@ -1321,7 +1358,7 @@
             ]
         },
         {
-            "id": 32,
+            "id": 33,
             "content": "线刷可以用来解决哪些场景问题？",
             "type": "multiple",
             "options": [
@@ -1352,7 +1389,7 @@
             ]
         },
         {
-            "id": 33,
+            "id": 34,
             "content": "安卓系统中负责启动应用，管理应用生命周期的系统服务是",
             "type": "single",
             "options": [
@@ -1383,7 +1420,7 @@
             ]
         },
         {
-            "id": 34,
+            "id": 35,
             "content": "在没有root情况下可以安装Magisk",
             "type": "single",
             "options": [
@@ -1402,7 +1439,7 @@
             ]
         },
         {
-            "id": 35,
+            "id": 36,
             "content": "以下对于访问控制的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1427,7 +1464,7 @@
             ]
         },
         {
-            "id": 36,
+            "id": 37,
             "content": "Android原生提供的ContentProvider有",
             "type": "multiple",
             "options": [
@@ -1458,7 +1495,7 @@
             ]
         },
         {
-            "id": 37,
+            "id": 38,
             "content": "adb的全称是Android Debug Bridge，起到调试桥的作用",
             "type": "single",
             "options": [
@@ -1477,7 +1514,7 @@
             ]
         },
         {
-            "id": 38,
+            "id": 39,
             "content": "以下对于软件工程相关概念的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1520,7 +1557,7 @@
             ]
         },
         {
-            "id": 39,
+            "id": 40,
             "content": "FASTBOOT模式下如何输出防回滚机制（ANTI）版本号",
             "type": "single",
             "options": [
@@ -1551,7 +1588,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": 41,
             "content": "官方提供给用户的刷机工具是MiFlash",
             "type": "single",
             "options": [
@@ -1570,7 +1607,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": 42,
             "content": "FASTBOOT模式和Recovery模式有什么区别？",
             "type": "single",
             "options": [
@@ -1601,7 +1638,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": 43,
             "content": "MiFlash的全部删除是什么意思？",
             "type": "single",
             "options": [
@@ -1638,7 +1675,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": 44,
             "content": "Android系统加密保护用户数据，Android 10或更高版本的设备使用全盘加密",
             "type": "single",
             "options": [
@@ -1657,7 +1694,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": 45,
             "content": "fastboot oem reboot-recovery的作用是",
             "type": "single",
             "options": [
@@ -1688,7 +1725,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": 46,
             "content": "以下有关Android系统特性的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1743,7 +1780,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": 47,
             "content": "小米手机如何进入FASTBOOT模式？",
             "type": "single",
             "options": [
@@ -1774,7 +1811,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": 48,
             "content": "以下有关密码学的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1835,7 +1872,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": 49,
             "content": "现计划展出10台小米/Redmi手机，具体如下：3台Redmi K70（已BL解锁）、3台小米13（未BL解锁）、1台小米14Pro（未BL解锁）、3台Redmi K60至尊版（未BL解锁），现将这10台手机排成一列进行展示，但已BL解锁的手机不能挨在一起，请问有多少种展出陈列方式（同一机型视为完全一样）",
             "type": "single",
             "options": [
@@ -1872,7 +1909,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": 50,
             "content": "在FASTBOOT模式中，手机通过什么方式连接到电脑？",
             "type": "single",
             "options": [
@@ -1903,7 +1940,7 @@
             ]
         },
         {
-            "id": 50,
+            "id": 51,
             "content": "烧录img、bin、mbn、elf等镜像文件内容到指定分区，正确的指令是",
             "type": "single",
             "options": [
@@ -1970,7 +2007,7 @@
             ]
         },
         {
-            "id": 51,
+            "id": 52,
             "content": "下列对于计算机网络相关软硬件的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2019,7 +2056,7 @@
             ]
         },
         {
-            "id": 52,
+            "id": 53,
             "content": "下列关于Android安全机制的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2056,7 +2093,7 @@
             ]
         },
         {
-            "id": 53,
+            "id": 54,
             "content": "关于AndroidManifest.xml中的manifest标签，以下说法正确的是",
             "type": "multiple",
             "options": [
@@ -2087,7 +2124,7 @@
             ]
         },
         {
-            "id": 54,
+            "id": 55,
             "content": "关于FASTBOOT devices的作用，错误的说法有",
             "type": "multiple",
             "options": [
@@ -2118,7 +2155,7 @@
             ]
         },
         {
-            "id": 55,
+            "id": 56,
             "content": "下列关于BL解锁刷机的说法，不正确的是",
             "type": "multiple",
             "options": [
@@ -2221,7 +2258,7 @@
             ]
         },
         {
-            "id": 56,
+            "id": 57,
             "content": "以下对于数据结构相关概念的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2246,7 +2283,7 @@
             ]
         },
         {
-            "id": 57,
+            "id": 58,
             "content": "下列刷机工具中，不属于官方提供给用户的工具是？",
             "type": "multiple",
             "options": [
@@ -2283,7 +2320,7 @@
             ]
         },
         {
-            "id": 58,
+            "id": 59,
             "content": "比特率是指将模拟声音信号转换成数字声音信号后单位时间内的二进制数据量，因此比特率越大的音质就越好",
             "type": "single",
             "options": [
@@ -2302,7 +2339,7 @@
             ]
         },
         {
-            "id": 59,
+            "id": 60,
             "content": "FASTBOOT命令中使用的标志“-w”代表什么操作？",
             "type": "single",
             "options": [
@@ -2333,7 +2370,7 @@
             ]
         },
         {
-            "id": 60,
+            "id": 61,
             "content": "执行以下哪些操作需要解Bootloader锁？",
             "type": "multiple",
             "options": [
@@ -2364,7 +2401,7 @@
             ]
         },
         {
-            "id": 61,
+            "id": 62,
             "content": "inetd是UNIX系统最重要的网络服务进程",
             "type": "single",
             "options": [
@@ -2383,7 +2420,7 @@
             ]
         },
         {
-            "id": 62,
+            "id": 63,
             "content": "以下关于versionCode和versionName的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2420,7 +2457,7 @@
             ]
         },
         {
-            "id": 63,
+            "id": 64,
             "content": "FastBoot命令有哪些类型",
             "type": "multiple",
             "options": [
@@ -2451,7 +2488,7 @@
             ]
         },
         {
-            "id": 64,
+            "id": 65,
             "content": "以下关于Dialog类的描述正确的是",
             "type": "multiple",
             "options": [
@@ -2482,7 +2519,7 @@
             ]
         },
         {
-            "id": 65,
+            "id": 66,
             "content": "inet是UNIX系统最重要的网络服务进程",
             "type": "single",
             "options": [
@@ -2501,7 +2538,7 @@
             ]
         },
         {
-            "id": 66,
+            "id": 67,
             "content": "请问如何实现保存数据刷机？",
             "type": "single",
             "options": [
@@ -2532,7 +2569,7 @@
             ]
         },
         {
-            "id": 67,
+            "id": 68,
             "content": "Bootloader锁被解开还能重新上锁",
             "type": "single",
             "options": [
@@ -2551,7 +2588,7 @@
             ]
         },
         {
-            "id": 68,
+            "id": 69,
             "content": "以下对于计算机网络相关概念的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2594,7 +2631,7 @@
             ]
         },
         {
-            "id": 69,
+            "id": 70,
             "content": "如何退出FASTBOOT模式？",
             "type": "multiple",
             "options": [
@@ -2637,7 +2674,7 @@
             ]
         },
         {
-            "id": 70,
+            "id": 71,
             "content": "输入fastboot devices命令后，可能输出的结果是",
             "type": "single",
             "options": [
@@ -2668,7 +2705,7 @@
             ]
         },
         {
-            "id": 71,
+            "id": 72,
             "content": "下列关于BL解锁的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2705,7 +2742,7 @@
             ]
         },
         {
-            "id": 72,
+            "id": 73,
             "content": "原始设备制造商简称OEM，是英文Original Environment Manufacturer的缩写",
             "type": "single",
             "options": [
@@ -2724,7 +2761,7 @@
             ]
         },
         {
-            "id": 73,
+            "id": 74,
             "content": "下列对于计算机网络协议的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2749,7 +2786,7 @@
             ]
         },
         {
-            "id": 74,
+            "id": 75,
             "content": "Xiaomi/Redmi手机如何进入Recovery模式？",
             "type": "single",
             "options": [
@@ -2780,7 +2817,7 @@
             ]
         },
         {
-            "id": 75,
+            "id": 76,
             "content": "通过流的read()方法读取数据，返回-1表示流结尾",
             "type": "single",
             "options": [
@@ -2799,7 +2836,7 @@
             ]
         },
         {
-            "id": 76,
+            "id": 77,
             "content": "如何在FASTBOOT命令行内，刷入twrp到boot分区？",
             "type": "single",
             "options": [
@@ -2830,7 +2867,7 @@
             ]
         },
         {
-            "id": 77,
+            "id": 78,
             "content": "下列关于EDL刷机的说法，不正确的有？",
             "type": "multiple",
             "options": [
@@ -2873,7 +2910,7 @@
             ]
         },
         {
-            "id": 78,
+            "id": 79,
             "content": "输入“adb logcat”后，出现“waiting for device”信息，可能的原因是",
             "type": "multiple",
             "options": [
@@ -2904,7 +2941,7 @@
             ]
         },
         {
-            "id": 79,
+            "id": 80,
             "content": "手机如只能进入FASTBOOT，下列说法正确的有",
             "type": "multiple",
             "options": [
@@ -2929,7 +2966,7 @@
             ]
         },
         {
-            "id": 80,
+            "id": 81,
             "content": "以下FASTBOOT基本命令，对应正确的有",
             "type": "multiple",
             "options": [
@@ -3098,7 +3135,7 @@
             ]
         },
         {
-            "id": 81,
+            "id": 82,
             "content": "请截图本页面，并上传截图",
             "type": "upload_file",
             "options": [
@@ -3111,7 +3148,7 @@
             ]
         },
         {
-            "id": 82,
+            "id": 83,
             "content": "关于本问卷中的填空题，请您务必认真阅读并了解以下注意事项",
             "type": "multiple",
             "options": [
