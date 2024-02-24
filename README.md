@@ -26,7 +26,7 @@
 
 ## 工具集 / Utilities
 - Bypass PoC: 如果您的设备不是出厂搭载 HyperOS，您可尝试使用漏洞进行绑定，成功则无需参与答题：[Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
-- 《米蛤游抽卡统计》: 用户制作的通过解锁内测审批人数统计（基于内测圈子人数），数据每日更新，有折线图和文字版: [小米解锁人数统计](https://mifanlover.github.io/MiHaYoStat)
+- 《米蛤游抽卡统计》: 用户制作的通过解锁内测审批人数统计（基于内测圈子人数），数据每日更新，有折线图和文字版: [小米解锁人数统计](https://leijun.jinfan.online/mihayo/)
 - 《五年解锁 三年模拟》: 为了辅助用户答题，我们为项目制作了[网站](https://xmbl.neko.ink/)，网站目前有「知识库」和「模拟答题」功能，内容跟随仓库更新。网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
 - **Notice for International users**: International users who are unlocking HyperOS are not required to take an exam: [Xiaomi Community APP](https://play.google.com/store/apps/details?id=com.mi.global.bbs) 5.3.31+ is required.
 
