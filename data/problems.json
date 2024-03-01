@@ -901,9 +901,9 @@
                 },
                 {
                     "id": 5,
-                    "content": "删除小米社区所有数据",
+                    "content": "~~删除小米社区所有数据~~",
                     "correct": false,
-                    "explanation": "您可进入「小米社区」APP，点击「我的」选项卡，点击右上角「齿轮」按钮，然后进入「隐私管理-注销小米社区服务」，点击下方「注销小米社区账号」按钮，勾选「本人已阅读并知晓注销协议」，最后点击最下方「确认注销」按钮即可全部删除。"
+                    "explanation": "~~您可进入「小米社区」APP，点击「我的」选项卡，点击右上角「齿轮」按钮，然后进入「隐私管理-注销小米社区服务」，点击下方「注销小米社区账号」按钮，勾选「本人已阅读并知晓注销协议」，最后点击最下方「确认注销」按钮即可全部删除。~~"
                 }
             ]
         },
@@ -1058,37 +1058,6 @@
         },
         {
             "id": 26,
-            "content": "输入“adb logcat”后，出现“waiting for device”信息，可能的原因是",
-            "type": "multiple",
-            "options": [
-                {
-                    "id": 1,
-                    "content": "ADB驱动程序没有正确安装",
-                    "correct": true,
-                    "explanation": "该信息的含义为 【等待 device 模式的设备连接】，可能出现的原因有以下几点：1）驱动未安装或出现异常，计算机无法识别设备；2）设备没有物理连接到计算机，可检查接口是否松动或数据线是否正常；3）设备不在 device 模式，或未授权计算机；4）设备没有启用「USB 调试」功能。"
-                },
-                {
-                    "id": 2,
-                    "content": "设备没有连接到计算机",
-                    "correct": true,
-                    "explanation": ""
-                },
-                {
-                    "id": 3,
-                    "content": "在线ota升级后没有自动双清",
-                    "correct": false,
-                    "explanation": ""
-                },
-                {
-                    "id": 4,
-                    "content": "安装包的签名不一致",
-                    "correct": false,
-                    "explanation": ""
-                }
-            ]
-        },
-        {
-            "id": 27,
             "content": "输入fastboot devices命令后，可能输出的结果是",
             "type": "single",
             "options": [
@@ -1119,7 +1088,7 @@
             ]
         },
         {
-            "id": 28,
+            "id": 27,
             "content": "现计划展出10台小米/Redmi手机，具体如下：3台Redmi K70（已BL解锁）、3台小米13（未BL解锁）、1台小米14Pro（未BL解锁）、3台Redmi K60至尊版（未BL解锁），现将这10台手机排成一列进行展示，但已BL解锁的手机不能挨在一起，请问有多少种展出陈列方式（同一机型视为完全一样）",
             "type": "single",
             "options": [
@@ -1156,7 +1125,7 @@
             ]
         },
         {
-            "id": 29,
+            "id": 28,
             "content": "若short型变量x=-8190，则x的机器数为",
             "type": "single",
             "options": [
@@ -1187,7 +1156,7 @@
             ]
         },
         {
-            "id": 30,
+            "id": 29,
             "content": "执行以下哪些操作需要解Bootloader锁？",
             "type": "multiple",
             "options": [
@@ -1218,7 +1187,7 @@
             ]
         },
         {
-            "id": 31,
+            "id": 30,
             "content": "下列关于BL解锁的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1255,7 +1224,7 @@
             ]
         },
         {
-            "id": 32,
+            "id": 31,
             "content": "下列刷机工具中，不属于官方提供给用户的工具是？",
             "type": "multiple",
             "options": [
@@ -1292,7 +1261,7 @@
             ]
         },
         {
-            "id": 33,
+            "id": 32,
             "content": "FastBoot命令有哪些类型",
             "type": "multiple",
             "options": [
@@ -1323,7 +1292,7 @@
             ]
         },
         {
-            "id": 34,
+            "id": 33,
             "content": "关于FASTBOOT devices的作用，错误的说法有",
             "type": "multiple",
             "options": [
@@ -1354,7 +1323,7 @@
             ]
         },
         {
-            "id": 35,
+            "id": 34,
             "content": "线刷可以用来解决哪些场景问题？",
             "type": "multiple",
             "options": [
@@ -1385,7 +1354,7 @@
             ]
         },
         {
-            "id": 36,
+            "id": 35,
             "content": "FASTBOOT模式通常用于哪些操作？",
             "type": "multiple",
             "options": [
@@ -1428,7 +1397,7 @@
             ]
         },
         {
-            "id": 37,
+            "id": 36,
             "content": "输入“adb logcat”后，出现“waiting for device”信息，可能的原因是",
             "type": "multiple",
             "options": [
@@ -1459,7 +1428,7 @@
             ]
         },
         {
-            "id": 38,
+            "id": 37,
             "content": "下列关于BL解锁刷机的说法，不正确的是",
             "type": "multiple",
             "options": [
@@ -1580,7 +1549,7 @@
             ]
         },
         {
-            "id": 39,
+            "id": 38,
             "content": "MTK刷机的报错，原因不匹配的有",
             "type": "multiple",
             "options": [
@@ -1629,7 +1598,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": 39,
             "content": "下列关于清除数据的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -1678,7 +1647,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": 40,
             "content": "手机如只能进入FASTBOOT，下列说法正确的有",
             "type": "multiple",
             "options": [
@@ -1703,7 +1672,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": 41,
             "content": "以下FASTBOOT基本命令，对应正确的有",
             "type": "multiple",
             "options": [
@@ -1872,7 +1841,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": 42,
             "content": "如何退出FASTBOOT模式？",
             "type": "multiple",
             "options": [
@@ -1915,7 +1884,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": 43,
             "content": "下列关于EDL刷机的说法，不正确的有？",
             "type": "multiple",
             "options": [
@@ -1958,7 +1927,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": 44,
             "content": "以下关于9008模式的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2031,7 +2000,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": 45,
             "content": "以下适用于View类的onDraw()方法有",
             "type": "multiple",
             "options": [
@@ -2068,7 +2037,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": 46,
             "content": "关于AndroidManifest.xml中的manifest标签，以下说法正确的是",
             "type": "multiple",
             "options": [
@@ -2099,7 +2068,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": 47,
             "content": "下列关于JVM垃圾回收机制的说法不正确的有",
             "type": "multiple",
             "options": [
@@ -2190,7 +2159,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": 48,
             "content": "下列关于Android安全机制的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2239,7 +2208,7 @@
             ]
         },
         {
-            "id": 50,
+            "id": 49,
             "content": "下列关于Android应用权限的相关说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2276,7 +2245,7 @@
             ]
         },
         {
-            "id": 51,
+            "id": 50,
             "content": "以下关于Dialog类的描述正确的是",
             "type": "multiple",
             "options": [
@@ -2307,7 +2276,7 @@
             ]
         },
         {
-            "id": 52,
+            "id": 51,
             "content": "以下关于versionCode和versionName的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2344,7 +2313,7 @@
             ]
         },
         {
-            "id": 53,
+            "id": 52,
             "content": "Android原生提供的ContentProvider有",
             "type": "multiple",
             "options": [
@@ -2375,7 +2344,7 @@
             ]
         },
         {
-            "id": 54,
+            "id": 53,
             "content": "以下关于隐式Intent的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2406,7 +2375,7 @@
             ]
         },
         {
-            "id": 55,
+            "id": 54,
             "content": "以下有关Android系统特性的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2461,7 +2430,7 @@
             ]
         },
         {
-            "id": 56,
+            "id": 55,
             "content": "以下关于树的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2534,7 +2503,7 @@
             ]
         },
         {
-            "id": 57,
+            "id": 56,
             "content": "以下关于排序算法的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2571,7 +2540,7 @@
             ]
         },
         {
-            "id": 58,
+            "id": 57,
             "content": "以下关于数组的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2602,7 +2571,7 @@
             ]
         },
         {
-            "id": 59,
+            "id": 58,
             "content": "以下关于栈和队列的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2669,7 +2638,7 @@
             ]
         },
         {
-            "id": 60,
+            "id": 59,
             "content": "以下关于线性表的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2706,7 +2675,7 @@
             ]
         },
         {
-            "id": 61,
+            "id": 60,
             "content": "以下对于计算机组成原理相关概念的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2779,7 +2748,7 @@
             ]
         },
         {
-            "id": 62,
+            "id": 61,
             "content": "以下对于计算机网络相关概念的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2840,7 +2809,7 @@
             ]
         },
         {
-            "id": 63,
+            "id": 62,
             "content": "以下对于网络数据传输的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2871,7 +2840,7 @@
             ]
         },
         {
-            "id": 64,
+            "id": 63,
             "content": "下列关于数据差错校验的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2902,7 +2871,7 @@
             ]
         },
         {
-            "id": 65,
+            "id": 64,
             "content": "下列对于计算机网络协议的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -2927,7 +2896,7 @@
             ]
         },
         {
-            "id": 66,
+            "id": 65,
             "content": "下列对于计算机网络相关软硬件的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -2976,7 +2945,7 @@
             ]
         },
         {
-            "id": 67,
+            "id": 66,
             "content": "下列有关计算机安全的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -3031,7 +3000,7 @@
             ]
         },
         {
-            "id": 68,
+            "id": 67,
             "content": "以下对于访问控制的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -3056,7 +3025,7 @@
             ]
         },
         {
-            "id": 69,
+            "id": 68,
             "content": "以下有关密码学的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -3117,7 +3086,7 @@
             ]
         },
         {
-            "id": 70,
+            "id": 69,
             "content": "以下有关信息安全法律法规的说法，正确的有",
             "type": "multiple",
             "options": [
@@ -3148,7 +3117,7 @@
             ]
         },
         {
-            "id": 71,
+            "id": 70,
             "content": "下列关于Java后端开发的说法中，不正确的有",
             "type": "multiple",
             "options": [
@@ -3191,7 +3160,7 @@
             ]
         },
         {
-            "id": 72,
+            "id": 71,
             "content": "以下对于软件工程相关概念的说法，不正确的有",
             "type": "multiple",
             "options": [
@@ -3234,7 +3203,7 @@
             ]
         },
         {
-            "id": 73,
+            "id": 72,
             "content": "通过fastboot -r ANTI命令可以输出ANTI版本号",
             "type": "single",
             "options": [
@@ -3253,7 +3222,7 @@
             ]
         },
         {
-            "id": 74,
+            "id": 73,
             "content": "Bootloader锁被解开还能重新上锁",
             "type": "single",
             "options": [
@@ -3272,7 +3241,7 @@
             ]
         },
         {
-            "id": 75,
+            "id": 74,
             "content": "在正常情况下，所有非system分区的APP运行时的UID都是一样的",
             "type": "single",
             "options": [
@@ -3291,7 +3260,7 @@
             ]
         },
         {
-            "id": 76,
+            "id": 75,
             "content": "Android系统加密保护用户数据，Android 10或更高版本的设备使用全盘加密",
             "type": "single",
             "options": [
@@ -3310,7 +3279,7 @@
             ]
         },
         {
-            "id": 77,
+            "id": 76,
             "content": "输入“adb logcat”后，出现“waiting for device”信息，可能是由于设备没有连接计算机",
             "type": "single",
             "options": [
@@ -3329,7 +3298,7 @@
             ]
         },
         {
-            "id": 78,
+            "id": 77,
             "content": "在正常情况下，所有非system分区，APP运行时的UID不是完全一样的",
             "type": "single",
             "options": [
@@ -3348,7 +3317,7 @@
             ]
         },
         {
-            "id": 79,
+            "id": 78,
             "content": "BootLoader是在Android设备启动时最先加载到RAM中的程序，它的主要作用是把系统OS拉起来并运行",
             "type": "single",
             "options": [
@@ -3367,7 +3336,7 @@
             ]
         },
         {
-            "id": 80,
+            "id": 79,
             "content": "在没有root情况下可以安装Magisk",
             "type": "single",
             "options": [
@@ -3386,7 +3355,7 @@
             ]
         },
         {
-            "id": 81,
+            "id": 80,
             "content": "官方提供给用户的刷机工具是MiFlash",
             "type": "single",
             "options": [
@@ -3405,7 +3374,7 @@
             ]
         },
         {
-            "id": 82,
+            "id": 81,
             "content": "比特率是指将模拟声音信号转换成数字声音信号后单位时间内的二进制数据量，因此比特率越大的音质就越好",
             "type": "single",
             "options": [
@@ -3424,7 +3393,7 @@
             ]
         },
         {
-            "id": 83,
+            "id": 82,
             "content": "原始设备制造商简称OEM，是英文Original Equipment Manufacturer的缩写",
             "type": "single",
             "options": [
@@ -3443,7 +3412,7 @@
             ]
         },
         {
-            "id": 84,
+            "id": 83,
             "content": "inet是UNIX系统最重要的网络服务进程",
             "type": "single",
             "options": [
@@ -3462,7 +3431,7 @@
             ]
         },
         {
-            "id": 85,
+            "id": 84,
             "content": "adb的全称是Android Debug Bridge，起到调试桥的作用",
             "type": "single",
             "options": [
@@ -3481,7 +3450,7 @@
             ]
         },
         {
-            "id": 86,
+            "id": 85,
             "content": "adb的全称是Android Debug Badge，起到调试桥的作用",
             "type": "single",
             "options": [
@@ -3500,7 +3469,7 @@
             ]
         },
         {
-            "id": 87,
+            "id": 86,
             "content": "原始设备制造商简称OEM，是英文Original Environment Manufacturer的缩写",
             "type": "single",
             "options": [
@@ -3519,7 +3488,7 @@
             ]
         },
         {
-            "id": 88,
+            "id": 87,
             "content": "inetd是UNIX系统最重要的网络服务进程",
             "type": "single",
             "options": [
@@ -3538,7 +3507,7 @@
             ]
         },
         {
-            "id": 89,
+            "id": 88,
             "content": "通过流的read()方法读取数据，返回-1表示流结尾",
             "type": "single",
             "options": [
@@ -3557,7 +3526,7 @@
             ]
         },
         {
-            "id": 90,
+            "id": 89,
             "content": "通过流的read()方法读取数据，返回1表示流结尾",
             "type": "single",
             "options": [
@@ -3576,7 +3545,7 @@
             ]
         },
         {
-            "id": 91,
+            "id": 90,
             "content": "算法可以没有输入，但必须要有输出",
             "type": "single",
             "options": [
@@ -3595,7 +3564,7 @@
             ]
         },
         {
-            "id": 92,
+            "id": 91,
             "content": "算法可以没有输出，但必须要有输入",
             "type": "single",
             "options": [
@@ -3614,14 +3583,14 @@
             ]
         },
         {
-            "id": 93,
+            "id": 92,
             "content": "请截图本页面，并上传截图",
             "type": "upload_file",
             "note": "未正确上传该页面截图或伪造截图，将视为无效答卷，无法通过审核",
             "options": []
         },
         {
-            "id": 94,
+            "id": 93,
             "content": "请截图本页面，并上传截图",
             "type": "upload_file",
             "note": "[截图识别码1281-4]未正确上传该页面截图或伪造截图，将视为无效答卷，无法通过审核",
