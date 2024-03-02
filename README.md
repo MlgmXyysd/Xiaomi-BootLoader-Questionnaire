@@ -20,11 +20,16 @@
 - This project is completely free. If you purchased the content of this project from others, please apply for a refund and report to the platform for reselling behavior. If you want to express your gratitude to authors, you can sponsor through the following channels: [爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
 
 ## 工具集 / Utilities
-- Bypass PoC: 如果您的设备不是出厂搭载 HyperOS，您可尝试使用漏洞进行绑定，成功则无需参与答题: [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass); 如遇报错 `Request parameter error (10000)`，请参考[此处](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass/issues/29)
+- Bypass PoC: 如果您的设备不是出厂搭载 HyperOS，您可尝试使用漏洞进行绑定，成功则无需参与答题: [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)；如遇报错 `Request parameter error (10000)`，请参考[此处](https://www.coolapk.com/feed/53042929?shareKey=NzhmMGE5MTIxOWIwNjVjNDlhMzM)
 - 《抽卡概率公开》: 用户制作的「小米社区」签到 +1 概率统计（根据签到页面显示），数据每小时更新: [签到 +1 概率统计](https://mihayo.jinfan.online/#/probability)
 - 《米蛤游抽卡统计》: 用户制作的通过解锁内测审批人数统计（基于内测圈子人数），~~数据每日更新~~（自 2024.02.29 16:00 起，小米隐藏了加入 BL 解锁圈子的人数，最新数据永久停留在了 2024.02.29 15:00），有折线图和文字版: [小米解锁人数统计](https://mihayo.jinfan.online/#/graph)
 - 《五年解锁 三年模拟》: 为了辅助用户答题，我们为项目制作了[网站](https://xmbl.neko.ink/)，网站目前有「知识库」和「模拟答题」功能，内容跟随仓库更新。网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
-- **Notice for International users**: International users who are unlocking HyperOS running on **NON-CHINA-MAINLAND DEVICES** are not required to take an exam: [Xiaomi Community APP](https://play.google.com/store/apps/details?id=com.mi.global.bbs) 5.3.31+ is required. The HyperOS unlocking policy for CHINA-MAINLAND DEVICES follows the regulations of the Xiaomi community in mainland China.
+- **Notice for International users**:
+  - If you are trying to unlock HyperOS running on **NON-CHINA-MAINLAND DEVICES**:
+    -  Congratulations! All you need to do is to install [Xiaomi Community APP](https://play.google.com/store/apps/details?id=com.mi.global.bbs) 5.3.31+, and then click on "ME - Unlock bootloader - Apply for unlocking" to obtain unlocking permissions.
+  - If you are trying to unlock HyperOS running on **CHINA-MAINLAND DEVICES**:
+    -  If your device **IS NOT PRE-INSTALLED WITH HyperOS**: Congratulations! You can try using [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) to bind your account. If you encounter `Request parameter error (10000)`, please refer to [here](https://twitter.com/realMlgmXyysd/status/1748386904050110675).
+    -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region.
 
 ## 2024.02.29
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8626685) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/93)
