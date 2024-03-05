@@ -680,7 +680,7 @@
 
 ## 2024.02.27 10:45-11:00
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8626685) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/89)
-- 答题链接 https://m.beehive.miui.com/wlH2yKwBvy_Iu85HjlYFjg/
+- 答题链接: https://m.beehive.miui.com/wlH2yKwBvy_Iu85HjlYFjg/
 - 题目数量(更新): 16 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在倒计时结束前提交问卷，超时提交将无法展示分数**
