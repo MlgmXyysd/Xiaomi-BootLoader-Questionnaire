@@ -13,7 +13,7 @@
 - 本记录**不是**小米官方统计项目。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。文字游戏较多，注意题目和选项的细节。答案为收集整理，不一定完全正确，欢迎提交你的答案。
 - 祝你们每个人都能天天签到 30 分，早日通过申请审批，解锁 BootLoader。在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户，感谢你们为 Android 刷机社区做出的贡献。
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
-- 答题开放时间限制：每周二 8:15-8:30、10:45-11:00、14:45-15:00 和每周四 8:15-8:30（非工作日不开放），还请合理安排答题时间。答题成绩每周一晚上 23:59 失效，如答题通过，请务必在周一晚上 23:59 前完成资格申请，避免成绩失效影响申请。
+- 答题开放时间限制：每周二 8:00-8:15、10:45-11:00、14:45-15:00 和每周四 8:00-8:15（非工作日不开放），还请合理安排答题时间。答题成绩每周一晚上 23:59 失效，如答题通过，请务必在周一晚上 23:59 前完成资格申请，避免成绩失效影响申请。
 
 ## 声明 / Disclaimer
 - 该项目完全免费，如果你从他人手中购买了此项目的内容，请申请退款并向平台举报倒卖行为。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
@@ -31,7 +31,7 @@
     -  If your device **IS NOT PRE-INSTALLED WITH HyperOS**: Congratulations! You can try using [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) to bind your account. If you encounter `Request parameter error (10000)`, please refer to [here](https://twitter.com/realMlgmXyysd/status/1748386904050110675).
     -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to pass the unlocking exam, achieve a community growth level of 5+, complete real-name authentication, then apply for unlocking and wait for your request to be approved.
 
-## 2024.03.07 08:15-08:30
+## 2024.03.07 08:00-08:15
 - [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/103)
 
 ## 2024.03.05 10:45-11:00
