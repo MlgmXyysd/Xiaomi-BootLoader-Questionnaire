@@ -12737,7 +12737,7 @@
 ## 2023.12.01
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/69#discussioncomment-8507431)
 - 答题链接: https://m.beehive.miui.com/Wc2BAFI5U3xqe_bYlNMT2g/
-- 题目数量: 18
+- 题目数量(更新): 18
 - 合格分数: 93
 - 每题分数: 7
 - 时间限制: 6 分钟，超时结算已回答题目的分数
