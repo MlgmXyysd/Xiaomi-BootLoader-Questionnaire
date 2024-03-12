@@ -21,7 +21,7 @@
 
 ## 工具集 / Utilities
 - Bypass PoC: 如果您的设备不是出厂搭载 HyperOS，您可尝试使用漏洞进行绑定，成功则无需参与答题: [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)；如遇报错 `Request parameter error (10000)`，请参考[此处](https://www.coolapk.com/feed/53042929?shareKey=NzhmMGE5MTIxOWIwNjVjNDlhMzM)
-- **请注意**: **一些特定系列的产品是无法解锁的（比如: 红米 Note 13/13 Pro/13 Pro+）**。如遇报错 `The system is being upgraded. Please try again later. (30003)`，表示小米不允许您的设备进行解锁
+- **请注意**: **根据小米目前的解锁政策，部分产品系列不支持解锁（例如: 红米 Note 13/13 Pro/13 Pro+）**；如您绑定时提示“系统升级维护中”，表示小米不允许您的设备进行解锁，无论您的设备当前运行的是 HyperOS 还是 MIUI，也无论您是否拥有 HyperOS BL 解锁权限
 - 《抽卡概率公开》: 用户制作的「小米社区」签到 +1 概率统计（根据签到页面显示），数据每小时更新: [签到 +1 概率统计](https://mihayo.jinfan.online/#/probability)
 - 《米蛤游抽卡统计》: 用户制作的通过解锁内测审批人数统计（基于内测圈子人数），~~数据每日更新~~（自 2024.02.29 16:00 起，小米隐藏了加入 BL 解锁圈子的人数，最新数据永久停留在了 2024.02.29 15:00），有折线图和文字版: [小米解锁人数统计](https://mihayo.jinfan.online/#/graph)
 - 《五年解锁 三年模拟》: 为了辅助用户答题，我们为项目制作了[网站](https://xmbl.neko.ink/)，网站目前有「知识库」和「模拟答题」功能，内容跟随仓库更新。网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
@@ -30,8 +30,8 @@
     -  Congratulations! All you need to do is to install [Xiaomi Community APP](https://play.google.com/store/apps/details?id=com.mi.global.bbs) 5.3.31+, and then click on "ME - Unlock bootloader - Apply for unlocking" to obtain unlocking permissions without waiting for any approval.
   - If you are trying to unlock HyperOS running on **CHINA-MAINLAND DEVICES**:
     -  If your device **IS NOT PRE-INSTALLED WITH HyperOS**: Congratulations! You can try using [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) to bind your account. If you encounter `Request parameter error (10000)`, please refer to [here](https://twitter.com/realMlgmXyysd/status/1748386904050110675).
-    -  **Note that some product series cannot be unlocked (e.g. Redmi Note 13/13 Pro/13 Pro+)**. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
-    -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to use CHINA-REGION-XIAOMI-ACCOUNT(that is, registered with a +86 phone) to pass the unlocking exam, achieve a community growth level of 5+, complete real-name authentication, then apply for unlocking and wait for your request to be approved.
+    -  **Note that some product series DO NOT SUPPORT unlocking (e.g. Redmi Note 13/13 Pro/13 Pro+) according to Xiaomi's current unlocking policy**. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
+    -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to use a **CHINA-REGION-XIAOMI-ACCOUNT(that is, registered with a +86 phone)** to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
 ## 2024.03.13 08:00-08:15
 - [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/157)
