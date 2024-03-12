@@ -1,11 +1,7 @@
 # Xiaomi-BootLoader-Questionnaire
 小米 BootLoader《解锁资格答题测试》更新记录
 
-- **严正声明：由于个别小米社区员工采用无理取闹的方式在答题时段频繁开关答题问卷、修改题目表述并更换选项内容，导致用户原本选择的正确答案被系统判定为错误。此举导致许多用户答题得分畸低，严重破坏了答题体验，也深深地伤害了广大米粉的心。且近期答题通过率几乎为 0 主要是由于填空题不审核、不出分导致的，本「小米 BootLoader《解锁资格答题测试》更新记录」拒绝为此背黑锅。同时，我们在此呼吁各位有解锁需求的小米用户共同抵制上述违规行为，营造良性答题环境。我们期待小米官方能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。** [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
-> - 发烧友具备**分享精神**，因此在有一些好的知识或经验时，**会积极分享和交流**，不会去利用“资源”去“谋利”
-> - 发烧友具备**学习精神**，因此在遇到新鲜事物或新知识时，**会乐于学习和钻研**，不会肆意谩骂
-> - 发烧友具备**探究精神**，因此在遇到不了解的问题时，**会在合理范围内主动探寻答案**，但不会寻求不正当“捷径”或采用违规方式
-> <div align="center"><img src="https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/assets/27143040/d9ee55b2-edb5-4c18-b84e-56c28358df77" height="400px" /></div>
+- **答题开放时间限制**：**每周二 8:00-8:15、10:45-11:00、14:45-15:00 和每周三 8:00-8:15（非工作日不开放）**，还请合理安排答题时间。答题成绩每周一晚上 23:59 失效，如答题通过，请务必在周一晚上 23:59 前完成资格申请，避免成绩失效影响申请。
 - **警告**：**您不得通过「小米社区」APP 以外的方式参与答题**。否则，您的账号将有可能：
   - **被永久拉入 BL 解锁风控黑名单**（绑定账号提示“账号权限不足或者账号受限”），后续该帐号不仅无法再解锁 HyperOS 设备，**甚至也不能解锁 MIUI 设备**，**且客服无法解封**！
   - **被永久拉入「小米社区」黑名单**（访问社区提示“访问小米社区受限，请几天后再试”），进入社区不能加载数据，**也无法继续使用包括内测申请、BL 解锁申请等任何社区相关功能**，**且客服无法解封**！
@@ -13,15 +9,19 @@
 - 本记录**不是**小米官方统计项目。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。文字游戏较多，注意题目和选项的细节。答案为收集整理，不一定完全正确，欢迎提交你的答案。
 - 祝你们每个人都能天天签到 30 分，早日通过申请审批，解锁 BootLoader。在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户，感谢你们为 Android 刷机社区做出的贡献。
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
-- 答题开放时间限制：每周二 8:00-8:15、10:45-11:00、14:45-15:00 和每周四 8:00-8:15（非工作日不开放），还请合理安排答题时间。答题成绩每周一晚上 23:59 失效，如答题通过，请务必在周一晚上 23:59 前完成资格申请，避免成绩失效影响申请。
 
 ## 声明 / Disclaimer
+- **严正声明**：由于个别小米社区员工采用无理取闹的方式在答题时段频繁开关答题问卷、修改题目表述并更换选项内容，导致用户原本选择的正确答案被系统判定为错误。此举导致许多用户答题得分畸低，严重破坏了答题体验，也深深地伤害了广大米粉的心。且近期答题通过率几乎为 0 主要是由于填空题不审核、不出分导致的，本「小米 BootLoader《解锁资格答题测试》更新记录」拒绝为此背黑锅。同时，我们在此呼吁各位有解锁需求的小米用户共同抵制上述违规行为，营造良性答题环境。我们期待小米官方能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。 [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
+> - 发烧友具备**分享精神**，因此在有一些好的知识或经验时，**会积极分享和交流**，不会去利用“资源”去“谋利”
+> - 发烧友具备**学习精神**，因此在遇到新鲜事物或新知识时，**会乐于学习和钻研**，不会肆意谩骂
+> - 发烧友具备**探究精神**，因此在遇到不了解的问题时，**会在合理范围内主动探寻答案**，但不会寻求不正当“捷径”或采用违规方式
+> <div align="center"><img src="https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/assets/27143040/d9ee55b2-edb5-4c18-b84e-56c28358df77" height="400px" /></div>
 - 该项目完全免费，如果你从他人手中购买了此项目的内容，请申请退款并向平台举报倒卖行为。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
 - This project is completely free. If you purchased the content of this project from others, please apply for a refund and report to the platform for reselling behavior. If you want to express your gratitude to authors, you can sponsor through the following channels: [爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
 
 ## 工具集 / Utilities
 - Bypass PoC: 如果您的设备不是出厂搭载 HyperOS，您可尝试使用漏洞进行绑定，成功则无需参与答题: [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)；如遇报错 `Request parameter error (10000)`，请参考[此处](https://www.coolapk.com/feed/53042929?shareKey=NzhmMGE5MTIxOWIwNjVjNDlhMzM)
-- **请注意，一些特定系列的产品是无法解锁的（比如: 红米 Note 13/13 Pro/13 Pro+）**。如遇报错 `The system is being upgraded. Please try again later. (30003)`，表示小米不允许您的设备进行解锁
+- **请注意**: **一些特定系列的产品是无法解锁的（比如: 红米 Note 13/13 Pro/13 Pro+）**。如遇报错 `The system is being upgraded. Please try again later. (30003)`，表示小米不允许您的设备进行解锁
 - 《抽卡概率公开》: 用户制作的「小米社区」签到 +1 概率统计（根据签到页面显示），数据每小时更新: [签到 +1 概率统计](https://mihayo.jinfan.online/#/probability)
 - 《米蛤游抽卡统计》: 用户制作的通过解锁内测审批人数统计（基于内测圈子人数），~~数据每日更新~~（自 2024.02.29 16:00 起，小米隐藏了加入 BL 解锁圈子的人数，最新数据永久停留在了 2024.02.29 15:00），有折线图和文字版: [小米解锁人数统计](https://mihayo.jinfan.online/#/graph)
 - 《五年解锁 三年模拟》: 为了辅助用户答题，我们为项目制作了[网站](https://xmbl.neko.ink/)，网站目前有「知识库」和「模拟答题」功能，内容跟随仓库更新。网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
@@ -33,7 +33,7 @@
     -  **Note that some product series cannot be unlocked (e.g. Redmi Note 13/13 Pro/13 Pro+)**. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
     -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to use CHINA-REGION-XIAOMI-ACCOUNT(that is, registered with a +86 phone) to pass the unlocking exam, achieve a community growth level of 5+, complete real-name authentication, then apply for unlocking and wait for your request to be approved.
 
-## 2024.03.14 08:00-08:15
+## 2024.03.13 08:00-08:15
 - [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/157)
 
 ## 2024.03.12 14:45-15:00
