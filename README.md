@@ -34,11 +34,316 @@
     -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to use a **CHINA-REGION-XIAOMI-ACCOUNT(that is, registered with a +86 phone)** to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
 ## 2024.03.13 08:00-08:15
-- [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/157)
+- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8768737) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/157)
+- 答题链接: https://m.beehive.miui.com/8qGdNjsaRn_9eBPfUymgLg/
+- 题目数量(更新): 18
+- 合格分数: 86
+- 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
+- 得分有效期: 2024 年 3 月 12 日 00:00 - 2024 年 3 月 18 日 23:59
+- 注:
+  1. 【填空题】为人工阅卷评分，所给答案仅供参考;
+  2. 未正确上传题目 1557483 [截图识别码 3161-1] 在「小米社区」APP 的界面截图或伪造截图，将视为无效答卷，无法通过审核;
+  3. 因小米不再对 5 级以下的账号登记和展示得分，无法再确定题目**在小米那边**的正确答案是什么（小米的题目/选项中含有答案出错/不合理/与现有文档不符，误导用户的描述），不保证所给答案为满分答案;
+  4. 因小米不再标注【填空题】的分值，且增加了选答题，**无法再确定客观题满分分数**;
+  5. 社区等级低于 5 级无法答题，且答题后不记录、不展示是否合格和得分;
+  6. 通过「小米社区」APP 以外的方式答题，账号将有可能:
+    - 被永久拉入 BL 解锁风控黑名单，无法对 MIUI 以及 HyperOS 进行绑定和解锁操作;
+    - 被永久拉入「小米社区」访问受限名单，无法浏览社区内容，也无法使用包括内测申请、BL 解锁申请等任何社区相关功能;
+    - 被踢出「小米社区」中的所有内测项目、收回已获取到的 HyperOS 解锁权限、《BL 解锁答题资格测试》分数清零等。
+  7. 部分题目和选项的顺序和细节描述可能会随机变动，请仔细检查后选择;
+  8. 已答题账号在 7 天内无法重新答题;
+  9. 用户若出现下列情形，将无法通过解锁审核:
+    - 在社交媒介恶意诋毁、谩骂、造谣等;
+    - 出现被判定为作弊的行为;
+    - 不填写申请理由、或使用AI生成申请理由、或申请理由出现过辱骂威胁等内容;
+    - 其他违反小米账号使用协议的相关情形。
+- 官方提示(更新):
+  1. BL 解锁危害多，BL 解锁可能造成各类 App 无法正常使用、个人数据信息泄露、手机变砖、资产损失等情况，因此强烈建议您非必要情况不申请 BL 解锁;
+  2. 填空题采用人工阅卷方式，人工阅卷预计在【下一答题周期开始前】完成;
+  3. 您提交问卷时的实时成绩仅为【选择题得分】;
+  4. 人工阅卷后，如您的【选择题 + 填空题总分】未达到分数线时，您的成绩将仅展示【选择题得分】;
+  5. 人工阅卷后，如您的【选择题 + 填空题总分】达到分数线时，您的成绩将展示为【选择题 + 填空题总分】;
+  6. 请务必通过“小米社区 App-内测中心-BL 解锁申请-去答题”进入本次答题界面并完成答题，未使用小米社区 App 进行答题将视为无效答题，无法展示成绩;
+  7. 等级未达 5 段，无法展示成绩;
+  8. 答题超时提交，无法展示成绩;
+  9. 请您充分知晓解锁和刷机存在的风险，并在可承担该风险的情况下申请 Bootloader 解锁;
+  10. 为避免成绩无效，建议作答时间不少于【5分钟】且不超过【15分钟】，请合理安排答题时间。
+
+<table>
+	<tr align="center">
+		<th rowspan="2">题目 ID</td>
+		<th rowspan="2">题目内容</td>
+		<th rowspan="2">类型</td>
+		<th colspan="8">选项</td>
+		<th rowspan="2">答案</td>
+	</tr>
+	<tr align="center">
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+		<th>ID</td>
+		<th>内容</td>
+	</tr>
+	<tr>
+		<td>1557478</td>
+		<td>BL解锁危害多，BL解锁可能造成各类App无法正常使用、个人数据信息泄露、手机变砖、资产损失等情况，因此强烈建议您非必要情况不申请BL解锁。请问您是否已经知悉以上风险和危害，并愿意承担以上全部风险和危害？</td>
+		<td>单选题</td>
+		<td>5106256</td>
+		<td>本人愿意承担以上全部风险和危害，接受各类App无法正常使用、个人数据信息泄露、手机变砖、资产损失等情况</td>
+		<td>5106257</td>
+		<td>本人不愿意承担以上全部风险和危害，立即关闭界面，停止答题和申请</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>5106256</td>
+	</tr>
+	<tr>
+		<td>1561405</td>
+		<td>在TCP/IP参考模型中，不是由传输层相邻的下一层实现的主要功能是</td>
+		<td>多选题</td>
+		<td>5119856</td>
+		<td>对话管理</td>
+		<td>5119857</td>
+		<td>路由选择</td>
+		<td>5119858</td>
+		<td>端到端报文段传输</td>
+		<td>5119859</td>
+		<td>结点到结点流量控制</td>
+		<td>5119856,5119858,5119859</td>
+	</tr>
+	<tr>
+		<td>1561581</td>
+		<td>下列给出的处理器类型中，理想情况下，CPI为1的是</td>
+		<td>多选题</td>
+		<td>5120379</td>
+		<td>单周期CPU</td>
+		<td>5120380</td>
+		<td>多周期CPU</td>
+		<td>5120381</td>
+		<td>基本流水线CPU</td>
+		<td>5120382</td>
+		<td>超标量流水线CPU</td>
+		<td>5120379,5120381</td>
+	</tr>
+	<tr>
+		<td>1561585</td>
+		<td>HTTP是一个无状态协议，然而Web站点经常希望能够识别用户，这时需要用到Cookie</td>
+		<td>单选题</td>
+		<td>5120391</td>
+		<td>正确</td>
+		<td>5120392</td>
+		<td>错误</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>5120391</td>
+	</tr>
+	<tr>
+		<td>1561589</td>
+		<td>若一个栈的入栈序列为1、2、3、...、N，输出序列的第一个元素是i，则第j个输出的元素是i-j</td>
+		<td>单选题</td>
+		<td>5120401</td>
+		<td>正确</td>
+		<td>5120402</td>
+		<td>错误</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>5120402</td>
+	</tr>
+	<tr>
+		<td>1561606</td>
+		<td>主机A和主机B之间已建立了一个TCP连接，TCP最大段长度为1000字节。若主机A的当前拥塞窗口为4000字节，在主机A向主机B连续发送两个最大段后，成功收到主机B发送的对第一个段的确认段，确认段中通告的接收窗口大小为2000字节，则此时主机A还可以向主机B发送的最大字节数是</td>
+		<td>单选题</td>
+		<td>5120450</td>
+		<td>1000</td>
+		<td>5120451</td>
+		<td>2000</td>
+		<td>5120452</td>
+		<td>3000</td>
+		<td>5120453</td>
+		<td>4000</td>
+		<td>5120450</td>
+	</tr>
+	<tr>
+		<td>1561610</td>
+		<td>一个TCP连接总是以1KB的最大段发送TCP段，发送方有足够多的数据要发送。当拥塞窗口为16KB时发生了超时，如果接下来的4个RTT（往返时间）时间内的TCP段的传输都是成功的，那么当第4个RTT时间内发送的所有TCP段都得到肯定应答时，拥塞窗口大小是</td>
+		<td>单选题</td>
+		<td>5120458</td>
+		<td>7KB</td>
+		<td>5120459</td>
+		<td>8KB</td>
+		<td>5120460</td>
+		<td>9KB</td>
+		<td>5120461</td>
+		<td>10KB</td>
+		<td>5120460</td>
+	</tr>
+	<tr>
+		<td>1561612</td>
+		<td>主机A与主机B之间已建立一个TCP连接，双方持续有数据传输，且数据无差错与丢失。若A收到1个来自B的TCP段，该段的序号为1913、确认序号为2046、有效载荷为100字节，则A立即发送给B的确认序号和TCP段序号分别是</td>
+		<td>单选题</td>
+		<td>5120464</td>
+		<td>2046 2013</td>
+		<td>5120465</td>
+		<td>2013 2046</td>
+		<td>5120466</td>
+		<td>2047 2012</td>
+		<td>5120467</td>
+		<td>2012 2047</td>
+		<td>5120464</td>
+	</tr>
+	<tr>
+		<td>1561618</td>
+		<td>对给定的关键字序列110,119,007,911,114,120,122进行基数排序，则第2趟分配收集后得到的关键字序列是</td>
+		<td>单选题</td>
+		<td>5120476</td>
+		<td>007,110,119,114,911,120,122</td>
+		<td>5120477</td>
+		<td>007,110,119,114,911,122,120</td>
+		<td>5120478</td>
+		<td>007,110,911,114,119,120,122</td>
+		<td>5120479</td>
+		<td>110,120,911,122,114,007,119</td>
+		<td>5120478</td>
+	</tr>
+	<tr>
+		<td>1557482</td>
+		<td>请写出您申请BL解锁的具体用途</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1561577</td>
+		<td>请简述使用小米手机抓取284log的作用</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1557483</td>
+		<td>请截图本页面，并上传截图</td>
+		<td>文件题</td>
+		<td>0</td>
+		<td>[截图识别码3161-1]未正确上传该页面截图或伪造截图，将视为无效答卷，无法通过审核</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1561578</td>
+		<td>请简述如果手机只能进入FASTBOOT，意味着什么</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1561579</td>
+		<td>请谈谈你对小米BL解锁申请的看法</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1561580</td>
+		<td>有部分用户填空题的答案雷同，甚至标点符号、格式、措辞几乎完全一致，导致其答题无效，请你谈谈对于这类违规用户应该如何处理</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1561426</td>
+		<td>请写出BL解锁对手机的危害</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1561553</td>
+		<td>请简述卡刷可以用来解决哪些问题</td>
+		<td>填空题</td>
+		<td>0</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>1561619</td>
+		<td>下列关于RISC的叙述中，错误的是</td>
+		<td>单选题</td>
+		<td>5120480</td>
+		<td>RISC普遍采用微程序控制器</td>
+		<td>5120481</td>
+		<td>RISC大多数指令在一个时钟周期内完成</td>
+		<td>5120482</td>
+		<td>RISC的内部通用寄存器数量相对CISC多</td>
+		<td>5120483</td>
+		<td>RISC的指令数、寻址方式和指令格式种类相对CISC少</td>
+		<td>5120480</td>
+	</tr>
+</table>
 
 ## 2024.03.12 14:45-15:00
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8756488) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/157)
-- 答题链接: 
+- 答题链接: https://m.beehive.miui.com/8qGdNjsaRn_9eBPfUymgLg/
 - 题目数量: 14 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
@@ -353,7 +658,7 @@
 
 ## 2024.03.12 08:00-08:15 10:45-11:00
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8756467) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/157)
-- 答题链接(更新): 
+- 答题链接(更新): https://m.beehive.miui.com/8qGdNjsaRn_9eBPfUymgLg/
 - 题目数量: 14 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
