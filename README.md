@@ -37,6 +37,9 @@
     -  **Note that some product series DO NOT SUPPORT unlocking (e.g. Redmi Note 13/13 Pro/13 Pro+) according to Xiaomi's current unlocking policy**. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
     -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to use a **CHINA-REGION-XIAOMI-ACCOUNT(that is, registered with a +86 phone)** to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
+## 2024.04.09 08:00-08:15 14:45-15:00 & 2024.04.10 08:00-08:15
+- 题目讨论（尚未发布）
+
 ## 2024.03.26 14:45-15:00 & 2024.03.27 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8925624) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/170)
 - 答题链接: https://m.beehive.miui.com/QBOSU7MPzlTtmePYaEzylg/
