@@ -1,15 +1,14 @@
 # Xiaomi-BootLoader-Questionnaire
 小米 BootLoader《解锁资格答题测试》更新记录
 
-- **官方提示**：**为确保答题的公平性，提升答题体验**，每周将安排多场答题时间（法定假期除外）。**近期答题场次如下**：**4 月 9 日上午 8:00 - 8:15、4 月 9 日下午 14:45 - 15:00、4 月 10 日上午 8:00 - 8:15**，您可以任选其中一个时段参与，**每次参与需间隔 7 天**，还请合理安排答题时间（温馨提示：每场答题的**最迟进场时间为该场次答题开始后的 10 分钟**）。
-- 答题成绩每周一晚上 23:59 失效，如答题通过，请务必在周一晚上 23:59 前完成资格申请，避免成绩失效影响申请。
+- **官方提示**：**为确保答题的公平性，提升答题体验**，每周将安排多场答题时间（法定假期除外）。**近期答题场次如下：4 月 9 日上午 8:00 - 8:15、4 月 9 日下午 14:45 - 15:00、4 月 10 日上午 8:00 - 8:15**，您可以任选其中一个时段参与，**每次参与需间隔 7 天**，还请合理安排答题时间（温馨提示：每场答题的**最迟进场时间为该场次答题开始后的 10 分钟**）。答题成绩每周一晚上 23:59 失效，如答题通过，请务必在**周一晚上 23:59 前**完成资格申请，避免成绩失效影响申请。
 - **温馨提示**：**请务必不要直接复制、务必不要直接复制、务必不要直接复制**解析中填空题的答案。
 > 有部分用户填空题的答案雷同，**甚至标点符号、格式、措辞几乎完全一致**，导致其答题无效，请你谈谈对于这类违规用户应该如何处理 【填空题】
 - **警告**：**您不得通过「小米社区」APP 以外的方式参与答题**。否则，您的账号将有可能：
   - **被永久拉入 BL 解锁风控黑名单**（绑定账号提示“账号权限不足或者账号受限”），后续该帐号不仅无法再解锁 HyperOS 设备，**甚至也不能解锁 MIUI 设备**，**且客服无法解封**！
   - **被永久拉入「小米社区」黑名单**（访问社区提示“访问小米社区受限，请几天后再试”），进入社区不能加载数据，**也无法继续使用包括内测申请、BL 解锁申请等任何社区相关功能**，**且客服无法解封**！
   - **被踢出「小米社区」当前所有已通过的内测项目**、**收回已获取到的 HyperOS BL 解锁权限**、《BL 解锁答题资格测试》分数清零等，如需继续参与项目，需要重新申请，**且大概率不会再通过审批**！
-- 注：自 2024.02.29 16:00 起，小米隐藏了加入 BL 解锁圈子的人数，故目前无法获知任何有关解锁审核的具体情况。
+- 注：自 2024.02.29 16:00 起，小米隐藏了加入 BL 解锁圈子的人数，故无法再获知任何有关解锁审核的具体情况。
 - 本记录**不是**小米官方统计项目。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。文字游戏较多，注意题目和选项的细节。答案为收集整理，不一定完全正确，欢迎提交你的答案。
 - 祝你们每个人都能天天签到 30 分，早日通过申请审批，解锁 BootLoader。在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户，感谢你们为 Android 刷机社区做出的贡献。
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
@@ -35,10 +34,10 @@
     -  **Note that some product series DO NOT SUPPORT unlocking (e.g. Redmi Note 13/13 Pro/13 Pro+) according to Xiaomi's current unlocking policy**. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
     -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to use a **CHINA-REGION-XIAOMI-ACCOUNT(that is, registered with a +86 phone)** to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
-## 2024.04.09 08:00-08:15 14:45-15:00 & 2024.04.10 08:00-08:15
+## 2024.04.09 08:00-08:15 14:45-15:00、2024.04.10 08:00-08:15
 - 题目讨论（尚未发布）
 
-## 2024.03.26 14:45-15:00 & 2024.03.27 08:00-08:15
+## 2024.03.26 14:45-15:00、2024.03.27 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-8925624) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/170)
 - 答题链接: https://m.beehive.miui.com/QBOSU7MPzlTtmePYaEzylg/
 - 题目数量: 19 (必答题) + 2 (选答题)
