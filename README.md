@@ -25,7 +25,7 @@
 - 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
 
 ## 声明 / Disclaimer
-- **严正声明**：由于个别小米社区员工采用无理取闹的方式在答题时段频繁开关答题问卷、修改题目表述并更换选项内容，导致用户原本选择的正确答案被系统判定为错误。此举导致许多用户答题得分畸低，严重破坏了答题体验，也深深地伤害了广大米粉的心。且近期答题通过率几乎为 0 主要是由于填空题不审核、不出分导致的，本「小米 BootLoader《解锁资格答题测试》更新记录」拒绝为此背黑锅。同时，我们在此呼吁各位有解锁需求的小米用户共同抵制上述违规行为，营造良性答题环境。我们期待小米官方能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。 [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
+- **严正声明**：本题库及相关项目用爱发电，完全免费，**符合小米对“发烧友”的定义**。我们期待**小米社区官方**能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。 [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
 > - 发烧友具备**分享精神**，因此在有一些好的知识或经验时，**会积极分享和交流**，不会去利用“资源”去“谋利”
 > - 发烧友具备**学习精神**，因此在遇到新鲜事物或新知识时，**会乐于学习和钻研**，不会肆意谩骂
 > - 发烧友具备**探究精神**，因此在遇到不了解的问题时，**会在合理范围内主动探寻答案**，但不会寻求不正当“捷径”或采用违规方式
@@ -43,7 +43,7 @@
   - If you are trying to unlock HyperOS running on **CHINA-MAINLAND DEVICES**:
     -  If your device **IS NOT PRE-INSTALLED WITH HyperOS**: Congratulations! You can try using [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) to bind your account. If you encounter `Request parameter error (10000)`, please refer to [here](https://twitter.com/realMlgmXyysd/status/1748386904050110675).
     -  **Note that some product series DO NOT SUPPORT unlocking (e.g. Redmi Note 13/13 Pro/13 Pro+) according to Xiaomi's current unlocking policy**. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
-    -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to use a **CHINA-REGION-XIAOMI-ACCOUNT(that is, registered with a +86 phone)** to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
+    -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
 ## 2024.04.16 08:00-08:15、2024.04.17 08:00-08:15
 - 题目讨论(尚未发布)
