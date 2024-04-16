@@ -13,7 +13,7 @@
   - **请务必不要直接复制**解析中填空题的答案，否则将会**被清零答题分数并喜提警告一次**。
 - **官方提示**：
   - **为确保答题的公平性，提升答题体验**，每周将安排多场答题时间（法定假期除外）。
-  - **4 月 16 日上午 8:00-8:15、4 月 17 日上午 8:00-8:15、4 月 23 日上午 8:00-8:15、4 月 24 日上午 8:00-8:15、5 月 14 日上午 8:00-8:15、5 月 15 日上午 8:00-8:15、5 月 21 日上午 8:00-8:15、5 月 22 日上午 8:00-8:15、5 月 28 日上午 8:00-8:15、5 月 29 日上午 8:00-8:15**，您可以任选其中一个时段参与，**每次参与需间隔 7 天**，还请合理安排答题时间
+  - **4月19日上午8:00 - 8:15、4月23日上午8:00 - 8:15、5月14日上午8:00 - 8:15、5月15日上午8:00 - 8:15、5月21日上午8:00 - 8:15、5月22日上午8:00 - 8:15、5月28日上午8:00 - 8:15、5月29日上午8:00 - 8:15**，您可以任选其中一个时段参与，**每次参与需间隔7天**，还请合理安排答题时间。
   - 每场答题的**最迟进场时间为该场次答题开始后的 10 分钟**。
   - **答题成绩每周一晚上 23:59 失效**，如答题通过，请务必在周一晚上 23:59 前完成资格申请，避免成绩失效影响申请。
 - **警告**：**您不得通过「小米社区」APP 以外的方式参与答题**。否则，您的账号将有可能：
@@ -46,8 +46,8 @@
     -  **Note that some product series DO NOT SUPPORT unlocking (e.g. Redmi Note 13/13 Pro/13 Pro+) according to Xiaomi's current unlocking policy**. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
     -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
-## 2024.04.16 08:00-08:15、2024.04.17 08:00-08:15
-- 题目讨论(尚未发布)
+## 2024.04.16 08:00-08:15、2024.04.19 08:00-08:15
+- [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/179)
 
 ## 2024.04.09 08:00-08:15 14:45-15:00、2024.04.10 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9055960) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/173)
@@ -287,7 +287,7 @@
 		<td>SPOOLing需要外存的支持</td>
 		<td></td>
 		<td></td>
-		<td>5165568,5165569,5165570</td>
+		<td>5165568,5165569</td>
 	</tr>
 	<tr>
 		<td>1574514</td>
@@ -745,7 +745,7 @@
 		<td>SPOOLing需要外存的支持</td>
 		<td></td>
 		<td></td>
-		<td>5147338,5147339,5147340</td>
+		<td>5147338,5147339</td>
 	</tr>
 	<tr>
 		<td>1569544</td>
