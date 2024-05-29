@@ -52,6 +52,7 @@
 ## 2024.05.29 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9592918) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/191)
 - 答题链接: https://m.beehive.miui.com/nfE33DEReogqTdvq9AteGg/
+- 题目数量(更新): 17 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
 - 得分有效期: 2024 年 5 月 28 日 00:00 - 2024 年 6 月 3 日 23:59
@@ -455,6 +456,7 @@
 ## 2024.05.28 08:00-08:15、2024.05.29 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9592917) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/191)
 - 答题链接(更新): https://m.beehive.miui.com/nfE33DEReogqTdvq9AteGg/
+- 题目数量(更新): 17 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
 - 得分有效期(更新): 2024 年 5 月 28 日 00:00 - 2024 年 6 月 3 日 23:59
@@ -858,6 +860,7 @@
 ## 2024.05.15 08:00-08:15、2024.05.21 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9502739) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/187)
 - 答题链接: https://m.beehive.miui.com/MF09v5DfQVvqe6r2eG-oWQ/
+- 题目数量: 18 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
 - 2024.05.15 得分有效期: 2024 年 5 月 14 日 00:00 - 2024 年 5 月 20 日 23:59
@@ -1280,6 +1283,7 @@
 ## 2024.05.14 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9502736) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/187)
 - 答题链接(更新): https://m.beehive.miui.com/MF09v5DfQVvqe6r2eG-oWQ/
+- 题目数量(更新): 18 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
 - 得分有效期(更新): 2024 年 5 月 14 日 00:00 - 2024 年 5 月 20 日 23:59
@@ -1701,6 +1705,7 @@
 ## 2024.04.23 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9197240) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/184)
 - 答题链接: https://m.beehive.miui.com/xBXDKX4BC8FpS6063P4o2w/
+- 题目数量: 19 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
 - 得分有效期(更新): 2024 年 4 月 23 日 00:00 - 2024 年 4 月 29 日 23:59
@@ -2139,6 +2144,7 @@
 ## 2024.04.19 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9185874) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/179)
 - 答题链接: https://m.beehive.miui.com/xBXDKX4BC8FpS6063P4o2w/
+- 题目数量: 19 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
 - 得分有效期: 2024 年 4 月 16 日 00:00 - 2024 年 4 月 22 日 23:59
@@ -2578,6 +2584,7 @@
 ## 2024.04.16 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9132067) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/179)
 - 答题链接(更新): https://m.beehive.miui.com/xBXDKX4BC8FpS6063P4o2w/
+- 题目数量: 19 (必答题) + 2 (选答题)
 - 合格分数: 86
 - 时间限制: **建议最短不少于 5 分钟**；**最长不超过 15 分钟，需要在 倒计时结束前 和 本场次答题的规定时间结束前 提交本问卷，超时提交将无法展示分数**
 - 得分有效期(更新): 2024 年 4 月 16 日 00:00 - 2024 年 4 月 22 日 23:59
