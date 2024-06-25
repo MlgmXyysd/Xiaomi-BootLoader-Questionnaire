@@ -51,7 +51,7 @@
 
 ## 2024.06.25 08:00-08:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9818118) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/193)
-- 答题链接(更新): 
+- 答题链接(更新): https://m.beehive.miui.com/Hlo4iCBH5arX7uK_J4N9UA/
 - 问卷星级(更新): ★★★☆☆
 - 题目数量: 单选题 x5 + 多选题 x3 + 填空题 x3
 - 合格分数: 86
@@ -420,7 +420,7 @@
 - 题目数量(更新): 单选题 x5 + 多选题 x3 + 填空题 x3
 - 合格分数: 86
 - 时间限制: 最短不少于 5 分钟，最长不超过 15 分钟
-- 得分有效期(更新): 2024 年 6 月 17 日 00:00 - 2024 年 6 月 24 日 23:59
+- 得分有效期: 2024 年 6 月 17 日 00:00 - 2024 年 6 月 24 日 23:59
 - 注:
   1. **您必须在 08:00:00 - 08:10:00 之间进场，且最晚必须在 08:14:59 提交问卷，否则答题一律无效**;
   2. **【单选题】+【多选题】满分 80 分，【公告题】、【截图题】和【选做题】不计分**;
