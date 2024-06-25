@@ -50,7 +50,7 @@
     -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
 ## 2024.06.25 08:00-08:15
-- [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9818118) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/193)
+- [题目解析]() [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/193)
 - 答题链接(更新): https://m.beehive.miui.com/Hlo4iCBH5arX7uK_J4N9UA/
 - 问卷星级(更新): ★★★☆☆
 - 题目数量: 单选题 x5 + 多选题 x3 + 填空题 x3
