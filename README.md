@@ -3,6 +3,7 @@
 
 ## 提示 / Reminder
 - **特别提示**：
+  - 为方便查阅，我们制作了**题库汇总**，内含所有出现过的题目。[**题库传送门**](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)。
   - 小米方面目前仍然在**不断加紧限制**，包括但不限于**临时随意增设或调整答题场次**，且遇到特殊日期也不开放答题（**~~耍猴呢~~**）；**无故封禁有解锁资格的账号、不予说明原因且不予解封**（见酷安相关讨论帖）。因此，我们建议有解锁需求的用户，谨慎购买出厂澎湃机型。
   - 您必须在每场答题时间**开始后的五分钟内进场**，且最晚必须在该场答题时间**结束前的最后一秒提交问卷**，否则答题一律无效。
   - 若您的小米账号**在绑定设备时提示账号权限不足或者账号受限**，或者绑定成功、但**解锁工具提示账号权限不足或者账号受限**，则代表**该账号已被禁止解锁**。唯一的方法就是**更换其他账号**，通过澎湃 OS 的 BL 解锁申请**并不能解除前述限制**。
@@ -50,6 +51,7 @@
 
 ## 2024.07.23 08:00-08:15、2024.07.24 08:00-08:15
 - [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/200)
+- [题库汇总](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)
 
 ## 2024.07.09 08:00-08:15 15:00-15:15 16:00-16:15 17:00-17:15
 - [题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4#discussioncomment-9996817) [题目讨论](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/200)
