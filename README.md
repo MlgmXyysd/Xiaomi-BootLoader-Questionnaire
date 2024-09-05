@@ -1,6 +1,133 @@
 # Xiaomi-BootLoader-Questionnaire
 小米 BootLoader《解锁资格答题测试》更新记录
 
+## 2024 年度大事记
+- 社区公告原文</br>
+`由于本内测资格仅供 2024 年使用，为确保使用体验，本年度最后两场答题时间调整为 2024 年 9 月 5 日下午 18:00 - 18:15、9 月 5 日下午 18:30 - 18:45。`</br>
+`2024 年度的资格申请截止时间为 2024 年 9 月 9 日晚上 23:59，请在截止时间前完成申请。2025 年度的资格申请即将开始，具体细则请关注小米社区。`
+- 米米的文字游戏
+<table>
+    <tr>
+        <th>出现时间</th>
+        <th>选项内容</th>
+    </tr>
+    <tr>
+        <td align="center">2023.12.21</td>
+        <td>原始设备制造商简称 OEM，是英文 Original <b>Equipment</b> Manufacturer 的缩写</td>
+    </tr>
+    <tr>
+        <td align="center">2023.12.22</td>
+        <td>原始设备制造商简称 OEM，是英文 Original <b>Environment</b> Manufacturer 的缩写</td>
+    </tr>
+    <tr>
+        <td align="center">2023.12.21</td>
+        <td>adb的全称是 Android Debug <b>Bridge</b>，起到调试桥的作用</td>
+    </tr>
+    <tr>
+        <td align="center">2024.01.05</td>
+        <td>adb的全称是 Android Debug <b>Badge</b>，起到调试桥的作用</td>
+    </tr>
+    <tr>
+        <td align="center">2023.12.21</td>
+        <td><b>inet</b> 是 UNIX 系统最重要的网络服务进程</td>
+    </tr>
+    <tr>
+        <td align="center">2024.01.04</td>
+        <td><b>inetd</b> 是 UNIX 系统最重要的网络服务进程</td>
+    </tr>
+    <tr>
+        <td align="center">网上原题</td>
+        <td>QPI 总线是一种点对点全工同步串行总线，总线上的设备可同时接收和发送信息，每个方向可同时传输 20 位信息（16 位数据 + 4 位校验位），每个 QPI 数据包有 80 位信息，分 2 个时钟周期传送，每个时钟周期传递 2 次。因此，QPI 总线带宽为：每秒传送次数 × 2B × 2。若 QPI 时钟频率为 <b>2.4GHz</b>，则总线带宽为 19.2GB/s</td>
+    </tr>
+    <tr>
+        <td align="center">2024.03.19</td>
+        <td>QPI 总线是一种点对点全I同步串行总线，总线上的设备可同时接收和发送信息，每个方向可同时传输 20 位信息（16 位数据 + 4 位校验位），每个 QPI 数据包有 80 位信息，分 2 个时钟周期传送，每个时钟周期传递 2 次。因此，QPI 总线带宽为：每秒传送次数 × 2B × 2。若 QPI 时钟频率为 <b>1.2GHz</b>，则总线带宽为 19.2GB/s</td>
+    </tr>
+    <tr>
+        <td align="center">2024.03.12</td>
+        <td>类加载器的顺序是，先是 Bootstrap ClassLoader，然后是 <b>Extension</b> ClassLoader，最后是 System ClassLoader</td>
+    </tr>
+    <tr>
+        <td align="center">2024.03.19</td>
+        <td>类加载器的顺序是，先是 Bootstrap ClassLoader，然后是 <b>Examination</b> ClassLoader，最后是 System ClassLoader</td>
+    </tr>
+    <tr>
+        <td align="center">2024.03.19</td>
+        <td>TDM 的全称是 <b>Time</b> Division Multiplexing，是指所有用户在不同的时间占用同样的频带宽度</td>
+    </tr>
+    <tr>
+        <td align="center">2024.04.19</td>
+        <td>TDM 的全称是 <b>Total</b> Division Multiplexing，是指所有用户在不同的时间占用同样的频带宽度</td>
+    </tr>
+    <tr>
+        <td align="center">2024.03.26</td>
+        <td>I2C 也可以叫 IIC，是两线式<b>串行</b>通信总线，用于设备间的通讯</td>
+    </tr>
+    <tr>
+        <td align="center">2024.05.15</td>
+        <td>I2C 也可以叫 IIC，是两线式<b>并行</b>通信总线，用于设备间的通讯</td>
+    </tr>
+    <tr>
+        <td align="center">2023.12.21</td>
+        <td>对称加密最大的<b>缺点</b>在于其密钥管理困难</td>
+    </tr>
+    <tr>
+        <td align="center">2024.05.29</td>
+        <td>对称加密最大的<b>优点</b>在于其密钥管理困难</td>
+    </tr>
+    <tr>
+        <td align="center">2023.11.08</td>
+        <td>官方提供给用户的刷机工具是 <b>MiFlash</b></td>
+    </tr>
+    <tr>
+        <td align="center">2024.06.18</td>
+        <td>小米刷机工具是 <b>MiFlush</b></td>
+    </tr>
+    <tr>
+        <td align="center">2023.12.08</td>
+        <td>S_FT_NEED_<b>DOWNLOAD</b>_ALL_FAIL：目标 ROM 文件和手机系统差距过大</td>
+    </tr>
+    <tr>
+        <td align="center">2024.07.09</td>
+        <td>S_FT_NEED_<b>DOWNLOAO</b>_ALL_FAIL：目标 ROM 文件和手机系统差距过大</td>
+    </tr>
+    <tr>
+        <td align="center">2023.12.08</td>
+        <td>S_BROM_CMD_<b>STARTCMD</b>_FAIL：没有加载好刷机包文件</td>
+    </tr>
+    <tr>
+        <td align="center">2024.07.09</td>
+        <td>S_BROM_CMD_<b>STARTCMO</b>_FAIL：没有加载好刷机包文件</td>
+    </tr>
+    <tr>
+        <td align="center">2024.07.09</td>
+        <td>退出 Activity 的方法有 finish()、<b>onStop()</b>、抛异常强制退出</td>
+    </tr>
+    <tr>
+        <td align="center">2024.07.23</td>
+        <td>退出 Activity 的方法有 finish()、<b>onSlop()</b>、抛异常强制退出</td>
+    </tr>
+    <tr>
+        <td align="center">2024.07.09</td>
+        <td>某系统用页式存储管理，用位图管理空闲页框，若页大小为 4KB，物理内存大小为 <b>16GB</b>，则位图所占空间的大小是 512KB</td>
+    </tr>
+    <tr>
+        <td align="center">2024.08.13</td>
+        <td>某系统用页式存储管理，用位图管理空闲页框，若页大小为 4KB，物理内存大小为 <b>16KB</b>，则位图所占空间的大小是 512KB</td>
+    </tr>
+    <tr>
+        <td align="center">2024.07.09</td>
+        <td>TCP、IP、UDP 协议分别用来直接封装 RIP、OSPF、<b>BGP</b></td>
+    </tr>
+    <tr>
+        <td align="center">2024.08.13</td>
+        <td>TCP、IP、UDP 协议分别用来直接封装 RIP、OSPF、<b>BDP</b></td>
+    </tr>
+</table>
+
+- 政策变动历史
+
+
 ## 提示 / Reminder
 - **特别提示**：
   - 为方便查阅，我们制作了**题库汇总**，内含所有出现过的题目。[**题库传送门**](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)。
