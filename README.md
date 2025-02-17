@@ -6,18 +6,18 @@
 - **「那么，是时候说再见啦。」**
 - 相信大家已经发现，在部分机型 HyperOS 的末期版本，已经禁止了对设置进行降级（黑名单），这与我们之前的猜测相符。而在 HyperOS 2 中，由于底层已更新至 Android 15，不再可能将设置降级为 Android 14 的版本。
 - 虽然 HyperOS BootLoader Bypass 项目配合我们已掌握的新漏洞，在 HyperOS 2 中仍可用于绕过社区解锁资格，但由于该漏洞的危险性略高于目前已公开的，我们决定不公开该漏洞的 PoC。
-- 我们建议，如您仍有解锁 BootLoader 的需求，那么最好的方法是**不要购入任何出厂为 HyperOS 的，以及受到特殊关照的小米系设备（例如: 红米 Note 13/13 Pro/13 Pro+），包括海外版本**。**现有设备请务必在解锁后再进行升级，以免造成不便**。若您的设备已不幸升级，请咨询售后以请求降级系统。
-- **我们仍期待着小米对玩机群体再次张开怀抱的那一天，就像小米永远相信美好的事情即将发生那样。**
+- 我们建议，如您仍有解锁 BootLoader 的需求，那么最好的方法是**不要购入任何出厂为 HyperOS 的**，**以及受到特殊关照的小米系设备（例如: 红米 Note 13/13 Pro/13 Pro+）**，**包括海外版本**。**现有设备请务必在解锁后再进行升级**，**以免造成不便**。若您的设备已不幸升级，请咨询售后以请求降级系统。
+- **我们仍期待着小米对玩机群体再次张开怀抱的那一天**，**就像小米永远相信美好的事情即将发生那样**。
 - 最后，记得按时答题哟。
 - **"Well, this is the last dance."**
 - We believe someone has already noticed that in the later versions of HyperOS on some models, downgrading the Settings has been prohibited (blacklisted), which confirms our previous speculation. In HyperOS 2, it is no longer possible to downgrade the Settings to Android 14 one, as the system has now been updated to Android 15.
 - While the HyperOS BootLoader Bypass project, in conjunction with the new vulnerabilities we already mastered, can still be used in HyperOS 2 to bypass community qualification, we've decided not to disclose the PoC for these new vulnerabilities. This is due to their slightly more dangerous than the previously disclosed.
-- We recommend that if you still have the requirement to unlock the BootLoader, then the best approach is **NOT to purchase any devices that release with HyperOS, including overseas variants** (e.g. Redmi Note 13/13 Pro/13 Pro+). **Stock devices should always be unlocked before upgrading to HyperOS 2 to avoid any inconvenience**. If you have already upgraded your device, please consult the after-sales service to request a system downgrade.
-- **We still look forward to the day when Xiaomi rediscovers its geek spirit, just as Xiaomi always believes that something wonderful is about to happen.**
+- We recommend that if you still have the requirement to unlock the BootLoader, then the best approach is **NOT to purchase any devices that release with HyperOS**, **including overseas variants** (e.g. Redmi Note 13/13 Pro/13 Pro+). **Stock devices should always be unlocked before upgrading to HyperOS 2 to avoid any inconvenience**. If you have already upgraded your device, please consult the after-sales service to request a system downgrade.
+- **We still look forward to the day when Xiaomi rediscovers its geek spirit**, **just as Xiaomi always believes that something wonderful is about to happen**.
 - By the way, at 00:00 UTC+8 every day, remember to open the Xiaomi community to apply for unlocking.
 
 ## 声明 / Disclaimer
-- 本记录**不是小米官方统计项目，与小米官方与小米社区无关**。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。**文字游戏较多，注意题目和选项的细节**。**答案为收集整理，不一定完全正确**，欢迎提交你的答案。
+- 本记录**不是小米官方统计项目**，**与小米官方与小米社区无关**。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。**文字游戏较多**，**注意题目和选项的细节**。**答案为收集整理**，**不一定完全正确**，欢迎提交你的答案。
 - **严正声明**：本题库及相关项目**用爱发电**，完全免费，**符合小米对“发烧友”的定义**。我们期待小米社区官方能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。 [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
 > - 发烧友具备**分享精神**，因此在有一些好的知识或经验时，**会积极分享和交流**，不会去利用“资源”去“谋利”
 > - 发烧友具备**学习精神**，因此在遇到新鲜事物或新知识时，**会乐于学习和钻研**，不会肆意谩骂
