@@ -1,5 +1,5 @@
 # Xiaomi-BootLoader-Questionnaire
-小米 BootLoader《解锁资格答题测试》更新记录
+小米 2025 年 BootLoader《解锁资格答题测试》更新记录
 
 ## 写在前面 / Preface
 - **「那么，是时候说再见啦。」**
@@ -173,17 +173,6 @@
 - 该项目完全免费，如果你从他人手中购买了此项目的内容，请申请退款并向平台举报倒卖行为。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
 - This project is completely free. If you purchased the content of this project from others, please apply for a refund and report to the platform for reselling behavior. If you want to express your gratitude to authors, you can sponsor through the following channels: [爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
 
-## 工具集 / Utilities
-- Bypass PoC: 如果您的设备不是出厂搭载 HyperOS，您可尝试使用漏洞进行绑定，成功则无需参与答题: [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)；如遇报错 `Request parameter error (10000)`，请参考[此处](https://www.coolapk.com/feed/53042929?shareKey=NzhmMGE5MTIxOWIwNjVjNDlhMzM)。
-- **请注意**: 根据小米目前的解锁政策，**部分产品系列不支持解锁（例如: 红米 Note 13/13 Pro/13 Pro+）**；如您绑定时提示“系统升级维护中”，表示小米**不允许您的设备进行解锁**，无论您的设备当前运行的是 HyperOS 还是 MIUI，也无论您是否拥有 HyperOS BL 解锁权限。
-- 《五年解锁 三年模拟》: 为了辅助用户答题，我们为项目制作了[网站](https://xmbl.neko.ink/)，网站目前有「知识库」和「模拟答题」功能，内容跟随仓库更新。网站目前仍处于测试阶段，如有反馈或建议，请在 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues) 或 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions) 提出。
-- **Notice for International users**:
-  - If you are trying to unlock HyperOS running on **NON-CHINA-MAINLAND DEVICES**:
-    -  Congratulations! All you need to do is to install [Xiaomi Community APP](https://play.google.com/store/apps/details?id=com.mi.global.bbs) 5.3.31+, and then click on "ME - Unlock bootloader - Apply for unlocking" to obtain unlocking permissions without waiting for any approval.
-  - If you are trying to unlock HyperOS running on **CHINA-MAINLAND DEVICES**:
-    -  If your device **IS NOT PRE-INSTALLED WITH HyperOS**: Congratulations! You can try using [Xiaomi-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) to bind your account. If you encounter `Request parameter error (10000)`, please refer to [here](https://twitter.com/realMlgmXyysd/status/1748386904050110675).
-    -  **Note that some product series DO NOT SUPPORT unlocking (e.g. Redmi Note 13/13 Pro/13 Pro+)** according to Xiaomi's current unlocking policy. If you encounter `The system is being upgraded. Please try again later. (30003)`, it means that your device is not allowed to be unlocked.
-    -  Otherwise, the unlocking policy for your device follows [the regulations](https://web.vip.miui.com/page/info/mio/mio/testDetails?type=BL_BLOCK&id=-1) that apply to mainland China region. You have to meet the applying requirements, then apply for unlocking and wait for your request to be approved.
 
 ## 2024.09.10 08:00-08:15
 - [题库汇总](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)
