@@ -16,6 +16,18 @@
 - **We still look forward to the day when Xiaomi rediscovers its geek spirit, just as Xiaomi always believes that something wonderful is about to happen.**
 - By the way, at 00:00 UTC+8 every day, remember to open the Xiaomi community to apply for unlocking.
 
+## 声明 / Disclaimer
+- 本记录**不是小米官方统计项目，与小米官方与小米社区无关**。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。**文字游戏较多，注意题目和选项的细节**。**答案为收集整理，不一定完全正确**，欢迎提交你的答案。
+- **严正声明**：本题库及相关项目**用爱发电**，完全免费，**符合小米对“发烧友”的定义**。我们期待小米社区官方能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。 [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
+> - 发烧友具备**分享精神**，因此在有一些好的知识或经验时，**会积极分享和交流**，不会去利用“资源”去“谋利”
+> - 发烧友具备**学习精神**，因此在遇到新鲜事物或新知识时，**会乐于学习和钻研**，不会肆意谩骂
+> - 发烧友具备**探究精神**，因此在遇到不了解的问题时，**会在合理范围内主动探寻答案**，但不会寻求不正当“捷径”或采用违规方式
+> <div align="center"><img src="https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/assets/27143040/d9ee55b2-edb5-4c18-b84e-56c28358df77" height="400px" /></div>
+- 该项目**完全免费**，**如果你从他人手中购买了此项目的内容**，**请申请退款并向平台举报倒卖行为**。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
+- This project is **completely free**. **If you purchased the content of this project from others**, **please apply for a refund and report to the platform for reselling behavior**. If you want to express your gratitude to authors, you can sponsor through the following channels: [爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
+- 祝你们每个人都能天天签到 66 分，早日通过申请审批，解锁 BootLoader。**在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户**，感谢你们为 Android 刷机社区做出的贡献。
+- 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
+
 ## 提示 / Reminder
 - **特别提示（非官方）**：
   - 为方便查阅，我们制作了**题库汇总**，内含所有出现过的题目。[**题库传送门**](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)。
@@ -37,19 +49,6 @@
   - 资格审查内容包括：小米账号注册时间是否满 180 天；近 180 天在小米社区**有无违规记录**（包括但不限于警告、禁言、封号等）；近 180 天**有无修改安全手机或安全邮箱的行为**；近 180 天**使用设备变动**或 **IP 属地变动的情况**（合理使用情况下的 IP 属地变动/更换设备不受影响）；**在申请全程各环节是否是使用同一设备**；**答题或报名过程中有无违规行为等**。
   - 为保护用户信息安全，资格审查环节仅告知资格审查结果**通过/未通过**。
   - 为避免用户虚占名额，在资格审查通过后，请及时完成设备解锁，谨慎操作。**如出现用户主动退出本项目、资格到期未使用等情况**，**不论所获得的解锁权限是否实际使用**，**均无法再次通过本项目的资格审查**。
-- 本记录**不是小米官方统计项目**。各 ID 为 Beehive 问卷内部 ID，供用户写脚本使用。选项以 ID 从小到大排序，实际答题时顺序可能会随机变动。**文字游戏较多，注意题目和选项的细节**。答案为收集整理，不一定完全正确，欢迎提交你的答案。
-- 祝你们每个人都能天天签到 66 分，早日通过申请审批，解锁 BootLoader。**在此感谢所有参与答案讨论、以及贡献自己账号进行试错的用户**，感谢你们为 Android 刷机社区做出的贡献。
-- 催更/纠错左转 [Issues](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/issues)，讨论右转 [Discussions](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions)。
-
-## 声明 / Disclaimer
-- **严正声明**：本题库及相关项目**用爱发电**，完全免费，**符合小米对“发烧友”的定义**。我们期待小米社区官方能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。 [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
-> - 发烧友具备**分享精神**，因此在有一些好的知识或经验时，**会积极分享和交流**，不会去利用“资源”去“谋利”
-> - 发烧友具备**学习精神**，因此在遇到新鲜事物或新知识时，**会乐于学习和钻研**，不会肆意谩骂
-> - 发烧友具备**探究精神**，因此在遇到不了解的问题时，**会在合理范围内主动探寻答案**，但不会寻求不正当“捷径”或采用违规方式
-> <div align="center"><img src="https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/assets/27143040/d9ee55b2-edb5-4c18-b84e-56c28358df77" height="400px" /></div>
-- 该项目完全免费，如果你从他人手中购买了此项目的内容，请申请退款并向平台举报倒卖行为。如果你想对作者表达感谢，可以通过如下渠道无偿赞助：[爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
-- This project is completely free. If you purchased the content of this project from others, please apply for a refund and report to the platform for reselling behavior. If you want to express your gratitude to authors, you can sponsor through the following channels: [爱发电](https://afdian.net/a/MlgmXyysd) [PayPal](https://paypal.me/MlgmXyysd)
-
 
 ## 2024.09.10 08:00-08:15
 - [题库汇总](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)
