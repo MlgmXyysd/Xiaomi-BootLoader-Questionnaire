@@ -1,5 +1,6 @@
 # Xiaomi-BootLoader-Questionnaire
-小米 2025 年 BootLoader《解锁资格答题测试》更新记录
+小米 2025 年 BootLoader《解锁资格答题测试》更新记录<br/>
+[2024 年更新记录传送门 >>>]()
 
 ## 写在前面 / Preface
 - **「那么，是时候说再见啦。」**
