@@ -1,6 +1,20 @@
 # Xiaomi-BootLoader-Questionnaire
 小米 BootLoader《解锁资格答题测试》更新记录
 
+## 写在前面 / Preface
+- **「那么，是时候说再见啦。」**
+- 相信大家已经发现，在部分机型 HyperOS 的末期版本，已经禁止了对设置进行降级（黑名单），这与我们之前的猜测相符。而在 HyperOS 2 中，由于底层已更新至 Android 15，不再可能将设置降级为 Android 14 的版本。
+- 虽然 HyperOS BootLoader Bypass 项目配合我们已掌握的新漏洞，在 HyperOS 2 中仍可用于绕过社区解锁资格，但由于该漏洞的危险性略高于目前已公开的，我们决定不公开该漏洞的 PoC。
+- 我们建议，如您仍有解锁 BootLoader 的需求，那么最好的方法是**不要购入任何出厂为 HyperOS 的，以及受到特殊关照的小米系设备（例如: 红米 Note 13/13 Pro/13 Pro+），包括海外版本**。**现有设备请务必在解锁后再进行升级，以免造成不便**。若您的设备已不幸升级，请咨询售后以请求降级系统。
+- **我们仍期待着小米对玩机群体再次张开怀抱的那一天，就像小米永远相信美好的事情即将发生那样。**
+- 最后，记得按时答题哟。
+- **"Well, this is the last dance."**
+- We believe someone has already noticed that in the later versions of HyperOS on some models, downgrading the Settings has been prohibited (blacklisted), which confirms our previous speculation. In HyperOS 2, it is no longer possible to downgrade the Settings to Android 14 one, as the system has now been updated to Android 15.
+- While the HyperOS BootLoader Bypass project, in conjunction with the new vulnerabilities we already mastered, can still be used in HyperOS 2 to bypass community qualification, we've decided not to disclose the PoC for these new vulnerabilities. This is due to their slightly more dangerous than the previously disclosed.
+- We recommend that if you still have the requirement to unlock the BootLoader, then the best approach is **NOT to purchase any devices that release with HyperOS, including overseas variants** (e.g. Redmi Note 13/13 Pro/13 Pro+). **Stock devices should always be unlocked before upgrading to HyperOS 2 to avoid any inconvenience**. If you have already upgraded your device, please consult the after-sales service to request a system downgrade.
+- **We still look forward to the day when Xiaomi rediscovers its geek spirit, just as Xiaomi always believes that something wonderful is about to happen.**
+- By the way, at 00:00 UTC+8 every day, remember to open the Xiaomi community to apply for unlocking.
+
 ## 提示 / Reminder
 - **特别提示**：
   - 为方便查阅，我们制作了**题库汇总**，内含所有出现过的题目。[**题库传送门**](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)。
