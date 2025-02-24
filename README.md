@@ -1,8 +1,12 @@
 # Xiaomi-BootLoader-Questionnaire
 小米 BootLoader《解锁资格答题测试》更新记录
 
-## 2024 年更新记录存档
-[2024 年存档](history-2024.md)
+## 传送门 / Links
+- [题库汇总](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)（内含所有出现过的题目）
+- [2025 年题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/238)
+- [2024 年题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/4)
+- [2023 年早期题目解析](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/69)
+- [2024 年更新记录存档](history-2024.md)
 
 ## 声明 / Disclaimer
 - **严正声明**：本题库及相关项目**用爱发电**，完全免费，**符合小米对“发烧友”的定义**。我们期待小米社区官方能站在用户角度考虑，降低答题难度至合理水平，并且提升满足 BL 解锁申请条件后的审核通过率，切实回应广大米粉的期待。 [#82](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/82)
@@ -33,7 +37,6 @@
   - 2025 年 4 月 8 日 10:00 - 10:15
   - 2025 年 4 月 22 日 10:00 - 10:15
 - **特别提示（非官方）**：
-  - 为方便查阅，我们制作了**题库汇总**，内含所有出现过的题目。[**传送门**](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire/discussions/95)。
   - 小米方面目前仍然在**不断加紧限制**，包括但不限于**不断删减答题场次、临时随意增设或调整答题场次**，且遇到**特殊日期、系统维护**也不开放答题（**~~早起才发现不开放，明摆着耍猴呢~~**）；**无故封禁有解锁资格的账号、不予说明原因且不予解封**（见酷安相关讨论帖）。因此，我们建议有解锁需求的用户，谨慎购买出厂澎湃机型。
   - 您必须在每场答题时间**开始后的五分钟内进场**，最晚必须在该场答题时间**结束前的最后一秒提交问卷**，且答题**用时必须满 10 分钟**，否则答题一律无效。
   - 若您的小米账号**在绑定设备时提示账号权限不足或者账号受限**，或者绑定成功、但**解锁工具提示账号权限不足或者账号受限**，则代表**该账号已被禁止解锁**。唯一的方法就是**更换其他账号**，通过澎湃 OS 的 BL 解锁申请**并不能解除前述限制**。
